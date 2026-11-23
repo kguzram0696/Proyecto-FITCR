@@ -1,0 +1,27 @@
+[
+  {
+    "Id": "yoga-01",
+    "Nombre": "Yoga",
+    "NombreUsuarioInstructor": "entrenador.prueba"
+  },
+  {
+    "Id": "gimnasio-abierto-01",
+    "Nombre": "Gimnasio abierto",
+    "NombreUsuarioInstructor": "entrenador.prueba"
+  },
+  {
+    "Id": "crossfit-01",
+    "Nombre": "CrossFit",
+    "NombreUsuarioInstructor": "entrenador.prueba"
+  },
+  {
+    "Id": "zumba-01",
+    "Nombre": "Zumba",
+    "NombreUsuarioInstructor": "entrenador.prueba"
+  },
+  {
+    "Id": "spinning-01",
+    "Nombre": "Spinning",
+    "NombreUsuarioInstructor": "entrenador.prueba"
+  }
+]

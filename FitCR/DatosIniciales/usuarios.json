@@ -1,0 +1,1817 @@
+[
+  {
+    "Edad": 19,
+    "FechaRegistro": "2026-09-24",
+    "PesoKg": 60.5,
+    "EstaturaMetros": 1.56,
+    "NombreUsuarioEntrenador": "entrenador.prueba",
+    "ParticipacionesClases": [],
+    "Mediciones": [
+      {
+        "Fecha": "2026-11-11",
+        "PesoKg": 61,
+        "EstaturaMetros": 1.56,
+        "PorcentajeGrasa": null,
+        "PorcentajeMusculo": null
+      },
+      {
+        "Fecha": "2026-11-21",
+        "PesoKg": 60.5,
+        "EstaturaMetros": 1.56,
+        "PorcentajeGrasa": null,
+        "PorcentajeMusculo": null
+      }
+    ],
+    "FechaProximaMedicion": null,
+    "Objetivos": [
+      {
+        "Id": "808bf7ea-b38b-441c-8d10-6561d6dbc5ab",
+        "Tipo": 0,
+        "Direccion": 1,
+        "ValorObjetivo": 60,
+        "FechaInicio": "2026-11-09",
+        "FechaLimite": "2026-11-30"
+      }
+    ],
+    "Visitas": [
+      "2026-11-22"
+    ],
+    "Insignias": [],
+    "Notificaciones": [],
+    "Nombre": "Cliente demo 01",
+    "NombreUsuario": "cliente.demo01",
+    "Credencial": "bcSChWecz\u002BNaOdCogELaOQ==:ID9tdd8amonSNk/Q4\u002BThgdsHzVg6kwy35Cdgz1Q1hn8="
+  },
+  {
+    "Edad": 20,
+    "FechaRegistro": "2026-09-24",
+    "PesoKg": 60.5,
+    "EstaturaMetros": 1.57,
+    "NombreUsuarioEntrenador": "entrenador.demo02",
+    "ParticipacionesClases": [],
+    "Mediciones": [
+      {
+        "Fecha": "2026-11-11",
+        "PesoKg": 62,
+        "EstaturaMetros": 1.57,
+        "PorcentajeGrasa": null,
+        "PorcentajeMusculo": null
+      },
+      {
+        "Fecha": "2026-11-21",
+        "PesoKg": 60.5,
+        "EstaturaMetros": 1.57,
+        "PorcentajeGrasa": null,
+        "PorcentajeMusculo": null
+      }
+    ],
+    "FechaProximaMedicion": null,
+    "Objetivos": [
+      {
+        "Id": "2cb55160-58ec-4015-bec7-0c111cff806d",
+        "Tipo": 0,
+        "Direccion": 1,
+        "ValorObjetivo": 61,
+        "FechaInicio": "2026-11-09",
+        "FechaLimite": "2026-11-30"
+      }
+    ],
+    "Visitas": [
+      "2026-11-22",
+      "2026-11-21"
+    ],
+    "Insignias": [],
+    "Notificaciones": [],
+    "Nombre": "Cliente demo 02",
+    "NombreUsuario": "cliente.demo02",
+    "Credencial": "pyM3vZtqPAvCWhUGc0rNqw==:hKdj1XcrLA4pwLSEVwddHfjYLVFJeRaVSvbdFR3OfHA="
+  },
+  {
+    "Edad": 21,
+    "FechaRegistro": "2026-09-24",
+    "PesoKg": 62.5,
+    "EstaturaMetros": 1.58,
+    "NombreUsuarioEntrenador": "entrenador.demo03",
+    "ParticipacionesClases": [],
+    "Mediciones": [
+      {
+        "Fecha": "2026-11-11",
+        "PesoKg": 63,
+        "EstaturaMetros": 1.58,
+        "PorcentajeGrasa": null,
+        "PorcentajeMusculo": null
+      },
+      {
+        "Fecha": "2026-11-21",
+        "PesoKg": 62.5,
+        "EstaturaMetros": 1.58,
+        "PorcentajeGrasa": null,
+        "PorcentajeMusculo": null
+      }
+    ],
+    "FechaProximaMedicion": null,
+    "Objetivos": [
+      {
+        "Id": "e4ee1d43-5f26-4277-bb3a-735ff82acf5e",
+        "Tipo": 0,
+        "Direccion": 1,
+        "ValorObjetivo": 62,
+        "FechaInicio": "2026-11-09",
+        "FechaLimite": "2026-11-30"
+      }
+    ],
+    "Visitas": [
+      "2026-11-22",
+      "2026-11-21",
+      "2026-11-20"
+    ],
+    "Insignias": [],
+    "Notificaciones": [],
+    "Nombre": "Cliente demo 03",
+    "NombreUsuario": "cliente.demo03",
+    "Credencial": "TU3LJMg8RBwl8qhTsDY5Fg==:HFbL7la96/4XW2E\u002B15qSvzsBE1K8FtTMgR\u002BgmESTPnI="
+  },
+  {
+    "Edad": 22,
+    "FechaRegistro": "2026-09-24",
+    "PesoKg": 62.5,
+    "EstaturaMetros": 1.59,
+    "NombreUsuarioEntrenador": "entrenador.demo04",
+    "ParticipacionesClases": [],
+    "Mediciones": [
+      {
+        "Fecha": "2026-11-11",
+        "PesoKg": 64,
+        "EstaturaMetros": 1.59,
+        "PorcentajeGrasa": null,
+        "PorcentajeMusculo": null
+      },
+      {
+        "Fecha": "2026-11-21",
+        "PesoKg": 62.5,
+        "EstaturaMetros": 1.59,
+        "PorcentajeGrasa": null,
+        "PorcentajeMusculo": null
+      }
+    ],
+    "FechaProximaMedicion": null,
+    "Objetivos": [
+      {
+        "Id": "d00b7fbf-6608-4a8a-b701-68d0c097670c",
+        "Tipo": 0,
+        "Direccion": 1,
+        "ValorObjetivo": 63,
+        "FechaInicio": "2026-11-09",
+        "FechaLimite": "2026-11-30"
+      }
+    ],
+    "Visitas": [
+      "2026-11-22",
+      "2026-11-21",
+      "2026-11-20",
+      "2026-11-19"
+    ],
+    "Insignias": [],
+    "Notificaciones": [],
+    "Nombre": "Cliente demo 04",
+    "NombreUsuario": "cliente.demo04",
+    "Credencial": "2UvfRHUwX9LbZwQgxb7NVw==:kv9hPOV292tuu0nP5BR1cPbAROb33nUb7uC4BRcaRUs="
+  },
+  {
+    "Edad": 23,
+    "FechaRegistro": "2026-09-24",
+    "PesoKg": 64.5,
+    "EstaturaMetros": 1.60,
+    "NombreUsuarioEntrenador": "entrenador.demo05",
+    "ParticipacionesClases": [],
+    "Mediciones": [
+      {
+        "Fecha": "2026-11-11",
+        "PesoKg": 65,
+        "EstaturaMetros": 1.60,
+        "PorcentajeGrasa": null,
+        "PorcentajeMusculo": null
+      },
+      {
+        "Fecha": "2026-11-21",
+        "PesoKg": 64.5,
+        "EstaturaMetros": 1.60,
+        "PorcentajeGrasa": null,
+        "PorcentajeMusculo": null
+      }
+    ],
+    "FechaProximaMedicion": null,
+    "Objetivos": [
+      {
+        "Id": "4c767059-da93-4237-a751-0946754deb1d",
+        "Tipo": 0,
+        "Direccion": 1,
+        "ValorObjetivo": 64,
+        "FechaInicio": "2026-11-09",
+        "FechaLimite": "2026-11-30"
+      }
+    ],
+    "Visitas": [
+      "2026-11-22",
+      "2026-11-21",
+      "2026-11-20",
+      "2026-11-19",
+      "2026-11-18"
+    ],
+    "Insignias": [],
+    "Notificaciones": [],
+    "Nombre": "Cliente demo 05",
+    "NombreUsuario": "cliente.demo05",
+    "Credencial": "rderZQL5Mm6Vetr20GzyeA==:tPBrHg7vKKrLxRRgNpSLeP3KHIzdvvnxga2tPQ13OGo="
+  },
+  {
+    "Edad": 24,
+    "FechaRegistro": "2026-09-24",
+    "PesoKg": 64.5,
+    "EstaturaMetros": 1.61,
+    "NombreUsuarioEntrenador": "entrenador.demo06",
+    "ParticipacionesClases": [],
+    "Mediciones": [
+      {
+        "Fecha": "2026-11-11",
+        "PesoKg": 66,
+        "EstaturaMetros": 1.61,
+        "PorcentajeGrasa": null,
+        "PorcentajeMusculo": null
+      },
+      {
+        "Fecha": "2026-11-21",
+        "PesoKg": 64.5,
+        "EstaturaMetros": 1.61,
+        "PorcentajeGrasa": null,
+        "PorcentajeMusculo": null
+      }
+    ],
+    "FechaProximaMedicion": null,
+    "Objetivos": [
+      {
+        "Id": "d4136550-aba6-4669-a21f-d5def2499eef",
+        "Tipo": 0,
+        "Direccion": 1,
+        "ValorObjetivo": 65,
+        "FechaInicio": "2026-11-09",
+        "FechaLimite": "2026-11-30"
+      }
+    ],
+    "Visitas": [
+      "2026-11-22",
+      "2026-11-21",
+      "2026-11-20",
+      "2026-11-19",
+      "2026-11-18",
+      "2026-11-17"
+    ],
+    "Insignias": [],
+    "Notificaciones": [],
+    "Nombre": "Cliente demo 06",
+    "NombreUsuario": "cliente.demo06",
+    "Credencial": "4Xav0d5i\u002Bk4Xos2XkhYFjg==:Vep3hrcW0BAHYsRwKIN1BJL/C5KHxKjIwkLcwtDeVNk="
+  },
+  {
+    "Edad": 25,
+    "FechaRegistro": "2026-09-24",
+    "PesoKg": 66.5,
+    "EstaturaMetros": 1.62,
+    "NombreUsuarioEntrenador": "entrenador.demo07",
+    "ParticipacionesClases": [],
+    "Mediciones": [
+      {
+        "Fecha": "2026-11-11",
+        "PesoKg": 67,
+        "EstaturaMetros": 1.62,
+        "PorcentajeGrasa": null,
+        "PorcentajeMusculo": null
+      },
+      {
+        "Fecha": "2026-11-21",
+        "PesoKg": 66.5,
+        "EstaturaMetros": 1.62,
+        "PorcentajeGrasa": null,
+        "PorcentajeMusculo": null
+      }
+    ],
+    "FechaProximaMedicion": null,
+    "Objetivos": [
+      {
+        "Id": "989a8a9e-05d6-4da6-9dbc-afb29405293a",
+        "Tipo": 0,
+        "Direccion": 1,
+        "ValorObjetivo": 66,
+        "FechaInicio": "2026-11-09",
+        "FechaLimite": "2026-11-30"
+      }
+    ],
+    "Visitas": [
+      "2026-11-22",
+      "2026-11-21",
+      "2026-11-20",
+      "2026-11-19",
+      "2026-11-18",
+      "2026-11-17",
+      "2026-11-16"
+    ],
+    "Insignias": [],
+    "Notificaciones": [],
+    "Nombre": "Cliente demo 07",
+    "NombreUsuario": "cliente.demo07",
+    "Credencial": "Juk7vOGR27Vpq9zgZWZBDQ==:X/iuRjXEiO7eVX1WSt1svjrNDkMbfRjqxoDuyJi0lNY="
+  },
+  {
+    "Edad": 26,
+    "FechaRegistro": "2026-09-24",
+    "PesoKg": 66.5,
+    "EstaturaMetros": 1.63,
+    "NombreUsuarioEntrenador": "entrenador.demo08",
+    "ParticipacionesClases": [],
+    "Mediciones": [
+      {
+        "Fecha": "2026-11-11",
+        "PesoKg": 68,
+        "EstaturaMetros": 1.63,
+        "PorcentajeGrasa": null,
+        "PorcentajeMusculo": null
+      },
+      {
+        "Fecha": "2026-11-21",
+        "PesoKg": 66.5,
+        "EstaturaMetros": 1.63,
+        "PorcentajeGrasa": null,
+        "PorcentajeMusculo": null
+      }
+    ],
+    "FechaProximaMedicion": null,
+    "Objetivos": [
+      {
+        "Id": "de7d05f9-7561-48fd-9227-ee7ab0825a17",
+        "Tipo": 0,
+        "Direccion": 1,
+        "ValorObjetivo": 67,
+        "FechaInicio": "2026-11-09",
+        "FechaLimite": "2026-11-30"
+      }
+    ],
+    "Visitas": [],
+    "Insignias": [],
+    "Notificaciones": [],
+    "Nombre": "Cliente demo 08",
+    "NombreUsuario": "cliente.demo08",
+    "Credencial": "yd74ElLGkv7iE9VcOmiItQ==:xaplPm8BNRYQcx3x3i6HGZCOqarxpgUZ4zfiEm98d2U="
+  },
+  {
+    "Edad": 27,
+    "FechaRegistro": "2026-09-24",
+    "PesoKg": 68.5,
+    "EstaturaMetros": 1.64,
+    "NombreUsuarioEntrenador": "entrenador.demo09",
+    "ParticipacionesClases": [],
+    "Mediciones": [
+      {
+        "Fecha": "2026-11-11",
+        "PesoKg": 69,
+        "EstaturaMetros": 1.64,
+        "PorcentajeGrasa": null,
+        "PorcentajeMusculo": null
+      },
+      {
+        "Fecha": "2026-11-21",
+        "PesoKg": 68.5,
+        "EstaturaMetros": 1.64,
+        "PorcentajeGrasa": null,
+        "PorcentajeMusculo": null
+      }
+    ],
+    "FechaProximaMedicion": null,
+    "Objetivos": [
+      {
+        "Id": "4fe1fd81-1140-40f2-aaf8-384e47e27c16",
+        "Tipo": 0,
+        "Direccion": 1,
+        "ValorObjetivo": 68,
+        "FechaInicio": "2026-11-09",
+        "FechaLimite": "2026-11-30"
+      }
+    ],
+    "Visitas": [
+      "2026-11-22"
+    ],
+    "Insignias": [],
+    "Notificaciones": [],
+    "Nombre": "Cliente demo 09",
+    "NombreUsuario": "cliente.demo09",
+    "Credencial": "XYNFqa8KLgkR0qd89tLIQw==:f7NXed2CUVhpT7HBqb1OB1hNlD00n21bS\u002B64MWZoZuA="
+  },
+  {
+    "Edad": 28,
+    "FechaRegistro": "2026-09-24",
+    "PesoKg": 68.5,
+    "EstaturaMetros": 1.65,
+    "NombreUsuarioEntrenador": "entrenador.demo10",
+    "ParticipacionesClases": [],
+    "Mediciones": [
+      {
+        "Fecha": "2026-11-11",
+        "PesoKg": 70,
+        "EstaturaMetros": 1.65,
+        "PorcentajeGrasa": null,
+        "PorcentajeMusculo": null
+      },
+      {
+        "Fecha": "2026-11-21",
+        "PesoKg": 68.5,
+        "EstaturaMetros": 1.65,
+        "PorcentajeGrasa": null,
+        "PorcentajeMusculo": null
+      }
+    ],
+    "FechaProximaMedicion": null,
+    "Objetivos": [
+      {
+        "Id": "9e9de733-25ef-41b3-8d02-3a8250088671",
+        "Tipo": 0,
+        "Direccion": 1,
+        "ValorObjetivo": 69,
+        "FechaInicio": "2026-11-09",
+        "FechaLimite": "2026-11-30"
+      }
+    ],
+    "Visitas": [
+      "2026-11-22",
+      "2026-11-21"
+    ],
+    "Insignias": [],
+    "Notificaciones": [],
+    "Nombre": "Cliente demo 10",
+    "NombreUsuario": "cliente.demo10",
+    "Credencial": "JiqnMyyJP1rvDw4evi8awA==:mSjJJujNEzohjqzAkpXjQh/jlc1Vv\u002BEQvI0JdSIuORo="
+  },
+  {
+    "Edad": 29,
+    "FechaRegistro": "2026-09-24",
+    "PesoKg": 70.5,
+    "EstaturaMetros": 1.66,
+    "NombreUsuarioEntrenador": "entrenador.prueba",
+    "ParticipacionesClases": [],
+    "Mediciones": [
+      {
+        "Fecha": "2026-11-11",
+        "PesoKg": 71,
+        "EstaturaMetros": 1.66,
+        "PorcentajeGrasa": null,
+        "PorcentajeMusculo": null
+      },
+      {
+        "Fecha": "2026-11-21",
+        "PesoKg": 70.5,
+        "EstaturaMetros": 1.66,
+        "PorcentajeGrasa": null,
+        "PorcentajeMusculo": null
+      }
+    ],
+    "FechaProximaMedicion": null,
+    "Objetivos": [
+      {
+        "Id": "164aa3cb-43ee-49df-a884-87ce6cdf8cbd",
+        "Tipo": 0,
+        "Direccion": 1,
+        "ValorObjetivo": 70,
+        "FechaInicio": "2026-11-09",
+        "FechaLimite": "2026-11-30"
+      }
+    ],
+    "Visitas": [
+      "2026-11-22",
+      "2026-11-21",
+      "2026-11-20"
+    ],
+    "Insignias": [],
+    "Notificaciones": [],
+    "Nombre": "Cliente demo 11",
+    "NombreUsuario": "cliente.demo11",
+    "Credencial": "yjFFHJ8jDnY9\u002BhCB1BqD4w==:lNtDlLg/NWMlJLj3qenbNR0csilKcVW4K7AMSUIYpkM="
+  },
+  {
+    "Edad": 30,
+    "FechaRegistro": "2026-09-24",
+    "PesoKg": 70.5,
+    "EstaturaMetros": 1.67,
+    "NombreUsuarioEntrenador": "entrenador.demo02",
+    "ParticipacionesClases": [],
+    "Mediciones": [
+      {
+        "Fecha": "2026-11-11",
+        "PesoKg": 72,
+        "EstaturaMetros": 1.67,
+        "PorcentajeGrasa": null,
+        "PorcentajeMusculo": null
+      },
+      {
+        "Fecha": "2026-11-21",
+        "PesoKg": 70.5,
+        "EstaturaMetros": 1.67,
+        "PorcentajeGrasa": null,
+        "PorcentajeMusculo": null
+      }
+    ],
+    "FechaProximaMedicion": null,
+    "Objetivos": [
+      {
+        "Id": "8de73709-a37c-4f51-b690-33c0f555b655",
+        "Tipo": 0,
+        "Direccion": 1,
+        "ValorObjetivo": 71,
+        "FechaInicio": "2026-11-09",
+        "FechaLimite": "2026-11-30"
+      }
+    ],
+    "Visitas": [
+      "2026-11-22",
+      "2026-11-21",
+      "2026-11-20",
+      "2026-11-19"
+    ],
+    "Insignias": [],
+    "Notificaciones": [],
+    "Nombre": "Cliente demo 12",
+    "NombreUsuario": "cliente.demo12",
+    "Credencial": "rdVUoWUq4WsrD7WZAA2/Mg==:nkCEKs\u002BR\u002BHAGbh0YQCXmhAPZdbCgxvMX7R7ssu9fSIw="
+  },
+  {
+    "Edad": 31,
+    "FechaRegistro": "2026-09-24",
+    "PesoKg": 72.5,
+    "EstaturaMetros": 1.68,
+    "NombreUsuarioEntrenador": "entrenador.demo03",
+    "ParticipacionesClases": [],
+    "Mediciones": [
+      {
+        "Fecha": "2026-11-11",
+        "PesoKg": 73,
+        "EstaturaMetros": 1.68,
+        "PorcentajeGrasa": null,
+        "PorcentajeMusculo": null
+      },
+      {
+        "Fecha": "2026-11-21",
+        "PesoKg": 72.5,
+        "EstaturaMetros": 1.68,
+        "PorcentajeGrasa": null,
+        "PorcentajeMusculo": null
+      }
+    ],
+    "FechaProximaMedicion": null,
+    "Objetivos": [
+      {
+        "Id": "8903aa3c-e3fe-4956-a575-f55fa82aa98b",
+        "Tipo": 0,
+        "Direccion": 1,
+        "ValorObjetivo": 72,
+        "FechaInicio": "2026-11-09",
+        "FechaLimite": "2026-11-30"
+      }
+    ],
+    "Visitas": [
+      "2026-11-22",
+      "2026-11-21",
+      "2026-11-20",
+      "2026-11-19",
+      "2026-11-18"
+    ],
+    "Insignias": [],
+    "Notificaciones": [],
+    "Nombre": "Cliente demo 13",
+    "NombreUsuario": "cliente.demo13",
+    "Credencial": "daJwhyhguhjuGzhRzQYdeA==:2JsbqfLzA8AoDbEW9HqrGAvxYnDgejj9strieAnyFSE="
+  },
+  {
+    "Edad": 32,
+    "FechaRegistro": "2026-09-24",
+    "PesoKg": 72.5,
+    "EstaturaMetros": 1.69,
+    "NombreUsuarioEntrenador": "entrenador.demo04",
+    "ParticipacionesClases": [],
+    "Mediciones": [
+      {
+        "Fecha": "2026-11-11",
+        "PesoKg": 74,
+        "EstaturaMetros": 1.69,
+        "PorcentajeGrasa": null,
+        "PorcentajeMusculo": null
+      },
+      {
+        "Fecha": "2026-11-21",
+        "PesoKg": 72.5,
+        "EstaturaMetros": 1.69,
+        "PorcentajeGrasa": null,
+        "PorcentajeMusculo": null
+      }
+    ],
+    "FechaProximaMedicion": null,
+    "Objetivos": [
+      {
+        "Id": "ec9ed1db-96f3-4a44-98fd-91f1c2218b26",
+        "Tipo": 0,
+        "Direccion": 1,
+        "ValorObjetivo": 73,
+        "FechaInicio": "2026-11-09",
+        "FechaLimite": "2026-11-30"
+      }
+    ],
+    "Visitas": [
+      "2026-11-22",
+      "2026-11-21",
+      "2026-11-20",
+      "2026-11-19",
+      "2026-11-18",
+      "2026-11-17"
+    ],
+    "Insignias": [],
+    "Notificaciones": [],
+    "Nombre": "Cliente demo 14",
+    "NombreUsuario": "cliente.demo14",
+    "Credencial": "2vBcw\u002BtSov7SgSFcfNbSzQ==:/tBwxQE06LP8LrNrbH9BikinAzhgjExEXlnvUYGRLcE="
+  },
+  {
+    "Edad": 33,
+    "FechaRegistro": "2026-09-24",
+    "PesoKg": 74.5,
+    "EstaturaMetros": 1.70,
+    "NombreUsuarioEntrenador": "entrenador.demo05",
+    "ParticipacionesClases": [],
+    "Mediciones": [
+      {
+        "Fecha": "2026-11-11",
+        "PesoKg": 75,
+        "EstaturaMetros": 1.70,
+        "PorcentajeGrasa": null,
+        "PorcentajeMusculo": null
+      },
+      {
+        "Fecha": "2026-11-21",
+        "PesoKg": 74.5,
+        "EstaturaMetros": 1.70,
+        "PorcentajeGrasa": null,
+        "PorcentajeMusculo": null
+      }
+    ],
+    "FechaProximaMedicion": null,
+    "Objetivos": [
+      {
+        "Id": "08a0f7be-def5-4906-8555-2a76294dcbac",
+        "Tipo": 0,
+        "Direccion": 1,
+        "ValorObjetivo": 74,
+        "FechaInicio": "2026-11-09",
+        "FechaLimite": "2026-11-30"
+      }
+    ],
+    "Visitas": [
+      "2026-11-22",
+      "2026-11-21",
+      "2026-11-20",
+      "2026-11-19",
+      "2026-11-18",
+      "2026-11-17",
+      "2026-11-16"
+    ],
+    "Insignias": [],
+    "Notificaciones": [],
+    "Nombre": "Cliente demo 15",
+    "NombreUsuario": "cliente.demo15",
+    "Credencial": "DOdyksSHx9Su53Wzb7P5\u002Bg==:kkQ9sAsYKhYquiOQ25XdQkhcJ0FTcA6oIkh/U/fsvuw="
+  },
+  {
+    "Edad": 34,
+    "FechaRegistro": "2026-09-24",
+    "PesoKg": 74.5,
+    "EstaturaMetros": 1.71,
+    "NombreUsuarioEntrenador": "entrenador.demo06",
+    "ParticipacionesClases": [],
+    "Mediciones": [
+      {
+        "Fecha": "2026-11-11",
+        "PesoKg": 76,
+        "EstaturaMetros": 1.71,
+        "PorcentajeGrasa": null,
+        "PorcentajeMusculo": null
+      },
+      {
+        "Fecha": "2026-11-21",
+        "PesoKg": 74.5,
+        "EstaturaMetros": 1.71,
+        "PorcentajeGrasa": null,
+        "PorcentajeMusculo": null
+      }
+    ],
+    "FechaProximaMedicion": null,
+    "Objetivos": [
+      {
+        "Id": "27fedd43-c552-4c68-bb2a-23e9142374c0",
+        "Tipo": 0,
+        "Direccion": 1,
+        "ValorObjetivo": 75,
+        "FechaInicio": "2026-11-09",
+        "FechaLimite": "2026-11-30"
+      }
+    ],
+    "Visitas": [],
+    "Insignias": [],
+    "Notificaciones": [],
+    "Nombre": "Cliente demo 16",
+    "NombreUsuario": "cliente.demo16",
+    "Credencial": "2lWZRjZp8WkbFLZE1JmVPw==:xoWRH\u002BRylYyZ0f4VsIRvLqSSieUJTZ\u002B8xxsFrCZlZOo="
+  },
+  {
+    "Edad": 35,
+    "FechaRegistro": "2026-09-24",
+    "PesoKg": 76.5,
+    "EstaturaMetros": 1.72,
+    "NombreUsuarioEntrenador": "entrenador.demo07",
+    "ParticipacionesClases": [],
+    "Mediciones": [
+      {
+        "Fecha": "2026-11-11",
+        "PesoKg": 77,
+        "EstaturaMetros": 1.72,
+        "PorcentajeGrasa": null,
+        "PorcentajeMusculo": null
+      },
+      {
+        "Fecha": "2026-11-21",
+        "PesoKg": 76.5,
+        "EstaturaMetros": 1.72,
+        "PorcentajeGrasa": null,
+        "PorcentajeMusculo": null
+      }
+    ],
+    "FechaProximaMedicion": null,
+    "Objetivos": [
+      {
+        "Id": "2e662073-1558-443d-a693-5c934bf6a16b",
+        "Tipo": 0,
+        "Direccion": 1,
+        "ValorObjetivo": 76,
+        "FechaInicio": "2026-11-09",
+        "FechaLimite": "2026-11-30"
+      }
+    ],
+    "Visitas": [
+      "2026-11-22"
+    ],
+    "Insignias": [],
+    "Notificaciones": [],
+    "Nombre": "Cliente demo 17",
+    "NombreUsuario": "cliente.demo17",
+    "Credencial": "LEj6n5/2ufM/\u002BSAilr/9kw==:lZizuy2\u002B0Ceye67ddaH1y0vLKWB7UiZfAZBkG2J/F/8="
+  },
+  {
+    "Edad": 36,
+    "FechaRegistro": "2026-09-24",
+    "PesoKg": 76.5,
+    "EstaturaMetros": 1.73,
+    "NombreUsuarioEntrenador": "entrenador.demo08",
+    "ParticipacionesClases": [],
+    "Mediciones": [
+      {
+        "Fecha": "2026-11-11",
+        "PesoKg": 78,
+        "EstaturaMetros": 1.73,
+        "PorcentajeGrasa": null,
+        "PorcentajeMusculo": null
+      },
+      {
+        "Fecha": "2026-11-21",
+        "PesoKg": 76.5,
+        "EstaturaMetros": 1.73,
+        "PorcentajeGrasa": null,
+        "PorcentajeMusculo": null
+      }
+    ],
+    "FechaProximaMedicion": null,
+    "Objetivos": [
+      {
+        "Id": "998a108e-8d1d-44c7-8a9a-ceb3db8e69ab",
+        "Tipo": 0,
+        "Direccion": 1,
+        "ValorObjetivo": 77,
+        "FechaInicio": "2026-11-09",
+        "FechaLimite": "2026-11-30"
+      }
+    ],
+    "Visitas": [
+      "2026-11-22",
+      "2026-11-21"
+    ],
+    "Insignias": [],
+    "Notificaciones": [],
+    "Nombre": "Cliente demo 18",
+    "NombreUsuario": "cliente.demo18",
+    "Credencial": "wmKAreSs3RLn1Ui7WNnBEA==:mobDJN6uw4Ky7FvjXgCm/abMTn7IX5yHGrJ6KGb71/8="
+  },
+  {
+    "Edad": 37,
+    "FechaRegistro": "2026-09-24",
+    "PesoKg": 78.5,
+    "EstaturaMetros": 1.74,
+    "NombreUsuarioEntrenador": "entrenador.demo09",
+    "ParticipacionesClases": [],
+    "Mediciones": [
+      {
+        "Fecha": "2026-11-11",
+        "PesoKg": 79,
+        "EstaturaMetros": 1.74,
+        "PorcentajeGrasa": null,
+        "PorcentajeMusculo": null
+      },
+      {
+        "Fecha": "2026-11-21",
+        "PesoKg": 78.5,
+        "EstaturaMetros": 1.74,
+        "PorcentajeGrasa": null,
+        "PorcentajeMusculo": null
+      }
+    ],
+    "FechaProximaMedicion": null,
+    "Objetivos": [
+      {
+        "Id": "a42088ab-2295-475d-b2b9-cb295ae7f02f",
+        "Tipo": 0,
+        "Direccion": 1,
+        "ValorObjetivo": 78,
+        "FechaInicio": "2026-11-09",
+        "FechaLimite": "2026-11-30"
+      }
+    ],
+    "Visitas": [
+      "2026-11-22",
+      "2026-11-21",
+      "2026-11-20"
+    ],
+    "Insignias": [],
+    "Notificaciones": [],
+    "Nombre": "Cliente demo 19",
+    "NombreUsuario": "cliente.demo19",
+    "Credencial": "D9svRDgG\u002BxpGU9LuuYq/mg==:3MMvOBPfgTVWUw\u002B7d6ggPKNrOVvstGltaMeBaf0bXz8="
+  },
+  {
+    "Edad": 38,
+    "FechaRegistro": "2026-09-24",
+    "PesoKg": 78.5,
+    "EstaturaMetros": 1.75,
+    "NombreUsuarioEntrenador": "entrenador.demo10",
+    "ParticipacionesClases": [],
+    "Mediciones": [
+      {
+        "Fecha": "2026-11-11",
+        "PesoKg": 80,
+        "EstaturaMetros": 1.75,
+        "PorcentajeGrasa": null,
+        "PorcentajeMusculo": null
+      },
+      {
+        "Fecha": "2026-11-21",
+        "PesoKg": 78.5,
+        "EstaturaMetros": 1.75,
+        "PorcentajeGrasa": null,
+        "PorcentajeMusculo": null
+      }
+    ],
+    "FechaProximaMedicion": null,
+    "Objetivos": [
+      {
+        "Id": "3b9881a3-ec32-4787-b8d5-d97a08d4d9f3",
+        "Tipo": 0,
+        "Direccion": 1,
+        "ValorObjetivo": 79,
+        "FechaInicio": "2026-11-09",
+        "FechaLimite": "2026-11-30"
+      }
+    ],
+    "Visitas": [
+      "2026-11-22",
+      "2026-11-21",
+      "2026-11-20",
+      "2026-11-19"
+    ],
+    "Insignias": [],
+    "Notificaciones": [],
+    "Nombre": "Cliente demo 20",
+    "NombreUsuario": "cliente.demo20",
+    "Credencial": "ofkBaZq3fKi6yatu\u002Bqu46A==:uJst3dEy1LFqrGv8YzpcsEzeLVHGVmslS6BnCpwBBew="
+  },
+  {
+    "Edad": 39,
+    "FechaRegistro": "2026-09-24",
+    "PesoKg": 80.5,
+    "EstaturaMetros": 1.76,
+    "NombreUsuarioEntrenador": "entrenador.prueba",
+    "ParticipacionesClases": [],
+    "Mediciones": [
+      {
+        "Fecha": "2026-11-11",
+        "PesoKg": 81,
+        "EstaturaMetros": 1.76,
+        "PorcentajeGrasa": null,
+        "PorcentajeMusculo": null
+      },
+      {
+        "Fecha": "2026-11-21",
+        "PesoKg": 80.5,
+        "EstaturaMetros": 1.76,
+        "PorcentajeGrasa": null,
+        "PorcentajeMusculo": null
+      }
+    ],
+    "FechaProximaMedicion": null,
+    "Objetivos": [
+      {
+        "Id": "12602c93-9952-4b7c-867c-b9f736828ee8",
+        "Tipo": 0,
+        "Direccion": 1,
+        "ValorObjetivo": 80,
+        "FechaInicio": "2026-11-09",
+        "FechaLimite": "2026-11-30"
+      }
+    ],
+    "Visitas": [
+      "2026-11-22",
+      "2026-11-21",
+      "2026-11-20",
+      "2026-11-19",
+      "2026-11-18"
+    ],
+    "Insignias": [],
+    "Notificaciones": [],
+    "Nombre": "Cliente demo 21",
+    "NombreUsuario": "cliente.demo21",
+    "Credencial": "prI9yBvM9yxzHLBasNr8EA==:RThEhvyZOvCLfQr4z27I/40aHSEL3F/p/eAgmGezLjs="
+  },
+  {
+    "Edad": 40,
+    "FechaRegistro": "2026-09-24",
+    "PesoKg": 80.5,
+    "EstaturaMetros": 1.77,
+    "NombreUsuarioEntrenador": "entrenador.demo02",
+    "ParticipacionesClases": [],
+    "Mediciones": [
+      {
+        "Fecha": "2026-11-11",
+        "PesoKg": 82,
+        "EstaturaMetros": 1.77,
+        "PorcentajeGrasa": null,
+        "PorcentajeMusculo": null
+      },
+      {
+        "Fecha": "2026-11-21",
+        "PesoKg": 80.5,
+        "EstaturaMetros": 1.77,
+        "PorcentajeGrasa": null,
+        "PorcentajeMusculo": null
+      }
+    ],
+    "FechaProximaMedicion": null,
+    "Objetivos": [
+      {
+        "Id": "cf916c1a-d85a-4ad6-8f0b-bbba8497f873",
+        "Tipo": 0,
+        "Direccion": 1,
+        "ValorObjetivo": 81,
+        "FechaInicio": "2026-11-09",
+        "FechaLimite": "2026-11-30"
+      }
+    ],
+    "Visitas": [
+      "2026-11-22",
+      "2026-11-21",
+      "2026-11-20",
+      "2026-11-19",
+      "2026-11-18",
+      "2026-11-17"
+    ],
+    "Insignias": [],
+    "Notificaciones": [],
+    "Nombre": "Cliente demo 22",
+    "NombreUsuario": "cliente.demo22",
+    "Credencial": "kh61SY0qcuZSjcBwN8VwoA==:FFtlopRnigJ1wGAGxshwuxEFsHzJLjAApTdHeD4FwY0="
+  },
+  {
+    "Edad": 41,
+    "FechaRegistro": "2026-09-24",
+    "PesoKg": 82.5,
+    "EstaturaMetros": 1.78,
+    "NombreUsuarioEntrenador": "entrenador.demo03",
+    "ParticipacionesClases": [],
+    "Mediciones": [
+      {
+        "Fecha": "2026-11-11",
+        "PesoKg": 83,
+        "EstaturaMetros": 1.78,
+        "PorcentajeGrasa": null,
+        "PorcentajeMusculo": null
+      },
+      {
+        "Fecha": "2026-11-21",
+        "PesoKg": 82.5,
+        "EstaturaMetros": 1.78,
+        "PorcentajeGrasa": null,
+        "PorcentajeMusculo": null
+      }
+    ],
+    "FechaProximaMedicion": null,
+    "Objetivos": [
+      {
+        "Id": "46add6e6-6163-4489-b847-5b22d522e514",
+        "Tipo": 0,
+        "Direccion": 1,
+        "ValorObjetivo": 82,
+        "FechaInicio": "2026-11-09",
+        "FechaLimite": "2026-11-30"
+      }
+    ],
+    "Visitas": [
+      "2026-11-22",
+      "2026-11-21",
+      "2026-11-20",
+      "2026-11-19",
+      "2026-11-18",
+      "2026-11-17",
+      "2026-11-16"
+    ],
+    "Insignias": [],
+    "Notificaciones": [],
+    "Nombre": "Cliente demo 23",
+    "NombreUsuario": "cliente.demo23",
+    "Credencial": "Q89gfx1NUzeGaCLKQnNdHA==:bWWvUPm2kV3Rg15YaP9sBe1t5QGTD//dm8Hrj17vEf0="
+  },
+  {
+    "Edad": 42,
+    "FechaRegistro": "2026-09-24",
+    "PesoKg": 82.5,
+    "EstaturaMetros": 1.79,
+    "NombreUsuarioEntrenador": "entrenador.demo04",
+    "ParticipacionesClases": [],
+    "Mediciones": [
+      {
+        "Fecha": "2026-11-11",
+        "PesoKg": 84,
+        "EstaturaMetros": 1.79,
+        "PorcentajeGrasa": null,
+        "PorcentajeMusculo": null
+      },
+      {
+        "Fecha": "2026-11-21",
+        "PesoKg": 82.5,
+        "EstaturaMetros": 1.79,
+        "PorcentajeGrasa": null,
+        "PorcentajeMusculo": null
+      }
+    ],
+    "FechaProximaMedicion": null,
+    "Objetivos": [
+      {
+        "Id": "7b64d1e9-cf3c-4fe0-a769-6a9ab7be903b",
+        "Tipo": 0,
+        "Direccion": 1,
+        "ValorObjetivo": 83,
+        "FechaInicio": "2026-11-09",
+        "FechaLimite": "2026-11-30"
+      }
+    ],
+    "Visitas": [],
+    "Insignias": [],
+    "Notificaciones": [],
+    "Nombre": "Cliente demo 24",
+    "NombreUsuario": "cliente.demo24",
+    "Credencial": "gh\u002B74edKTObDiumhBC5\u002B\u002BA==:xrRezcaiTvuU0JyDsDARViY5/CVBFPSVJ4n9iAMHWtg="
+  },
+  {
+    "Edad": 43,
+    "FechaRegistro": "2026-09-24",
+    "PesoKg": 84.5,
+    "EstaturaMetros": 1.55,
+    "NombreUsuarioEntrenador": "entrenador.demo05",
+    "ParticipacionesClases": [],
+    "Mediciones": [
+      {
+        "Fecha": "2026-11-11",
+        "PesoKg": 85,
+        "EstaturaMetros": 1.55,
+        "PorcentajeGrasa": null,
+        "PorcentajeMusculo": null
+      },
+      {
+        "Fecha": "2026-11-21",
+        "PesoKg": 84.5,
+        "EstaturaMetros": 1.55,
+        "PorcentajeGrasa": null,
+        "PorcentajeMusculo": null
+      }
+    ],
+    "FechaProximaMedicion": null,
+    "Objetivos": [
+      {
+        "Id": "2eb8ee74-383c-4fb9-a601-75ca83c07444",
+        "Tipo": 0,
+        "Direccion": 1,
+        "ValorObjetivo": 84,
+        "FechaInicio": "2026-11-09",
+        "FechaLimite": "2026-11-30"
+      }
+    ],
+    "Visitas": [
+      "2026-11-22"
+    ],
+    "Insignias": [],
+    "Notificaciones": [],
+    "Nombre": "Cliente demo 25",
+    "NombreUsuario": "cliente.demo25",
+    "Credencial": "W4daIw26uASA5YGVANlKEQ==:MzxIHqB3OJQjWJ5oLE2w7/msBNNcpVYK5gGn8OlJ52I="
+  },
+  {
+    "Edad": 44,
+    "FechaRegistro": "2026-09-24",
+    "PesoKg": 84.5,
+    "EstaturaMetros": 1.56,
+    "NombreUsuarioEntrenador": "entrenador.demo06",
+    "ParticipacionesClases": [],
+    "Mediciones": [
+      {
+        "Fecha": "2026-11-11",
+        "PesoKg": 86,
+        "EstaturaMetros": 1.56,
+        "PorcentajeGrasa": null,
+        "PorcentajeMusculo": null
+      },
+      {
+        "Fecha": "2026-11-21",
+        "PesoKg": 84.5,
+        "EstaturaMetros": 1.56,
+        "PorcentajeGrasa": null,
+        "PorcentajeMusculo": null
+      }
+    ],
+    "FechaProximaMedicion": null,
+    "Objetivos": [
+      {
+        "Id": "fd48bdce-ec8a-4552-ae85-1041ab46170b",
+        "Tipo": 0,
+        "Direccion": 1,
+        "ValorObjetivo": 85,
+        "FechaInicio": "2026-11-09",
+        "FechaLimite": "2026-11-30"
+      }
+    ],
+    "Visitas": [
+      "2026-11-22",
+      "2026-11-21"
+    ],
+    "Insignias": [],
+    "Notificaciones": [],
+    "Nombre": "Cliente demo 26",
+    "NombreUsuario": "cliente.demo26",
+    "Credencial": "IeQhfGTmlTaAfpvT7PG1kg==:p6EZGZ3w5vGrKcpx1miG18iwLPCZ2I2M1TXY\u002BA7/n8Q="
+  },
+  {
+    "Edad": 45,
+    "FechaRegistro": "2026-09-24",
+    "PesoKg": 86.5,
+    "EstaturaMetros": 1.57,
+    "NombreUsuarioEntrenador": "entrenador.demo07",
+    "ParticipacionesClases": [],
+    "Mediciones": [
+      {
+        "Fecha": "2026-11-11",
+        "PesoKg": 87,
+        "EstaturaMetros": 1.57,
+        "PorcentajeGrasa": null,
+        "PorcentajeMusculo": null
+      },
+      {
+        "Fecha": "2026-11-21",
+        "PesoKg": 86.5,
+        "EstaturaMetros": 1.57,
+        "PorcentajeGrasa": null,
+        "PorcentajeMusculo": null
+      }
+    ],
+    "FechaProximaMedicion": null,
+    "Objetivos": [
+      {
+        "Id": "93e03ec4-aa7d-437f-a984-72149b785813",
+        "Tipo": 0,
+        "Direccion": 1,
+        "ValorObjetivo": 86,
+        "FechaInicio": "2026-11-09",
+        "FechaLimite": "2026-11-30"
+      }
+    ],
+    "Visitas": [
+      "2026-11-22",
+      "2026-11-21",
+      "2026-11-20"
+    ],
+    "Insignias": [],
+    "Notificaciones": [],
+    "Nombre": "Cliente demo 27",
+    "NombreUsuario": "cliente.demo27",
+    "Credencial": "OFZ/kWf5Crad3W1\u002Bop1A5g==:RGXzRIg9kcrpS9MPV4wF5i1MKoQfc3yASpeSS7rNIeU="
+  },
+  {
+    "Edad": 46,
+    "FechaRegistro": "2026-09-24",
+    "PesoKg": 86.5,
+    "EstaturaMetros": 1.58,
+    "NombreUsuarioEntrenador": "entrenador.demo08",
+    "ParticipacionesClases": [],
+    "Mediciones": [
+      {
+        "Fecha": "2026-11-11",
+        "PesoKg": 88,
+        "EstaturaMetros": 1.58,
+        "PorcentajeGrasa": null,
+        "PorcentajeMusculo": null
+      },
+      {
+        "Fecha": "2026-11-21",
+        "PesoKg": 86.5,
+        "EstaturaMetros": 1.58,
+        "PorcentajeGrasa": null,
+        "PorcentajeMusculo": null
+      }
+    ],
+    "FechaProximaMedicion": null,
+    "Objetivos": [
+      {
+        "Id": "4dae9e4b-4060-47c6-bb8b-4e4cc5b5dee5",
+        "Tipo": 0,
+        "Direccion": 1,
+        "ValorObjetivo": 87,
+        "FechaInicio": "2026-11-09",
+        "FechaLimite": "2026-11-30"
+      }
+    ],
+    "Visitas": [
+      "2026-11-22",
+      "2026-11-21",
+      "2026-11-20",
+      "2026-11-19"
+    ],
+    "Insignias": [],
+    "Notificaciones": [],
+    "Nombre": "Cliente demo 28",
+    "NombreUsuario": "cliente.demo28",
+    "Credencial": "m4JbCtfcRsoL7Huhyt5o0Q==:Dt20Fgbp5Okhlisj7/6L37h9hfYYl6PeoKkLmDi5gX4="
+  },
+  {
+    "Edad": 47,
+    "FechaRegistro": "2026-09-24",
+    "PesoKg": 88.5,
+    "EstaturaMetros": 1.59,
+    "NombreUsuarioEntrenador": "entrenador.demo09",
+    "ParticipacionesClases": [],
+    "Mediciones": [
+      {
+        "Fecha": "2026-11-11",
+        "PesoKg": 89,
+        "EstaturaMetros": 1.59,
+        "PorcentajeGrasa": null,
+        "PorcentajeMusculo": null
+      },
+      {
+        "Fecha": "2026-11-21",
+        "PesoKg": 88.5,
+        "EstaturaMetros": 1.59,
+        "PorcentajeGrasa": null,
+        "PorcentajeMusculo": null
+      }
+    ],
+    "FechaProximaMedicion": null,
+    "Objetivos": [
+      {
+        "Id": "5e3fd4fa-95ac-4370-b4ea-e040ed7057f2",
+        "Tipo": 0,
+        "Direccion": 1,
+        "ValorObjetivo": 88,
+        "FechaInicio": "2026-11-09",
+        "FechaLimite": "2026-11-30"
+      }
+    ],
+    "Visitas": [
+      "2026-11-22",
+      "2026-11-21",
+      "2026-11-20",
+      "2026-11-19",
+      "2026-11-18"
+    ],
+    "Insignias": [],
+    "Notificaciones": [],
+    "Nombre": "Cliente demo 29",
+    "NombreUsuario": "cliente.demo29",
+    "Credencial": "lFBfH8r4/uxFBEbS2j/Y6w==:6r3lCg72hMqCANeAYY4CjhMleksjv2\u002B1I0N727QUf24="
+  },
+  {
+    "Edad": 48,
+    "FechaRegistro": "2026-09-24",
+    "PesoKg": 88.5,
+    "EstaturaMetros": 1.60,
+    "NombreUsuarioEntrenador": "entrenador.demo10",
+    "ParticipacionesClases": [],
+    "Mediciones": [
+      {
+        "Fecha": "2026-11-11",
+        "PesoKg": 90,
+        "EstaturaMetros": 1.60,
+        "PorcentajeGrasa": null,
+        "PorcentajeMusculo": null
+      },
+      {
+        "Fecha": "2026-11-21",
+        "PesoKg": 88.5,
+        "EstaturaMetros": 1.60,
+        "PorcentajeGrasa": null,
+        "PorcentajeMusculo": null
+      }
+    ],
+    "FechaProximaMedicion": null,
+    "Objetivos": [
+      {
+        "Id": "db0b62e9-df3d-4dc7-b9b2-ee7b6774f872",
+        "Tipo": 0,
+        "Direccion": 1,
+        "ValorObjetivo": 89,
+        "FechaInicio": "2026-11-09",
+        "FechaLimite": "2026-11-30"
+      }
+    ],
+    "Visitas": [
+      "2026-11-22",
+      "2026-11-21",
+      "2026-11-20",
+      "2026-11-19",
+      "2026-11-18",
+      "2026-11-17"
+    ],
+    "Insignias": [],
+    "Notificaciones": [],
+    "Nombre": "Cliente demo 30",
+    "NombreUsuario": "cliente.demo30",
+    "Credencial": "2hN2kdeMziNlgAKjmnLjAw==:8/saSjtzCKc\u002B3Q75Mw2LiGq4EKr66PCkG5vq537iis8="
+  },
+  {
+    "Edad": 49,
+    "FechaRegistro": "2026-09-24",
+    "PesoKg": 90.5,
+    "EstaturaMetros": 1.61,
+    "NombreUsuarioEntrenador": "entrenador.prueba",
+    "ParticipacionesClases": [],
+    "Mediciones": [
+      {
+        "Fecha": "2026-11-11",
+        "PesoKg": 91,
+        "EstaturaMetros": 1.61,
+        "PorcentajeGrasa": null,
+        "PorcentajeMusculo": null
+      },
+      {
+        "Fecha": "2026-11-21",
+        "PesoKg": 90.5,
+        "EstaturaMetros": 1.61,
+        "PorcentajeGrasa": null,
+        "PorcentajeMusculo": null
+      }
+    ],
+    "FechaProximaMedicion": null,
+    "Objetivos": [
+      {
+        "Id": "aeafcbb7-61e5-40c8-a330-0070b8c53f6f",
+        "Tipo": 0,
+        "Direccion": 1,
+        "ValorObjetivo": 90,
+        "FechaInicio": "2026-11-09",
+        "FechaLimite": "2026-11-30"
+      }
+    ],
+    "Visitas": [
+      "2026-11-22",
+      "2026-11-21",
+      "2026-11-20",
+      "2026-11-19",
+      "2026-11-18",
+      "2026-11-17",
+      "2026-11-16"
+    ],
+    "Insignias": [],
+    "Notificaciones": [],
+    "Nombre": "Cliente demo 31",
+    "NombreUsuario": "cliente.demo31",
+    "Credencial": "3yRW/ggwKdi\u002B\u002BG4vPUBXqQ==:S48JoljnlBLEpcmO6r804DuP060HTm14Oly52wXwLMI="
+  },
+  {
+    "Edad": 50,
+    "FechaRegistro": "2026-09-24",
+    "PesoKg": 90.5,
+    "EstaturaMetros": 1.62,
+    "NombreUsuarioEntrenador": "entrenador.demo02",
+    "ParticipacionesClases": [],
+    "Mediciones": [
+      {
+        "Fecha": "2026-11-11",
+        "PesoKg": 92,
+        "EstaturaMetros": 1.62,
+        "PorcentajeGrasa": null,
+        "PorcentajeMusculo": null
+      },
+      {
+        "Fecha": "2026-11-21",
+        "PesoKg": 90.5,
+        "EstaturaMetros": 1.62,
+        "PorcentajeGrasa": null,
+        "PorcentajeMusculo": null
+      }
+    ],
+    "FechaProximaMedicion": null,
+    "Objetivos": [
+      {
+        "Id": "78de3c88-39b7-4a17-9b96-cc8bc8c962a9",
+        "Tipo": 0,
+        "Direccion": 1,
+        "ValorObjetivo": 91,
+        "FechaInicio": "2026-11-09",
+        "FechaLimite": "2026-11-30"
+      }
+    ],
+    "Visitas": [],
+    "Insignias": [],
+    "Notificaciones": [],
+    "Nombre": "Cliente demo 32",
+    "NombreUsuario": "cliente.demo32",
+    "Credencial": "7sah\u002B1tpi8p7jbSbum8sAw==:nFK/L8FAzvxz0oDBEll7unpNL3Uq6ZYslKHPtZpRke0="
+  },
+  {
+    "Edad": 51,
+    "FechaRegistro": "2026-09-24",
+    "PesoKg": 92.5,
+    "EstaturaMetros": 1.63,
+    "NombreUsuarioEntrenador": "entrenador.demo03",
+    "ParticipacionesClases": [],
+    "Mediciones": [
+      {
+        "Fecha": "2026-11-11",
+        "PesoKg": 93,
+        "EstaturaMetros": 1.63,
+        "PorcentajeGrasa": null,
+        "PorcentajeMusculo": null
+      },
+      {
+        "Fecha": "2026-11-21",
+        "PesoKg": 92.5,
+        "EstaturaMetros": 1.63,
+        "PorcentajeGrasa": null,
+        "PorcentajeMusculo": null
+      }
+    ],
+    "FechaProximaMedicion": null,
+    "Objetivos": [
+      {
+        "Id": "c2f2692d-e10b-4f1c-8868-ae9231b2e9be",
+        "Tipo": 0,
+        "Direccion": 1,
+        "ValorObjetivo": 92,
+        "FechaInicio": "2026-11-09",
+        "FechaLimite": "2026-11-30"
+      }
+    ],
+    "Visitas": [
+      "2026-11-22"
+    ],
+    "Insignias": [],
+    "Notificaciones": [],
+    "Nombre": "Cliente demo 33",
+    "NombreUsuario": "cliente.demo33",
+    "Credencial": "FVdh8otC6rJh/L8AcQ7e2Q==:i1Z8rXHjoRaIKJ2JGVZoeLxiRjAnV7e1vz81S\u002BM62wg="
+  },
+  {
+    "Edad": 52,
+    "FechaRegistro": "2026-09-24",
+    "PesoKg": 92.5,
+    "EstaturaMetros": 1.64,
+    "NombreUsuarioEntrenador": "entrenador.demo04",
+    "ParticipacionesClases": [],
+    "Mediciones": [
+      {
+        "Fecha": "2026-11-11",
+        "PesoKg": 94,
+        "EstaturaMetros": 1.64,
+        "PorcentajeGrasa": null,
+        "PorcentajeMusculo": null
+      },
+      {
+        "Fecha": "2026-11-21",
+        "PesoKg": 92.5,
+        "EstaturaMetros": 1.64,
+        "PorcentajeGrasa": null,
+        "PorcentajeMusculo": null
+      }
+    ],
+    "FechaProximaMedicion": null,
+    "Objetivos": [
+      {
+        "Id": "505d69f4-feea-4b45-acf3-1cf420123a7e",
+        "Tipo": 0,
+        "Direccion": 1,
+        "ValorObjetivo": 93,
+        "FechaInicio": "2026-11-09",
+        "FechaLimite": "2026-11-30"
+      }
+    ],
+    "Visitas": [
+      "2026-11-22",
+      "2026-11-21"
+    ],
+    "Insignias": [],
+    "Notificaciones": [],
+    "Nombre": "Cliente demo 34",
+    "NombreUsuario": "cliente.demo34",
+    "Credencial": "dy831xY6ErPklGs9QPMg7Q==:ob6N4Yku2gJJV4cj50Z0I7Kzbo9SW3yii7OLbRiVgeA="
+  },
+  {
+    "Edad": 18,
+    "FechaRegistro": "2026-09-24",
+    "PesoKg": 94.5,
+    "EstaturaMetros": 1.65,
+    "NombreUsuarioEntrenador": "entrenador.demo05",
+    "ParticipacionesClases": [],
+    "Mediciones": [
+      {
+        "Fecha": "2026-11-11",
+        "PesoKg": 95,
+        "EstaturaMetros": 1.65,
+        "PorcentajeGrasa": null,
+        "PorcentajeMusculo": null
+      },
+      {
+        "Fecha": "2026-11-21",
+        "PesoKg": 94.5,
+        "EstaturaMetros": 1.65,
+        "PorcentajeGrasa": null,
+        "PorcentajeMusculo": null
+      }
+    ],
+    "FechaProximaMedicion": null,
+    "Objetivos": [
+      {
+        "Id": "2429c305-912b-4544-abc8-5bb5c750adc0",
+        "Tipo": 0,
+        "Direccion": 1,
+        "ValorObjetivo": 94,
+        "FechaInicio": "2026-11-09",
+        "FechaLimite": "2026-11-30"
+      }
+    ],
+    "Visitas": [
+      "2026-11-22",
+      "2026-11-21",
+      "2026-11-20"
+    ],
+    "Insignias": [],
+    "Notificaciones": [],
+    "Nombre": "Cliente demo 35",
+    "NombreUsuario": "cliente.demo35",
+    "Credencial": "HEIuhQHJ19fSKw8RUPfXkw==:4KZsoEPaALlGEktOF51OidIj0iqgsOyfPFZZzoAmEX4="
+  },
+  {
+    "Edad": 19,
+    "FechaRegistro": "2026-09-24",
+    "PesoKg": 94.5,
+    "EstaturaMetros": 1.66,
+    "NombreUsuarioEntrenador": "entrenador.demo06",
+    "ParticipacionesClases": [],
+    "Mediciones": [
+      {
+        "Fecha": "2026-11-11",
+        "PesoKg": 96,
+        "EstaturaMetros": 1.66,
+        "PorcentajeGrasa": null,
+        "PorcentajeMusculo": null
+      },
+      {
+        "Fecha": "2026-11-21",
+        "PesoKg": 94.5,
+        "EstaturaMetros": 1.66,
+        "PorcentajeGrasa": null,
+        "PorcentajeMusculo": null
+      }
+    ],
+    "FechaProximaMedicion": null,
+    "Objetivos": [
+      {
+        "Id": "2c491fdc-2c59-475b-b62d-216f959ab27c",
+        "Tipo": 0,
+        "Direccion": 1,
+        "ValorObjetivo": 95,
+        "FechaInicio": "2026-11-09",
+        "FechaLimite": "2026-11-30"
+      }
+    ],
+    "Visitas": [
+      "2026-11-22",
+      "2026-11-21",
+      "2026-11-20",
+      "2026-11-19"
+    ],
+    "Insignias": [],
+    "Notificaciones": [],
+    "Nombre": "Cliente demo 36",
+    "NombreUsuario": "cliente.demo36",
+    "Credencial": "izX1U93VOT9gS2wk7FVZdA==:LyyCGK3I0oN13pX3aXL0fYsfrGvpfrc6VqXsM1MvalU="
+  },
+  {
+    "Edad": 20,
+    "FechaRegistro": "2026-09-24",
+    "PesoKg": 96.5,
+    "EstaturaMetros": 1.67,
+    "NombreUsuarioEntrenador": "entrenador.demo07",
+    "ParticipacionesClases": [],
+    "Mediciones": [
+      {
+        "Fecha": "2026-11-11",
+        "PesoKg": 97,
+        "EstaturaMetros": 1.67,
+        "PorcentajeGrasa": null,
+        "PorcentajeMusculo": null
+      },
+      {
+        "Fecha": "2026-11-21",
+        "PesoKg": 96.5,
+        "EstaturaMetros": 1.67,
+        "PorcentajeGrasa": null,
+        "PorcentajeMusculo": null
+      }
+    ],
+    "FechaProximaMedicion": null,
+    "Objetivos": [
+      {
+        "Id": "617d9313-5788-4641-8800-bb6df555e542",
+        "Tipo": 0,
+        "Direccion": 1,
+        "ValorObjetivo": 96,
+        "FechaInicio": "2026-11-09",
+        "FechaLimite": "2026-11-30"
+      }
+    ],
+    "Visitas": [
+      "2026-11-22",
+      "2026-11-21",
+      "2026-11-20",
+      "2026-11-19",
+      "2026-11-18"
+    ],
+    "Insignias": [],
+    "Notificaciones": [],
+    "Nombre": "Cliente demo 37",
+    "NombreUsuario": "cliente.demo37",
+    "Credencial": "HIxa0nJQ9ZhdJSxJbTRsZA==:/Ddym5l3ime03euPx9SyAeubzNxceVhvewV5fD8JI4o="
+  },
+  {
+    "Edad": 21,
+    "FechaRegistro": "2026-09-24",
+    "PesoKg": 96.5,
+    "EstaturaMetros": 1.68,
+    "NombreUsuarioEntrenador": "entrenador.demo08",
+    "ParticipacionesClases": [],
+    "Mediciones": [
+      {
+        "Fecha": "2026-11-11",
+        "PesoKg": 98,
+        "EstaturaMetros": 1.68,
+        "PorcentajeGrasa": null,
+        "PorcentajeMusculo": null
+      },
+      {
+        "Fecha": "2026-11-21",
+        "PesoKg": 96.5,
+        "EstaturaMetros": 1.68,
+        "PorcentajeGrasa": null,
+        "PorcentajeMusculo": null
+      }
+    ],
+    "FechaProximaMedicion": null,
+    "Objetivos": [
+      {
+        "Id": "3d7a405a-5fd7-4fe1-bdc3-459689930519",
+        "Tipo": 0,
+        "Direccion": 1,
+        "ValorObjetivo": 97,
+        "FechaInicio": "2026-11-09",
+        "FechaLimite": "2026-11-30"
+      }
+    ],
+    "Visitas": [
+      "2026-11-22",
+      "2026-11-21",
+      "2026-11-20",
+      "2026-11-19",
+      "2026-11-18",
+      "2026-11-17"
+    ],
+    "Insignias": [],
+    "Notificaciones": [],
+    "Nombre": "Cliente demo 38",
+    "NombreUsuario": "cliente.demo38",
+    "Credencial": "odN/V2dIiW98LKCKwKw/uQ==:Oy2ySrTn19VLWEoiFwR3/gd8b3DQGAioFSx9x9RSAwk="
+  },
+  {
+    "Edad": 22,
+    "FechaRegistro": "2026-09-24",
+    "PesoKg": 98.5,
+    "EstaturaMetros": 1.69,
+    "NombreUsuarioEntrenador": "entrenador.demo09",
+    "ParticipacionesClases": [],
+    "Mediciones": [
+      {
+        "Fecha": "2026-11-11",
+        "PesoKg": 99,
+        "EstaturaMetros": 1.69,
+        "PorcentajeGrasa": null,
+        "PorcentajeMusculo": null
+      },
+      {
+        "Fecha": "2026-11-21",
+        "PesoKg": 98.5,
+        "EstaturaMetros": 1.69,
+        "PorcentajeGrasa": null,
+        "PorcentajeMusculo": null
+      }
+    ],
+    "FechaProximaMedicion": null,
+    "Objetivos": [
+      {
+        "Id": "fcd59279-f43d-4294-b9df-a7e4c041a5a0",
+        "Tipo": 0,
+        "Direccion": 1,
+        "ValorObjetivo": 98,
+        "FechaInicio": "2026-11-09",
+        "FechaLimite": "2026-11-30"
+      }
+    ],
+    "Visitas": [
+      "2026-11-22",
+      "2026-11-21",
+      "2026-11-20",
+      "2026-11-19",
+      "2026-11-18",
+      "2026-11-17",
+      "2026-11-16"
+    ],
+    "Insignias": [],
+    "Notificaciones": [],
+    "Nombre": "Cliente demo 39",
+    "NombreUsuario": "cliente.demo39",
+    "Credencial": "d4BjqQgE/rrUs7UYU5O4Lw==:zOaqnJza16f4n7aIV9HEwupf8TOsn1/2teFOoB6VliQ="
+  },
+  {
+    "Edad": 23,
+    "FechaRegistro": "2026-09-24",
+    "PesoKg": 98.5,
+    "EstaturaMetros": 1.70,
+    "NombreUsuarioEntrenador": "entrenador.demo10",
+    "ParticipacionesClases": [],
+    "Mediciones": [
+      {
+        "Fecha": "2026-11-11",
+        "PesoKg": 100,
+        "EstaturaMetros": 1.70,
+        "PorcentajeGrasa": null,
+        "PorcentajeMusculo": null
+      },
+      {
+        "Fecha": "2026-11-21",
+        "PesoKg": 98.5,
+        "EstaturaMetros": 1.70,
+        "PorcentajeGrasa": null,
+        "PorcentajeMusculo": null
+      }
+    ],
+    "FechaProximaMedicion": null,
+    "Objetivos": [
+      {
+        "Id": "6e44093a-70fa-439e-8b01-c3e5d9d13a41",
+        "Tipo": 0,
+        "Direccion": 1,
+        "ValorObjetivo": 99,
+        "FechaInicio": "2026-11-09",
+        "FechaLimite": "2026-11-30"
+      }
+    ],
+    "Visitas": [],
+    "Insignias": [],
+    "Notificaciones": [],
+    "Nombre": "Cliente demo 40",
+    "NombreUsuario": "cliente.demo40",
+    "Credencial": "vhgkjolgNI7J3UyxV7DMOg==:8Kwv42ujpY\u002Bws3Hq8343ZYVaZSV7w\u002Bu\u002Bm8W70ejwy9g="
+  }
+]

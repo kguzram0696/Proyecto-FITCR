@@ -1,0 +1,7484 @@
+[
+  {
+    "Id": "ea233e34-8f3d-4ea3-847a-3034366963b3",
+    "Nombre": "Rutina demo 01",
+    "NombreUsuarioCliente": "cliente.demo01",
+    "NombreUsuarioEntrenador": "entrenador.prueba",
+    "FechaInicio": "2026-10-26",
+    "FechaFin": "2026-11-01",
+    "FechaAsignacion": "2026-10-26",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Peso muerto rumano",
+        "Series": 3,
+        "Repeticiones": 12,
+        "CargaKg": 10.0,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-10-28",
+            "CargaAnteriorKg": 7.5,
+            "CargaNuevaKg": 10.0
+          }
+        ]
+      },
+      {
+        "Nombre": "Curl de b\u00EDceps",
+        "Series": 4,
+        "Repeticiones": 12,
+        "CargaKg": 10.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Press de banca",
+        "Series": 2,
+        "Repeticiones": 10,
+        "CargaKg": 12.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "578b9112-6ff8-4a73-8538-e729e3337917",
+    "Nombre": "Rutina demo 02",
+    "NombreUsuarioCliente": "cliente.demo01",
+    "NombreUsuarioEntrenador": "entrenador.prueba",
+    "FechaInicio": "2026-11-02",
+    "FechaFin": "2026-11-08",
+    "FechaAsignacion": "2026-11-02",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Jal\u00F3n al pecho",
+        "Series": 4,
+        "Repeticiones": 11,
+        "CargaKg": 12.5,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-04",
+            "CargaAnteriorKg": 10.0,
+            "CargaNuevaKg": 12.5
+          }
+        ]
+      },
+      {
+        "Nombre": "Extensi\u00F3n de tr\u00EDceps",
+        "Series": 2,
+        "Repeticiones": 11,
+        "CargaKg": 12.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Plancha",
+        "Series": 3,
+        "Repeticiones": 1,
+        "CargaKg": 0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "f51f2265-ef7c-44bb-a3e7-51cc190ceab2",
+    "Nombre": "Rutina demo 03",
+    "NombreUsuarioCliente": "cliente.demo01",
+    "NombreUsuarioEntrenador": "entrenador.prueba",
+    "FechaInicio": "2026-11-09",
+    "FechaFin": "2026-11-15",
+    "FechaAsignacion": "2026-11-09",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Elevaci\u00F3n lateral",
+        "Series": 2,
+        "Repeticiones": 10,
+        "CargaKg": 15.0,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-11",
+            "CargaAnteriorKg": 12.5,
+            "CargaNuevaKg": 15.0
+          }
+        ]
+      },
+      {
+        "Nombre": "Remo con mancuerna",
+        "Series": 3,
+        "Repeticiones": 8,
+        "CargaKg": 15.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Zancadas",
+        "Series": 4,
+        "Repeticiones": 8,
+        "CargaKg": 17.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "de707b37-dfdf-4495-b201-2d75b9bba4ba",
+    "Nombre": "Rutina demo 04",
+    "NombreUsuarioCliente": "cliente.demo01",
+    "NombreUsuarioEntrenador": "entrenador.prueba",
+    "FechaInicio": "2026-11-16",
+    "FechaFin": "2026-11-22",
+    "FechaAsignacion": "2026-11-16",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Sentadilla",
+        "Series": 3,
+        "Repeticiones": 12,
+        "CargaKg": 17.5,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-18",
+            "CargaAnteriorKg": 15.0,
+            "CargaNuevaKg": 17.5
+          }
+        ]
+      },
+      {
+        "Nombre": "Press militar",
+        "Series": 4,
+        "Repeticiones": 12,
+        "CargaKg": 17.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Puente de gl\u00FAteos",
+        "Series": 2,
+        "Repeticiones": 12,
+        "CargaKg": 20.0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "1a603d88-38c5-4e75-865e-0c9fe8a17b28",
+    "Nombre": "Rutina demo 05",
+    "NombreUsuarioCliente": "cliente.demo01",
+    "NombreUsuarioEntrenador": "entrenador.prueba",
+    "FechaInicio": "2026-11-23",
+    "FechaFin": "2026-11-29",
+    "FechaAsignacion": "2026-11-23",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Peso muerto rumano",
+        "Series": 4,
+        "Repeticiones": 11,
+        "CargaKg": 17.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Curl de b\u00EDceps",
+        "Series": 2,
+        "Repeticiones": 11,
+        "CargaKg": 20.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Press de banca",
+        "Series": 3,
+        "Repeticiones": 9,
+        "CargaKg": 22.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "fb52a73c-1402-4c4a-a49b-25b1a1c461ee",
+    "Nombre": "Rutina demo 01",
+    "NombreUsuarioCliente": "cliente.demo02",
+    "NombreUsuarioEntrenador": "entrenador.demo02",
+    "FechaInicio": "2026-10-26",
+    "FechaFin": "2026-11-01",
+    "FechaAsignacion": "2026-10-26",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Puente de gl\u00FAteos",
+        "Series": 3,
+        "Repeticiones": 9,
+        "CargaKg": 12.5,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-10-28",
+            "CargaAnteriorKg": 10.0,
+            "CargaNuevaKg": 12.5
+          }
+        ]
+      },
+      {
+        "Nombre": "Peso muerto rumano",
+        "Series": 4,
+        "Repeticiones": 12,
+        "CargaKg": 12.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Curl de b\u00EDceps",
+        "Series": 2,
+        "Repeticiones": 12,
+        "CargaKg": 15.0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "18b0ff5b-debe-476d-9125-e9b1928d2901",
+    "Nombre": "Rutina demo 02",
+    "NombreUsuarioCliente": "cliente.demo02",
+    "NombreUsuarioEntrenador": "entrenador.demo02",
+    "FechaInicio": "2026-11-02",
+    "FechaFin": "2026-11-08",
+    "FechaAsignacion": "2026-11-02",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Press de banca",
+        "Series": 4,
+        "Repeticiones": 11,
+        "CargaKg": 15.0,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-04",
+            "CargaAnteriorKg": 12.5,
+            "CargaNuevaKg": 15.0
+          }
+        ]
+      },
+      {
+        "Nombre": "Jal\u00F3n al pecho",
+        "Series": 2,
+        "Repeticiones": 11,
+        "CargaKg": 15.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Extensi\u00F3n de tr\u00EDceps",
+        "Series": 3,
+        "Repeticiones": 11,
+        "CargaKg": 17.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "d53751db-2a9a-4188-827f-efb8569dab3e",
+    "Nombre": "Rutina demo 03",
+    "NombreUsuarioCliente": "cliente.demo02",
+    "NombreUsuarioEntrenador": "entrenador.demo02",
+    "FechaInicio": "2026-11-09",
+    "FechaFin": "2026-11-15",
+    "FechaAsignacion": "2026-11-09",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Plancha",
+        "Series": 2,
+        "Repeticiones": 1,
+        "CargaKg": 0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Elevaci\u00F3n lateral",
+        "Series": 3,
+        "Repeticiones": 10,
+        "CargaKg": 17.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Remo con mancuerna",
+        "Series": 4,
+        "Repeticiones": 8,
+        "CargaKg": 20.0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "4d940596-30c6-4542-97b1-7267fba3d6d6",
+    "Nombre": "Rutina demo 04",
+    "NombreUsuarioCliente": "cliente.demo02",
+    "NombreUsuarioEntrenador": "entrenador.demo02",
+    "FechaInicio": "2026-11-16",
+    "FechaFin": "2026-11-22",
+    "FechaAsignacion": "2026-11-16",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Zancadas",
+        "Series": 3,
+        "Repeticiones": 9,
+        "CargaKg": 20.0,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-18",
+            "CargaAnteriorKg": 17.5,
+            "CargaNuevaKg": 20.0
+          }
+        ]
+      },
+      {
+        "Nombre": "Sentadilla",
+        "Series": 4,
+        "Repeticiones": 12,
+        "CargaKg": 20.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Press militar",
+        "Series": 2,
+        "Repeticiones": 12,
+        "CargaKg": 22.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "e99a6659-fa99-47f6-bb20-9700a1af0b40",
+    "Nombre": "Rutina demo 05",
+    "NombreUsuarioCliente": "cliente.demo02",
+    "NombreUsuarioEntrenador": "entrenador.demo02",
+    "FechaInicio": "2026-11-23",
+    "FechaFin": "2026-11-29",
+    "FechaAsignacion": "2026-11-23",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Puente de gl\u00FAteos",
+        "Series": 4,
+        "Repeticiones": 8,
+        "CargaKg": 20.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Peso muerto rumano",
+        "Series": 2,
+        "Repeticiones": 11,
+        "CargaKg": 22.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Curl de b\u00EDceps",
+        "Series": 3,
+        "Repeticiones": 11,
+        "CargaKg": 5.0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "96d536fc-1861-42a4-858d-dbb6712ada13",
+    "Nombre": "Rutina demo 01",
+    "NombreUsuarioCliente": "cliente.demo03",
+    "NombreUsuarioEntrenador": "entrenador.demo03",
+    "FechaInicio": "2026-10-26",
+    "FechaFin": "2026-11-01",
+    "FechaAsignacion": "2026-10-26",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Press militar",
+        "Series": 3,
+        "Repeticiones": 9,
+        "CargaKg": 15.0,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-10-28",
+            "CargaAnteriorKg": 12.5,
+            "CargaNuevaKg": 15.0
+          }
+        ]
+      },
+      {
+        "Nombre": "Puente de gl\u00FAteos",
+        "Series": 4,
+        "Repeticiones": 9,
+        "CargaKg": 15.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Peso muerto rumano",
+        "Series": 2,
+        "Repeticiones": 12,
+        "CargaKg": 17.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "e9d065bb-146f-49bb-b904-e5499c2dd5cd",
+    "Nombre": "Rutina demo 02",
+    "NombreUsuarioCliente": "cliente.demo03",
+    "NombreUsuarioEntrenador": "entrenador.demo03",
+    "FechaInicio": "2026-11-02",
+    "FechaFin": "2026-11-08",
+    "FechaAsignacion": "2026-11-02",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Curl de b\u00EDceps",
+        "Series": 4,
+        "Repeticiones": 8,
+        "CargaKg": 17.5,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-04",
+            "CargaAnteriorKg": 15.0,
+            "CargaNuevaKg": 17.5
+          }
+        ]
+      },
+      {
+        "Nombre": "Press de banca",
+        "Series": 2,
+        "Repeticiones": 11,
+        "CargaKg": 17.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Jal\u00F3n al pecho",
+        "Series": 3,
+        "Repeticiones": 11,
+        "CargaKg": 20.0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "7114be1b-bd83-4a38-b7e4-226069a4fa1d",
+    "Nombre": "Rutina demo 03",
+    "NombreUsuarioCliente": "cliente.demo03",
+    "NombreUsuarioEntrenador": "entrenador.demo03",
+    "FechaInicio": "2026-11-09",
+    "FechaFin": "2026-11-15",
+    "FechaAsignacion": "2026-11-09",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Extensi\u00F3n de tr\u00EDceps",
+        "Series": 2,
+        "Repeticiones": 12,
+        "CargaKg": 20.0,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-11",
+            "CargaAnteriorKg": 17.5,
+            "CargaNuevaKg": 20.0
+          }
+        ]
+      },
+      {
+        "Nombre": "Plancha",
+        "Series": 3,
+        "Repeticiones": 1,
+        "CargaKg": 0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Elevaci\u00F3n lateral",
+        "Series": 4,
+        "Repeticiones": 10,
+        "CargaKg": 22.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "95455384-0cc0-45df-bd17-817f4089c471",
+    "Nombre": "Rutina demo 04",
+    "NombreUsuarioCliente": "cliente.demo03",
+    "NombreUsuarioEntrenador": "entrenador.demo03",
+    "FechaInicio": "2026-11-16",
+    "FechaFin": "2026-11-22",
+    "FechaAsignacion": "2026-11-16",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Remo con mancuerna",
+        "Series": 3,
+        "Repeticiones": 9,
+        "CargaKg": 22.5,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-18",
+            "CargaAnteriorKg": 20.0,
+            "CargaNuevaKg": 22.5
+          }
+        ]
+      },
+      {
+        "Nombre": "Zancadas",
+        "Series": 4,
+        "Repeticiones": 9,
+        "CargaKg": 22.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Sentadilla",
+        "Series": 2,
+        "Repeticiones": 12,
+        "CargaKg": 5.0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "271f30e0-14aa-46e4-b1af-61b7f5f8da3f",
+    "Nombre": "Rutina demo 05",
+    "NombreUsuarioCliente": "cliente.demo03",
+    "NombreUsuarioEntrenador": "entrenador.demo03",
+    "FechaInicio": "2026-11-23",
+    "FechaFin": "2026-11-29",
+    "FechaAsignacion": "2026-11-23",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Press militar",
+        "Series": 4,
+        "Repeticiones": 8,
+        "CargaKg": 22.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Puente de gl\u00FAteos",
+        "Series": 2,
+        "Repeticiones": 8,
+        "CargaKg": 5.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Peso muerto rumano",
+        "Series": 3,
+        "Repeticiones": 11,
+        "CargaKg": 7.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "f8d5f7da-3077-47f5-97df-6e52c0f8e188",
+    "Nombre": "Rutina demo 01",
+    "NombreUsuarioCliente": "cliente.demo04",
+    "NombreUsuarioEntrenador": "entrenador.demo04",
+    "FechaInicio": "2026-10-26",
+    "FechaFin": "2026-11-01",
+    "FechaAsignacion": "2026-10-26",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Sentadilla",
+        "Series": 3,
+        "Repeticiones": 9,
+        "CargaKg": 17.5,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-10-28",
+            "CargaAnteriorKg": 15.0,
+            "CargaNuevaKg": 17.5
+          }
+        ]
+      },
+      {
+        "Nombre": "Press militar",
+        "Series": 4,
+        "Repeticiones": 9,
+        "CargaKg": 17.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Puente de gl\u00FAteos",
+        "Series": 2,
+        "Repeticiones": 9,
+        "CargaKg": 20.0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "4abf4962-de91-4d32-827f-bfc900b86db6",
+    "Nombre": "Rutina demo 02",
+    "NombreUsuarioCliente": "cliente.demo04",
+    "NombreUsuarioEntrenador": "entrenador.demo04",
+    "FechaInicio": "2026-11-02",
+    "FechaFin": "2026-11-08",
+    "FechaAsignacion": "2026-11-02",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Peso muerto rumano",
+        "Series": 4,
+        "Repeticiones": 8,
+        "CargaKg": 20.0,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-04",
+            "CargaAnteriorKg": 17.5,
+            "CargaNuevaKg": 20.0
+          }
+        ]
+      },
+      {
+        "Nombre": "Curl de b\u00EDceps",
+        "Series": 2,
+        "Repeticiones": 8,
+        "CargaKg": 20.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Press de banca",
+        "Series": 3,
+        "Repeticiones": 11,
+        "CargaKg": 22.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "f9056484-bf69-4b97-87c9-fc599113d7e4",
+    "Nombre": "Rutina demo 03",
+    "NombreUsuarioCliente": "cliente.demo04",
+    "NombreUsuarioEntrenador": "entrenador.demo04",
+    "FechaInicio": "2026-11-09",
+    "FechaFin": "2026-11-15",
+    "FechaAsignacion": "2026-11-09",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Jal\u00F3n al pecho",
+        "Series": 2,
+        "Repeticiones": 12,
+        "CargaKg": 22.5,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-11",
+            "CargaAnteriorKg": 20.0,
+            "CargaNuevaKg": 22.5
+          }
+        ]
+      },
+      {
+        "Nombre": "Extensi\u00F3n de tr\u00EDceps",
+        "Series": 3,
+        "Repeticiones": 12,
+        "CargaKg": 22.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Plancha",
+        "Series": 4,
+        "Repeticiones": 1,
+        "CargaKg": 0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "be309f63-355f-4d67-a1ef-204dc4d5611f",
+    "Nombre": "Rutina demo 04",
+    "NombreUsuarioCliente": "cliente.demo04",
+    "NombreUsuarioEntrenador": "entrenador.demo04",
+    "FechaInicio": "2026-11-16",
+    "FechaFin": "2026-11-22",
+    "FechaAsignacion": "2026-11-16",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Elevaci\u00F3n lateral",
+        "Series": 3,
+        "Repeticiones": 11,
+        "CargaKg": 25.0,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-18",
+            "CargaAnteriorKg": 22.5,
+            "CargaNuevaKg": 25.0
+          }
+        ]
+      },
+      {
+        "Nombre": "Remo con mancuerna",
+        "Series": 4,
+        "Repeticiones": 9,
+        "CargaKg": 5.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Zancadas",
+        "Series": 2,
+        "Repeticiones": 9,
+        "CargaKg": 7.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "2916864e-49c8-400c-9cb1-0558682e2d6a",
+    "Nombre": "Rutina demo 05",
+    "NombreUsuarioCliente": "cliente.demo04",
+    "NombreUsuarioEntrenador": "entrenador.demo04",
+    "FechaInicio": "2026-11-23",
+    "FechaFin": "2026-11-29",
+    "FechaAsignacion": "2026-11-23",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Sentadilla",
+        "Series": 4,
+        "Repeticiones": 8,
+        "CargaKg": 5.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Press militar",
+        "Series": 2,
+        "Repeticiones": 8,
+        "CargaKg": 7.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Puente de gl\u00FAteos",
+        "Series": 3,
+        "Repeticiones": 8,
+        "CargaKg": 10.0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "e9608cab-8da9-4a16-a888-1356758932e5",
+    "Nombre": "Rutina demo 01",
+    "NombreUsuarioCliente": "cliente.demo05",
+    "NombreUsuarioEntrenador": "entrenador.demo05",
+    "FechaInicio": "2026-10-26",
+    "FechaFin": "2026-11-01",
+    "FechaAsignacion": "2026-10-26",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Zancadas",
+        "Series": 3,
+        "Repeticiones": 11,
+        "CargaKg": 20.0,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-10-28",
+            "CargaAnteriorKg": 17.5,
+            "CargaNuevaKg": 20.0
+          }
+        ]
+      },
+      {
+        "Nombre": "Sentadilla",
+        "Series": 4,
+        "Repeticiones": 9,
+        "CargaKg": 20.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Press militar",
+        "Series": 2,
+        "Repeticiones": 9,
+        "CargaKg": 22.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "0481c680-635b-419c-8787-7e48f5b29b57",
+    "Nombre": "Rutina demo 02",
+    "NombreUsuarioCliente": "cliente.demo05",
+    "NombreUsuarioEntrenador": "entrenador.demo05",
+    "FechaInicio": "2026-11-02",
+    "FechaFin": "2026-11-08",
+    "FechaAsignacion": "2026-11-02",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Puente de gl\u00FAteos",
+        "Series": 4,
+        "Repeticiones": 10,
+        "CargaKg": 22.5,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-04",
+            "CargaAnteriorKg": 20.0,
+            "CargaNuevaKg": 22.5
+          }
+        ]
+      },
+      {
+        "Nombre": "Peso muerto rumano",
+        "Series": 2,
+        "Repeticiones": 8,
+        "CargaKg": 22.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Curl de b\u00EDceps",
+        "Series": 3,
+        "Repeticiones": 8,
+        "CargaKg": 5.0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "3e896c86-8365-4f6e-a187-626e64c6b017",
+    "Nombre": "Rutina demo 03",
+    "NombreUsuarioCliente": "cliente.demo05",
+    "NombreUsuarioEntrenador": "entrenador.demo05",
+    "FechaInicio": "2026-11-09",
+    "FechaFin": "2026-11-15",
+    "FechaAsignacion": "2026-11-09",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Press de banca",
+        "Series": 2,
+        "Repeticiones": 12,
+        "CargaKg": 25.0,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-11",
+            "CargaAnteriorKg": 22.5,
+            "CargaNuevaKg": 25.0
+          }
+        ]
+      },
+      {
+        "Nombre": "Jal\u00F3n al pecho",
+        "Series": 3,
+        "Repeticiones": 12,
+        "CargaKg": 5.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Extensi\u00F3n de tr\u00EDceps",
+        "Series": 4,
+        "Repeticiones": 12,
+        "CargaKg": 7.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "aad2fa12-e834-4f4f-adef-45606b4dbae9",
+    "Nombre": "Rutina demo 04",
+    "NombreUsuarioCliente": "cliente.demo05",
+    "NombreUsuarioEntrenador": "entrenador.demo05",
+    "FechaInicio": "2026-11-16",
+    "FechaFin": "2026-11-22",
+    "FechaAsignacion": "2026-11-16",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Plancha",
+        "Series": 3,
+        "Repeticiones": 1,
+        "CargaKg": 0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Elevaci\u00F3n lateral",
+        "Series": 4,
+        "Repeticiones": 11,
+        "CargaKg": 7.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Remo con mancuerna",
+        "Series": 2,
+        "Repeticiones": 9,
+        "CargaKg": 10.0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "2a4aaa4a-615a-4d4c-98a2-cac58f28d39d",
+    "Nombre": "Rutina demo 05",
+    "NombreUsuarioCliente": "cliente.demo05",
+    "NombreUsuarioEntrenador": "entrenador.demo05",
+    "FechaInicio": "2026-11-23",
+    "FechaFin": "2026-11-29",
+    "FechaAsignacion": "2026-11-23",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Zancadas",
+        "Series": 4,
+        "Repeticiones": 10,
+        "CargaKg": 7.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Sentadilla",
+        "Series": 2,
+        "Repeticiones": 8,
+        "CargaKg": 10.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Press militar",
+        "Series": 3,
+        "Repeticiones": 8,
+        "CargaKg": 12.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "63c9b89d-65e6-4974-851e-35d5e26283fc",
+    "Nombre": "Rutina demo 01",
+    "NombreUsuarioCliente": "cliente.demo06",
+    "NombreUsuarioEntrenador": "entrenador.demo06",
+    "FechaInicio": "2026-10-26",
+    "FechaFin": "2026-11-01",
+    "FechaAsignacion": "2026-10-26",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Remo con mancuerna",
+        "Series": 3,
+        "Repeticiones": 11,
+        "CargaKg": 22.5,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-10-28",
+            "CargaAnteriorKg": 20.0,
+            "CargaNuevaKg": 22.5
+          }
+        ]
+      },
+      {
+        "Nombre": "Zancadas",
+        "Series": 4,
+        "Repeticiones": 11,
+        "CargaKg": 22.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Sentadilla",
+        "Series": 2,
+        "Repeticiones": 9,
+        "CargaKg": 5.0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "3d54840f-aeca-476f-a966-1b402248c733",
+    "Nombre": "Rutina demo 02",
+    "NombreUsuarioCliente": "cliente.demo06",
+    "NombreUsuarioEntrenador": "entrenador.demo06",
+    "FechaInicio": "2026-11-02",
+    "FechaFin": "2026-11-08",
+    "FechaAsignacion": "2026-11-02",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Press militar",
+        "Series": 4,
+        "Repeticiones": 10,
+        "CargaKg": 25.0,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-04",
+            "CargaAnteriorKg": 22.5,
+            "CargaNuevaKg": 25.0
+          }
+        ]
+      },
+      {
+        "Nombre": "Puente de gl\u00FAteos",
+        "Series": 2,
+        "Repeticiones": 10,
+        "CargaKg": 5.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Peso muerto rumano",
+        "Series": 3,
+        "Repeticiones": 8,
+        "CargaKg": 7.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "f1ca06ff-4384-4b20-9713-03a7c3888239",
+    "Nombre": "Rutina demo 03",
+    "NombreUsuarioCliente": "cliente.demo06",
+    "NombreUsuarioEntrenador": "entrenador.demo06",
+    "FechaInicio": "2026-11-09",
+    "FechaFin": "2026-11-15",
+    "FechaAsignacion": "2026-11-09",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Curl de b\u00EDceps",
+        "Series": 2,
+        "Repeticiones": 9,
+        "CargaKg": 7.5,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-11",
+            "CargaAnteriorKg": 5.0,
+            "CargaNuevaKg": 7.5
+          }
+        ]
+      },
+      {
+        "Nombre": "Press de banca",
+        "Series": 3,
+        "Repeticiones": 12,
+        "CargaKg": 7.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Jal\u00F3n al pecho",
+        "Series": 4,
+        "Repeticiones": 12,
+        "CargaKg": 10.0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "96eb34fd-0065-4c1b-993e-7b064663db44",
+    "Nombre": "Rutina demo 04",
+    "NombreUsuarioCliente": "cliente.demo06",
+    "NombreUsuarioEntrenador": "entrenador.demo06",
+    "FechaInicio": "2026-11-16",
+    "FechaFin": "2026-11-22",
+    "FechaAsignacion": "2026-11-16",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Extensi\u00F3n de tr\u00EDceps",
+        "Series": 3,
+        "Repeticiones": 8,
+        "CargaKg": 10.0,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-18",
+            "CargaAnteriorKg": 7.5,
+            "CargaNuevaKg": 10.0
+          }
+        ]
+      },
+      {
+        "Nombre": "Plancha",
+        "Series": 4,
+        "Repeticiones": 1,
+        "CargaKg": 0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Elevaci\u00F3n lateral",
+        "Series": 2,
+        "Repeticiones": 11,
+        "CargaKg": 12.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "0b9a4840-5824-4f8f-8817-2ed48c174206",
+    "Nombre": "Rutina demo 05",
+    "NombreUsuarioCliente": "cliente.demo06",
+    "NombreUsuarioEntrenador": "entrenador.demo06",
+    "FechaInicio": "2026-11-23",
+    "FechaFin": "2026-11-29",
+    "FechaAsignacion": "2026-11-23",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Remo con mancuerna",
+        "Series": 4,
+        "Repeticiones": 10,
+        "CargaKg": 10.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Zancadas",
+        "Series": 2,
+        "Repeticiones": 10,
+        "CargaKg": 12.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Sentadilla",
+        "Series": 3,
+        "Repeticiones": 8,
+        "CargaKg": 15.0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "8361cbae-9d6c-4557-bce3-566331934964",
+    "Nombre": "Rutina demo 01",
+    "NombreUsuarioCliente": "cliente.demo07",
+    "NombreUsuarioEntrenador": "entrenador.demo07",
+    "FechaInicio": "2026-10-26",
+    "FechaFin": "2026-11-01",
+    "FechaAsignacion": "2026-10-26",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Elevaci\u00F3n lateral",
+        "Series": 3,
+        "Repeticiones": 8,
+        "CargaKg": 25.0,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-10-28",
+            "CargaAnteriorKg": 22.5,
+            "CargaNuevaKg": 25.0
+          }
+        ]
+      },
+      {
+        "Nombre": "Remo con mancuerna",
+        "Series": 4,
+        "Repeticiones": 11,
+        "CargaKg": 5.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Zancadas",
+        "Series": 2,
+        "Repeticiones": 11,
+        "CargaKg": 7.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "90082444-19e1-46f2-919a-76fb9f7b3729",
+    "Nombre": "Rutina demo 02",
+    "NombreUsuarioCliente": "cliente.demo07",
+    "NombreUsuarioEntrenador": "entrenador.demo07",
+    "FechaInicio": "2026-11-02",
+    "FechaFin": "2026-11-08",
+    "FechaAsignacion": "2026-11-02",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Sentadilla",
+        "Series": 4,
+        "Repeticiones": 10,
+        "CargaKg": 7.5,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-04",
+            "CargaAnteriorKg": 5.0,
+            "CargaNuevaKg": 7.5
+          }
+        ]
+      },
+      {
+        "Nombre": "Press militar",
+        "Series": 2,
+        "Repeticiones": 10,
+        "CargaKg": 7.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Puente de gl\u00FAteos",
+        "Series": 3,
+        "Repeticiones": 10,
+        "CargaKg": 10.0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "230dea31-6396-4222-b024-b543616ddd99",
+    "Nombre": "Rutina demo 03",
+    "NombreUsuarioCliente": "cliente.demo07",
+    "NombreUsuarioEntrenador": "entrenador.demo07",
+    "FechaInicio": "2026-11-09",
+    "FechaFin": "2026-11-15",
+    "FechaAsignacion": "2026-11-09",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Peso muerto rumano",
+        "Series": 2,
+        "Repeticiones": 9,
+        "CargaKg": 10.0,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-11",
+            "CargaAnteriorKg": 7.5,
+            "CargaNuevaKg": 10.0
+          }
+        ]
+      },
+      {
+        "Nombre": "Curl de b\u00EDceps",
+        "Series": 3,
+        "Repeticiones": 9,
+        "CargaKg": 10.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Press de banca",
+        "Series": 4,
+        "Repeticiones": 12,
+        "CargaKg": 12.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "4b2a8c6a-79ab-497b-a8e2-44e65db9283a",
+    "Nombre": "Rutina demo 04",
+    "NombreUsuarioCliente": "cliente.demo07",
+    "NombreUsuarioEntrenador": "entrenador.demo07",
+    "FechaInicio": "2026-11-16",
+    "FechaFin": "2026-11-22",
+    "FechaAsignacion": "2026-11-16",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Jal\u00F3n al pecho",
+        "Series": 3,
+        "Repeticiones": 8,
+        "CargaKg": 12.5,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-18",
+            "CargaAnteriorKg": 10.0,
+            "CargaNuevaKg": 12.5
+          }
+        ]
+      },
+      {
+        "Nombre": "Extensi\u00F3n de tr\u00EDceps",
+        "Series": 4,
+        "Repeticiones": 8,
+        "CargaKg": 12.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Plancha",
+        "Series": 2,
+        "Repeticiones": 1,
+        "CargaKg": 0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "001ad4dd-83d5-4501-99ce-2c9ce8f0bded",
+    "Nombre": "Rutina demo 05",
+    "NombreUsuarioCliente": "cliente.demo07",
+    "NombreUsuarioEntrenador": "entrenador.demo07",
+    "FechaInicio": "2026-11-23",
+    "FechaFin": "2026-11-29",
+    "FechaAsignacion": "2026-11-23",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Elevaci\u00F3n lateral",
+        "Series": 4,
+        "Repeticiones": 12,
+        "CargaKg": 12.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Remo con mancuerna",
+        "Series": 2,
+        "Repeticiones": 10,
+        "CargaKg": 15.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Zancadas",
+        "Series": 3,
+        "Repeticiones": 10,
+        "CargaKg": 17.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "ff898d3c-0006-4d56-8098-76ca7252694d",
+    "Nombre": "Rutina demo 01",
+    "NombreUsuarioCliente": "cliente.demo08",
+    "NombreUsuarioEntrenador": "entrenador.demo08",
+    "FechaInicio": "2026-10-26",
+    "FechaFin": "2026-11-01",
+    "FechaAsignacion": "2026-10-26",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Plancha",
+        "Series": 3,
+        "Repeticiones": 1,
+        "CargaKg": 0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Elevaci\u00F3n lateral",
+        "Series": 4,
+        "Repeticiones": 8,
+        "CargaKg": 7.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Remo con mancuerna",
+        "Series": 2,
+        "Repeticiones": 11,
+        "CargaKg": 10.0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "d3c6b1f1-2474-45fd-b1c3-3fc160206293",
+    "Nombre": "Rutina demo 02",
+    "NombreUsuarioCliente": "cliente.demo08",
+    "NombreUsuarioEntrenador": "entrenador.demo08",
+    "FechaInicio": "2026-11-02",
+    "FechaFin": "2026-11-08",
+    "FechaAsignacion": "2026-11-02",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Zancadas",
+        "Series": 4,
+        "Repeticiones": 12,
+        "CargaKg": 10.0,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-04",
+            "CargaAnteriorKg": 7.5,
+            "CargaNuevaKg": 10.0
+          }
+        ]
+      },
+      {
+        "Nombre": "Sentadilla",
+        "Series": 2,
+        "Repeticiones": 10,
+        "CargaKg": 10.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Press militar",
+        "Series": 3,
+        "Repeticiones": 10,
+        "CargaKg": 12.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "a0924c0f-e054-4959-ae1b-58923f6fb258",
+    "Nombre": "Rutina demo 03",
+    "NombreUsuarioCliente": "cliente.demo08",
+    "NombreUsuarioEntrenador": "entrenador.demo08",
+    "FechaInicio": "2026-11-09",
+    "FechaFin": "2026-11-15",
+    "FechaAsignacion": "2026-11-09",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Puente de gl\u00FAteos",
+        "Series": 2,
+        "Repeticiones": 11,
+        "CargaKg": 12.5,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-11",
+            "CargaAnteriorKg": 10.0,
+            "CargaNuevaKg": 12.5
+          }
+        ]
+      },
+      {
+        "Nombre": "Peso muerto rumano",
+        "Series": 3,
+        "Repeticiones": 9,
+        "CargaKg": 12.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Curl de b\u00EDceps",
+        "Series": 4,
+        "Repeticiones": 9,
+        "CargaKg": 15.0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "6b00f98f-7de3-4815-af28-2f6f3b17eeb6",
+    "Nombre": "Rutina demo 04",
+    "NombreUsuarioCliente": "cliente.demo08",
+    "NombreUsuarioEntrenador": "entrenador.demo08",
+    "FechaInicio": "2026-11-16",
+    "FechaFin": "2026-11-22",
+    "FechaAsignacion": "2026-11-16",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Press de banca",
+        "Series": 3,
+        "Repeticiones": 8,
+        "CargaKg": 15.0,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-18",
+            "CargaAnteriorKg": 12.5,
+            "CargaNuevaKg": 15.0
+          }
+        ]
+      },
+      {
+        "Nombre": "Jal\u00F3n al pecho",
+        "Series": 4,
+        "Repeticiones": 8,
+        "CargaKg": 15.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Extensi\u00F3n de tr\u00EDceps",
+        "Series": 2,
+        "Repeticiones": 8,
+        "CargaKg": 17.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "70b69902-546c-499a-a780-25f59c1e608b",
+    "Nombre": "Rutina demo 05",
+    "NombreUsuarioCliente": "cliente.demo08",
+    "NombreUsuarioEntrenador": "entrenador.demo08",
+    "FechaInicio": "2026-11-23",
+    "FechaFin": "2026-11-29",
+    "FechaAsignacion": "2026-11-23",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Plancha",
+        "Series": 4,
+        "Repeticiones": 1,
+        "CargaKg": 0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Elevaci\u00F3n lateral",
+        "Series": 2,
+        "Repeticiones": 12,
+        "CargaKg": 17.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Remo con mancuerna",
+        "Series": 3,
+        "Repeticiones": 10,
+        "CargaKg": 20.0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "5e288865-61c4-4a21-a2d9-ea76a8fe9b2e",
+    "Nombre": "Rutina demo 01",
+    "NombreUsuarioCliente": "cliente.demo09",
+    "NombreUsuarioEntrenador": "entrenador.demo09",
+    "FechaInicio": "2026-10-26",
+    "FechaFin": "2026-11-01",
+    "FechaAsignacion": "2026-10-26",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Extensi\u00F3n de tr\u00EDceps",
+        "Series": 3,
+        "Repeticiones": 10,
+        "CargaKg": 10.0,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-10-28",
+            "CargaAnteriorKg": 7.5,
+            "CargaNuevaKg": 10.0
+          }
+        ]
+      },
+      {
+        "Nombre": "Plancha",
+        "Series": 4,
+        "Repeticiones": 1,
+        "CargaKg": 0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Elevaci\u00F3n lateral",
+        "Series": 2,
+        "Repeticiones": 8,
+        "CargaKg": 12.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "a14c4e49-eaad-4af0-8ab2-b8c3d078c1b0",
+    "Nombre": "Rutina demo 02",
+    "NombreUsuarioCliente": "cliente.demo09",
+    "NombreUsuarioEntrenador": "entrenador.demo09",
+    "FechaInicio": "2026-11-02",
+    "FechaFin": "2026-11-08",
+    "FechaAsignacion": "2026-11-02",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Remo con mancuerna",
+        "Series": 4,
+        "Repeticiones": 12,
+        "CargaKg": 12.5,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-04",
+            "CargaAnteriorKg": 10.0,
+            "CargaNuevaKg": 12.5
+          }
+        ]
+      },
+      {
+        "Nombre": "Zancadas",
+        "Series": 2,
+        "Repeticiones": 12,
+        "CargaKg": 12.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Sentadilla",
+        "Series": 3,
+        "Repeticiones": 10,
+        "CargaKg": 15.0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "b6c26615-f9fc-489d-94af-409fded948ae",
+    "Nombre": "Rutina demo 03",
+    "NombreUsuarioCliente": "cliente.demo09",
+    "NombreUsuarioEntrenador": "entrenador.demo09",
+    "FechaInicio": "2026-11-09",
+    "FechaFin": "2026-11-15",
+    "FechaAsignacion": "2026-11-09",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Press militar",
+        "Series": 2,
+        "Repeticiones": 11,
+        "CargaKg": 15.0,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-11",
+            "CargaAnteriorKg": 12.5,
+            "CargaNuevaKg": 15.0
+          }
+        ]
+      },
+      {
+        "Nombre": "Puente de gl\u00FAteos",
+        "Series": 3,
+        "Repeticiones": 11,
+        "CargaKg": 15.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Peso muerto rumano",
+        "Series": 4,
+        "Repeticiones": 9,
+        "CargaKg": 17.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "4c27a4e0-ee47-4cd3-a300-b8606593133e",
+    "Nombre": "Rutina demo 04",
+    "NombreUsuarioCliente": "cliente.demo09",
+    "NombreUsuarioEntrenador": "entrenador.demo09",
+    "FechaInicio": "2026-11-16",
+    "FechaFin": "2026-11-22",
+    "FechaAsignacion": "2026-11-16",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Curl de b\u00EDceps",
+        "Series": 3,
+        "Repeticiones": 10,
+        "CargaKg": 17.5,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-18",
+            "CargaAnteriorKg": 15.0,
+            "CargaNuevaKg": 17.5
+          }
+        ]
+      },
+      {
+        "Nombre": "Press de banca",
+        "Series": 4,
+        "Repeticiones": 8,
+        "CargaKg": 17.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Jal\u00F3n al pecho",
+        "Series": 2,
+        "Repeticiones": 8,
+        "CargaKg": 20.0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "5103d8ec-3826-4b9f-ab37-73c6bb3f60de",
+    "Nombre": "Rutina demo 05",
+    "NombreUsuarioCliente": "cliente.demo09",
+    "NombreUsuarioEntrenador": "entrenador.demo09",
+    "FechaInicio": "2026-11-23",
+    "FechaFin": "2026-11-29",
+    "FechaAsignacion": "2026-11-23",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Extensi\u00F3n de tr\u00EDceps",
+        "Series": 4,
+        "Repeticiones": 9,
+        "CargaKg": 17.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Plancha",
+        "Series": 2,
+        "Repeticiones": 1,
+        "CargaKg": 0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Elevaci\u00F3n lateral",
+        "Series": 3,
+        "Repeticiones": 12,
+        "CargaKg": 22.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "a84b985f-3ec7-4194-b2ff-58e2293e82a6",
+    "Nombre": "Rutina demo 01",
+    "NombreUsuarioCliente": "cliente.demo10",
+    "NombreUsuarioEntrenador": "entrenador.demo10",
+    "FechaInicio": "2026-10-26",
+    "FechaFin": "2026-11-01",
+    "FechaAsignacion": "2026-10-26",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Jal\u00F3n al pecho",
+        "Series": 3,
+        "Repeticiones": 10,
+        "CargaKg": 12.5,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-10-28",
+            "CargaAnteriorKg": 10.0,
+            "CargaNuevaKg": 12.5
+          }
+        ]
+      },
+      {
+        "Nombre": "Extensi\u00F3n de tr\u00EDceps",
+        "Series": 4,
+        "Repeticiones": 10,
+        "CargaKg": 12.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Plancha",
+        "Series": 2,
+        "Repeticiones": 1,
+        "CargaKg": 0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "f2c8222d-7264-4d0b-9129-e91d8618e9d5",
+    "Nombre": "Rutina demo 02",
+    "NombreUsuarioCliente": "cliente.demo10",
+    "NombreUsuarioEntrenador": "entrenador.demo10",
+    "FechaInicio": "2026-11-02",
+    "FechaFin": "2026-11-08",
+    "FechaAsignacion": "2026-11-02",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Elevaci\u00F3n lateral",
+        "Series": 4,
+        "Repeticiones": 9,
+        "CargaKg": 15.0,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-04",
+            "CargaAnteriorKg": 12.5,
+            "CargaNuevaKg": 15.0
+          }
+        ]
+      },
+      {
+        "Nombre": "Remo con mancuerna",
+        "Series": 2,
+        "Repeticiones": 12,
+        "CargaKg": 15.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Zancadas",
+        "Series": 3,
+        "Repeticiones": 12,
+        "CargaKg": 17.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "be2a5719-b591-44ba-b3a0-dc9886f8cfd4",
+    "Nombre": "Rutina demo 03",
+    "NombreUsuarioCliente": "cliente.demo10",
+    "NombreUsuarioEntrenador": "entrenador.demo10",
+    "FechaInicio": "2026-11-09",
+    "FechaFin": "2026-11-15",
+    "FechaAsignacion": "2026-11-09",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Sentadilla",
+        "Series": 2,
+        "Repeticiones": 11,
+        "CargaKg": 17.5,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-11",
+            "CargaAnteriorKg": 15.0,
+            "CargaNuevaKg": 17.5
+          }
+        ]
+      },
+      {
+        "Nombre": "Press militar",
+        "Series": 3,
+        "Repeticiones": 11,
+        "CargaKg": 17.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Puente de gl\u00FAteos",
+        "Series": 4,
+        "Repeticiones": 11,
+        "CargaKg": 20.0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "1094b46b-384b-447f-a72f-8281836d4c65",
+    "Nombre": "Rutina demo 04",
+    "NombreUsuarioCliente": "cliente.demo10",
+    "NombreUsuarioEntrenador": "entrenador.demo10",
+    "FechaInicio": "2026-11-16",
+    "FechaFin": "2026-11-22",
+    "FechaAsignacion": "2026-11-16",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Peso muerto rumano",
+        "Series": 3,
+        "Repeticiones": 10,
+        "CargaKg": 20.0,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-18",
+            "CargaAnteriorKg": 17.5,
+            "CargaNuevaKg": 20.0
+          }
+        ]
+      },
+      {
+        "Nombre": "Curl de b\u00EDceps",
+        "Series": 4,
+        "Repeticiones": 10,
+        "CargaKg": 20.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Press de banca",
+        "Series": 2,
+        "Repeticiones": 8,
+        "CargaKg": 22.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "2ee254d4-e516-4dfd-a0e7-6eedc68405aa",
+    "Nombre": "Rutina demo 05",
+    "NombreUsuarioCliente": "cliente.demo10",
+    "NombreUsuarioEntrenador": "entrenador.demo10",
+    "FechaInicio": "2026-11-23",
+    "FechaFin": "2026-11-29",
+    "FechaAsignacion": "2026-11-23",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Jal\u00F3n al pecho",
+        "Series": 4,
+        "Repeticiones": 9,
+        "CargaKg": 20.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Extensi\u00F3n de tr\u00EDceps",
+        "Series": 2,
+        "Repeticiones": 9,
+        "CargaKg": 22.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Plancha",
+        "Series": 3,
+        "Repeticiones": 1,
+        "CargaKg": 0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "25f54e2a-6738-4ce6-a35e-1df2619ca2bb",
+    "Nombre": "Rutina demo 01",
+    "NombreUsuarioCliente": "cliente.demo11",
+    "NombreUsuarioEntrenador": "entrenador.prueba",
+    "FechaInicio": "2026-10-26",
+    "FechaFin": "2026-11-01",
+    "FechaAsignacion": "2026-10-26",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Press de banca",
+        "Series": 3,
+        "Repeticiones": 10,
+        "CargaKg": 15.0,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-10-28",
+            "CargaAnteriorKg": 12.5,
+            "CargaNuevaKg": 15.0
+          }
+        ]
+      },
+      {
+        "Nombre": "Jal\u00F3n al pecho",
+        "Series": 4,
+        "Repeticiones": 10,
+        "CargaKg": 15.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Extensi\u00F3n de tr\u00EDceps",
+        "Series": 2,
+        "Repeticiones": 10,
+        "CargaKg": 17.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "663babb6-36ef-4fe0-b63b-4599b80ad3fa",
+    "Nombre": "Rutina demo 02",
+    "NombreUsuarioCliente": "cliente.demo11",
+    "NombreUsuarioEntrenador": "entrenador.prueba",
+    "FechaInicio": "2026-11-02",
+    "FechaFin": "2026-11-08",
+    "FechaAsignacion": "2026-11-02",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Plancha",
+        "Series": 4,
+        "Repeticiones": 1,
+        "CargaKg": 0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Elevaci\u00F3n lateral",
+        "Series": 2,
+        "Repeticiones": 9,
+        "CargaKg": 17.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Remo con mancuerna",
+        "Series": 3,
+        "Repeticiones": 12,
+        "CargaKg": 20.0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "8a1f2652-04a4-4356-b4e3-34135724a274",
+    "Nombre": "Rutina demo 03",
+    "NombreUsuarioCliente": "cliente.demo11",
+    "NombreUsuarioEntrenador": "entrenador.prueba",
+    "FechaInicio": "2026-11-09",
+    "FechaFin": "2026-11-15",
+    "FechaAsignacion": "2026-11-09",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Zancadas",
+        "Series": 2,
+        "Repeticiones": 8,
+        "CargaKg": 20.0,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-11",
+            "CargaAnteriorKg": 17.5,
+            "CargaNuevaKg": 20.0
+          }
+        ]
+      },
+      {
+        "Nombre": "Sentadilla",
+        "Series": 3,
+        "Repeticiones": 11,
+        "CargaKg": 20.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Press militar",
+        "Series": 4,
+        "Repeticiones": 11,
+        "CargaKg": 22.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "2b97ed54-b8f4-4653-9b3f-96d748c01886",
+    "Nombre": "Rutina demo 04",
+    "NombreUsuarioCliente": "cliente.demo11",
+    "NombreUsuarioEntrenador": "entrenador.prueba",
+    "FechaInicio": "2026-11-16",
+    "FechaFin": "2026-11-22",
+    "FechaAsignacion": "2026-11-16",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Puente de gl\u00FAteos",
+        "Series": 3,
+        "Repeticiones": 12,
+        "CargaKg": 22.5,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-18",
+            "CargaAnteriorKg": 20.0,
+            "CargaNuevaKg": 22.5
+          }
+        ]
+      },
+      {
+        "Nombre": "Peso muerto rumano",
+        "Series": 4,
+        "Repeticiones": 10,
+        "CargaKg": 22.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Curl de b\u00EDceps",
+        "Series": 2,
+        "Repeticiones": 10,
+        "CargaKg": 5.0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "71619ee2-4978-4a38-8fbd-e4d1029a65b0",
+    "Nombre": "Rutina demo 05",
+    "NombreUsuarioCliente": "cliente.demo11",
+    "NombreUsuarioEntrenador": "entrenador.prueba",
+    "FechaInicio": "2026-11-23",
+    "FechaFin": "2026-11-29",
+    "FechaAsignacion": "2026-11-23",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Press de banca",
+        "Series": 4,
+        "Repeticiones": 9,
+        "CargaKg": 22.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Jal\u00F3n al pecho",
+        "Series": 2,
+        "Repeticiones": 9,
+        "CargaKg": 5.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Extensi\u00F3n de tr\u00EDceps",
+        "Series": 3,
+        "Repeticiones": 9,
+        "CargaKg": 7.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "2fd8e3ba-824d-4c63-942e-0f549b0aef5e",
+    "Nombre": "Rutina demo 01",
+    "NombreUsuarioCliente": "cliente.demo12",
+    "NombreUsuarioEntrenador": "entrenador.demo02",
+    "FechaInicio": "2026-10-26",
+    "FechaFin": "2026-11-01",
+    "FechaAsignacion": "2026-10-26",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Curl de b\u00EDceps",
+        "Series": 3,
+        "Repeticiones": 12,
+        "CargaKg": 17.5,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-10-28",
+            "CargaAnteriorKg": 15.0,
+            "CargaNuevaKg": 17.5
+          }
+        ]
+      },
+      {
+        "Nombre": "Press de banca",
+        "Series": 4,
+        "Repeticiones": 10,
+        "CargaKg": 17.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Jal\u00F3n al pecho",
+        "Series": 2,
+        "Repeticiones": 10,
+        "CargaKg": 20.0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "5aed8baf-373c-465a-b25e-04d64e092f2e",
+    "Nombre": "Rutina demo 02",
+    "NombreUsuarioCliente": "cliente.demo12",
+    "NombreUsuarioEntrenador": "entrenador.demo02",
+    "FechaInicio": "2026-11-02",
+    "FechaFin": "2026-11-08",
+    "FechaAsignacion": "2026-11-02",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Extensi\u00F3n de tr\u00EDceps",
+        "Series": 4,
+        "Repeticiones": 11,
+        "CargaKg": 20.0,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-04",
+            "CargaAnteriorKg": 17.5,
+            "CargaNuevaKg": 20.0
+          }
+        ]
+      },
+      {
+        "Nombre": "Plancha",
+        "Series": 2,
+        "Repeticiones": 1,
+        "CargaKg": 0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Elevaci\u00F3n lateral",
+        "Series": 3,
+        "Repeticiones": 9,
+        "CargaKg": 22.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "dddf7fd5-bfdb-46b6-8ee2-6648ed864efb",
+    "Nombre": "Rutina demo 03",
+    "NombreUsuarioCliente": "cliente.demo12",
+    "NombreUsuarioEntrenador": "entrenador.demo02",
+    "FechaInicio": "2026-11-09",
+    "FechaFin": "2026-11-15",
+    "FechaAsignacion": "2026-11-09",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Remo con mancuerna",
+        "Series": 2,
+        "Repeticiones": 8,
+        "CargaKg": 22.5,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-11",
+            "CargaAnteriorKg": 20.0,
+            "CargaNuevaKg": 22.5
+          }
+        ]
+      },
+      {
+        "Nombre": "Zancadas",
+        "Series": 3,
+        "Repeticiones": 8,
+        "CargaKg": 22.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Sentadilla",
+        "Series": 4,
+        "Repeticiones": 11,
+        "CargaKg": 5.0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "a123e377-ad1f-4537-9721-8a437a311550",
+    "Nombre": "Rutina demo 04",
+    "NombreUsuarioCliente": "cliente.demo12",
+    "NombreUsuarioEntrenador": "entrenador.demo02",
+    "FechaInicio": "2026-11-16",
+    "FechaFin": "2026-11-22",
+    "FechaAsignacion": "2026-11-16",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Press militar",
+        "Series": 3,
+        "Repeticiones": 12,
+        "CargaKg": 25.0,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-18",
+            "CargaAnteriorKg": 22.5,
+            "CargaNuevaKg": 25.0
+          }
+        ]
+      },
+      {
+        "Nombre": "Puente de gl\u00FAteos",
+        "Series": 4,
+        "Repeticiones": 12,
+        "CargaKg": 5.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Peso muerto rumano",
+        "Series": 2,
+        "Repeticiones": 10,
+        "CargaKg": 7.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "6377d76d-a6d3-4c52-bcc5-40028033054c",
+    "Nombre": "Rutina demo 05",
+    "NombreUsuarioCliente": "cliente.demo12",
+    "NombreUsuarioEntrenador": "entrenador.demo02",
+    "FechaInicio": "2026-11-23",
+    "FechaFin": "2026-11-29",
+    "FechaAsignacion": "2026-11-23",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Curl de b\u00EDceps",
+        "Series": 4,
+        "Repeticiones": 11,
+        "CargaKg": 5.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Press de banca",
+        "Series": 2,
+        "Repeticiones": 9,
+        "CargaKg": 7.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Jal\u00F3n al pecho",
+        "Series": 3,
+        "Repeticiones": 9,
+        "CargaKg": 10.0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "01913af7-3c98-4ec1-97cc-a709d98ddd44",
+    "Nombre": "Rutina demo 01",
+    "NombreUsuarioCliente": "cliente.demo13",
+    "NombreUsuarioEntrenador": "entrenador.demo03",
+    "FechaInicio": "2026-10-26",
+    "FechaFin": "2026-11-01",
+    "FechaAsignacion": "2026-10-26",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Peso muerto rumano",
+        "Series": 3,
+        "Repeticiones": 12,
+        "CargaKg": 20.0,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-10-28",
+            "CargaAnteriorKg": 17.5,
+            "CargaNuevaKg": 20.0
+          }
+        ]
+      },
+      {
+        "Nombre": "Curl de b\u00EDceps",
+        "Series": 4,
+        "Repeticiones": 12,
+        "CargaKg": 20.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Press de banca",
+        "Series": 2,
+        "Repeticiones": 10,
+        "CargaKg": 22.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "3562c68a-9637-446b-8be8-8c81589b2d4e",
+    "Nombre": "Rutina demo 02",
+    "NombreUsuarioCliente": "cliente.demo13",
+    "NombreUsuarioEntrenador": "entrenador.demo03",
+    "FechaInicio": "2026-11-02",
+    "FechaFin": "2026-11-08",
+    "FechaAsignacion": "2026-11-02",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Jal\u00F3n al pecho",
+        "Series": 4,
+        "Repeticiones": 11,
+        "CargaKg": 22.5,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-04",
+            "CargaAnteriorKg": 20.0,
+            "CargaNuevaKg": 22.5
+          }
+        ]
+      },
+      {
+        "Nombre": "Extensi\u00F3n de tr\u00EDceps",
+        "Series": 2,
+        "Repeticiones": 11,
+        "CargaKg": 22.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Plancha",
+        "Series": 3,
+        "Repeticiones": 1,
+        "CargaKg": 0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "13cb5b94-d514-49dd-ad11-9b2d413e4113",
+    "Nombre": "Rutina demo 03",
+    "NombreUsuarioCliente": "cliente.demo13",
+    "NombreUsuarioEntrenador": "entrenador.demo03",
+    "FechaInicio": "2026-11-09",
+    "FechaFin": "2026-11-15",
+    "FechaAsignacion": "2026-11-09",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Elevaci\u00F3n lateral",
+        "Series": 2,
+        "Repeticiones": 10,
+        "CargaKg": 25.0,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-11",
+            "CargaAnteriorKg": 22.5,
+            "CargaNuevaKg": 25.0
+          }
+        ]
+      },
+      {
+        "Nombre": "Remo con mancuerna",
+        "Series": 3,
+        "Repeticiones": 8,
+        "CargaKg": 5.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Zancadas",
+        "Series": 4,
+        "Repeticiones": 8,
+        "CargaKg": 7.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "41d23dd7-42d8-4c4d-ad5f-7f19419a18b7",
+    "Nombre": "Rutina demo 04",
+    "NombreUsuarioCliente": "cliente.demo13",
+    "NombreUsuarioEntrenador": "entrenador.demo03",
+    "FechaInicio": "2026-11-16",
+    "FechaFin": "2026-11-22",
+    "FechaAsignacion": "2026-11-16",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Sentadilla",
+        "Series": 3,
+        "Repeticiones": 12,
+        "CargaKg": 7.5,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-18",
+            "CargaAnteriorKg": 5.0,
+            "CargaNuevaKg": 7.5
+          }
+        ]
+      },
+      {
+        "Nombre": "Press militar",
+        "Series": 4,
+        "Repeticiones": 12,
+        "CargaKg": 7.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Puente de gl\u00FAteos",
+        "Series": 2,
+        "Repeticiones": 12,
+        "CargaKg": 10.0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "178dead7-523f-4f63-99c1-705aa42b62ca",
+    "Nombre": "Rutina demo 05",
+    "NombreUsuarioCliente": "cliente.demo13",
+    "NombreUsuarioEntrenador": "entrenador.demo03",
+    "FechaInicio": "2026-11-23",
+    "FechaFin": "2026-11-29",
+    "FechaAsignacion": "2026-11-23",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Peso muerto rumano",
+        "Series": 4,
+        "Repeticiones": 11,
+        "CargaKg": 7.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Curl de b\u00EDceps",
+        "Series": 2,
+        "Repeticiones": 11,
+        "CargaKg": 10.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Press de banca",
+        "Series": 3,
+        "Repeticiones": 9,
+        "CargaKg": 12.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "85ab71f4-6149-48c6-8c78-bf2e4b351aeb",
+    "Nombre": "Rutina demo 01",
+    "NombreUsuarioCliente": "cliente.demo14",
+    "NombreUsuarioEntrenador": "entrenador.demo04",
+    "FechaInicio": "2026-10-26",
+    "FechaFin": "2026-11-01",
+    "FechaAsignacion": "2026-10-26",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Puente de gl\u00FAteos",
+        "Series": 3,
+        "Repeticiones": 9,
+        "CargaKg": 22.5,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-10-28",
+            "CargaAnteriorKg": 20.0,
+            "CargaNuevaKg": 22.5
+          }
+        ]
+      },
+      {
+        "Nombre": "Peso muerto rumano",
+        "Series": 4,
+        "Repeticiones": 12,
+        "CargaKg": 22.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Curl de b\u00EDceps",
+        "Series": 2,
+        "Repeticiones": 12,
+        "CargaKg": 5.0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "c0be1d30-6cd5-47a1-8318-e115b0457123",
+    "Nombre": "Rutina demo 02",
+    "NombreUsuarioCliente": "cliente.demo14",
+    "NombreUsuarioEntrenador": "entrenador.demo04",
+    "FechaInicio": "2026-11-02",
+    "FechaFin": "2026-11-08",
+    "FechaAsignacion": "2026-11-02",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Press de banca",
+        "Series": 4,
+        "Repeticiones": 11,
+        "CargaKg": 25.0,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-04",
+            "CargaAnteriorKg": 22.5,
+            "CargaNuevaKg": 25.0
+          }
+        ]
+      },
+      {
+        "Nombre": "Jal\u00F3n al pecho",
+        "Series": 2,
+        "Repeticiones": 11,
+        "CargaKg": 5.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Extensi\u00F3n de tr\u00EDceps",
+        "Series": 3,
+        "Repeticiones": 11,
+        "CargaKg": 7.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "83c2fa7d-1c6d-4e96-8363-a95147e5bcf0",
+    "Nombre": "Rutina demo 03",
+    "NombreUsuarioCliente": "cliente.demo14",
+    "NombreUsuarioEntrenador": "entrenador.demo04",
+    "FechaInicio": "2026-11-09",
+    "FechaFin": "2026-11-15",
+    "FechaAsignacion": "2026-11-09",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Plancha",
+        "Series": 2,
+        "Repeticiones": 1,
+        "CargaKg": 0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Elevaci\u00F3n lateral",
+        "Series": 3,
+        "Repeticiones": 10,
+        "CargaKg": 7.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Remo con mancuerna",
+        "Series": 4,
+        "Repeticiones": 8,
+        "CargaKg": 10.0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "386f455c-14f5-4b87-a033-87e261d732b3",
+    "Nombre": "Rutina demo 04",
+    "NombreUsuarioCliente": "cliente.demo14",
+    "NombreUsuarioEntrenador": "entrenador.demo04",
+    "FechaInicio": "2026-11-16",
+    "FechaFin": "2026-11-22",
+    "FechaAsignacion": "2026-11-16",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Zancadas",
+        "Series": 3,
+        "Repeticiones": 9,
+        "CargaKg": 10.0,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-18",
+            "CargaAnteriorKg": 7.5,
+            "CargaNuevaKg": 10.0
+          }
+        ]
+      },
+      {
+        "Nombre": "Sentadilla",
+        "Series": 4,
+        "Repeticiones": 12,
+        "CargaKg": 10.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Press militar",
+        "Series": 2,
+        "Repeticiones": 12,
+        "CargaKg": 12.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "87106eb2-1554-4a6f-a9a0-8d2a350e4e2e",
+    "Nombre": "Rutina demo 05",
+    "NombreUsuarioCliente": "cliente.demo14",
+    "NombreUsuarioEntrenador": "entrenador.demo04",
+    "FechaInicio": "2026-11-23",
+    "FechaFin": "2026-11-29",
+    "FechaAsignacion": "2026-11-23",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Puente de gl\u00FAteos",
+        "Series": 4,
+        "Repeticiones": 8,
+        "CargaKg": 10.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Peso muerto rumano",
+        "Series": 2,
+        "Repeticiones": 11,
+        "CargaKg": 12.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Curl de b\u00EDceps",
+        "Series": 3,
+        "Repeticiones": 11,
+        "CargaKg": 15.0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "e068bb7a-4251-4da4-8bd3-4036ba7fda28",
+    "Nombre": "Rutina demo 01",
+    "NombreUsuarioCliente": "cliente.demo15",
+    "NombreUsuarioEntrenador": "entrenador.demo05",
+    "FechaInicio": "2026-10-26",
+    "FechaFin": "2026-11-01",
+    "FechaAsignacion": "2026-10-26",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Press militar",
+        "Series": 3,
+        "Repeticiones": 9,
+        "CargaKg": 25.0,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-10-28",
+            "CargaAnteriorKg": 22.5,
+            "CargaNuevaKg": 25.0
+          }
+        ]
+      },
+      {
+        "Nombre": "Puente de gl\u00FAteos",
+        "Series": 4,
+        "Repeticiones": 9,
+        "CargaKg": 5.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Peso muerto rumano",
+        "Series": 2,
+        "Repeticiones": 12,
+        "CargaKg": 7.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "8f70761a-d234-4b9e-99da-5fcbf44d4c4b",
+    "Nombre": "Rutina demo 02",
+    "NombreUsuarioCliente": "cliente.demo15",
+    "NombreUsuarioEntrenador": "entrenador.demo05",
+    "FechaInicio": "2026-11-02",
+    "FechaFin": "2026-11-08",
+    "FechaAsignacion": "2026-11-02",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Curl de b\u00EDceps",
+        "Series": 4,
+        "Repeticiones": 8,
+        "CargaKg": 7.5,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-04",
+            "CargaAnteriorKg": 5.0,
+            "CargaNuevaKg": 7.5
+          }
+        ]
+      },
+      {
+        "Nombre": "Press de banca",
+        "Series": 2,
+        "Repeticiones": 11,
+        "CargaKg": 7.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Jal\u00F3n al pecho",
+        "Series": 3,
+        "Repeticiones": 11,
+        "CargaKg": 10.0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "36132423-7e88-4d5f-a93e-3b3460bf066a",
+    "Nombre": "Rutina demo 03",
+    "NombreUsuarioCliente": "cliente.demo15",
+    "NombreUsuarioEntrenador": "entrenador.demo05",
+    "FechaInicio": "2026-11-09",
+    "FechaFin": "2026-11-15",
+    "FechaAsignacion": "2026-11-09",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Extensi\u00F3n de tr\u00EDceps",
+        "Series": 2,
+        "Repeticiones": 12,
+        "CargaKg": 10.0,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-11",
+            "CargaAnteriorKg": 7.5,
+            "CargaNuevaKg": 10.0
+          }
+        ]
+      },
+      {
+        "Nombre": "Plancha",
+        "Series": 3,
+        "Repeticiones": 1,
+        "CargaKg": 0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Elevaci\u00F3n lateral",
+        "Series": 4,
+        "Repeticiones": 10,
+        "CargaKg": 12.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "01acbe7a-24b7-4165-a5ec-ed9b7634d193",
+    "Nombre": "Rutina demo 04",
+    "NombreUsuarioCliente": "cliente.demo15",
+    "NombreUsuarioEntrenador": "entrenador.demo05",
+    "FechaInicio": "2026-11-16",
+    "FechaFin": "2026-11-22",
+    "FechaAsignacion": "2026-11-16",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Remo con mancuerna",
+        "Series": 3,
+        "Repeticiones": 9,
+        "CargaKg": 12.5,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-18",
+            "CargaAnteriorKg": 10.0,
+            "CargaNuevaKg": 12.5
+          }
+        ]
+      },
+      {
+        "Nombre": "Zancadas",
+        "Series": 4,
+        "Repeticiones": 9,
+        "CargaKg": 12.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Sentadilla",
+        "Series": 2,
+        "Repeticiones": 12,
+        "CargaKg": 15.0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "575114bc-6172-4a7b-a61f-48b2d8d2c66a",
+    "Nombre": "Rutina demo 05",
+    "NombreUsuarioCliente": "cliente.demo15",
+    "NombreUsuarioEntrenador": "entrenador.demo05",
+    "FechaInicio": "2026-11-23",
+    "FechaFin": "2026-11-29",
+    "FechaAsignacion": "2026-11-23",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Press militar",
+        "Series": 4,
+        "Repeticiones": 8,
+        "CargaKg": 12.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Puente de gl\u00FAteos",
+        "Series": 2,
+        "Repeticiones": 8,
+        "CargaKg": 15.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Peso muerto rumano",
+        "Series": 3,
+        "Repeticiones": 11,
+        "CargaKg": 17.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "12adf2b1-00ec-4c67-a9a1-fc72971aa643",
+    "Nombre": "Rutina demo 01",
+    "NombreUsuarioCliente": "cliente.demo16",
+    "NombreUsuarioEntrenador": "entrenador.demo06",
+    "FechaInicio": "2026-10-26",
+    "FechaFin": "2026-11-01",
+    "FechaAsignacion": "2026-10-26",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Sentadilla",
+        "Series": 3,
+        "Repeticiones": 9,
+        "CargaKg": 7.5,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-10-28",
+            "CargaAnteriorKg": 5.0,
+            "CargaNuevaKg": 7.5
+          }
+        ]
+      },
+      {
+        "Nombre": "Press militar",
+        "Series": 4,
+        "Repeticiones": 9,
+        "CargaKg": 7.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Puente de gl\u00FAteos",
+        "Series": 2,
+        "Repeticiones": 9,
+        "CargaKg": 10.0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "a05fb2db-cbf3-433f-9c70-fe23e62e2b79",
+    "Nombre": "Rutina demo 02",
+    "NombreUsuarioCliente": "cliente.demo16",
+    "NombreUsuarioEntrenador": "entrenador.demo06",
+    "FechaInicio": "2026-11-02",
+    "FechaFin": "2026-11-08",
+    "FechaAsignacion": "2026-11-02",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Peso muerto rumano",
+        "Series": 4,
+        "Repeticiones": 8,
+        "CargaKg": 10.0,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-04",
+            "CargaAnteriorKg": 7.5,
+            "CargaNuevaKg": 10.0
+          }
+        ]
+      },
+      {
+        "Nombre": "Curl de b\u00EDceps",
+        "Series": 2,
+        "Repeticiones": 8,
+        "CargaKg": 10.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Press de banca",
+        "Series": 3,
+        "Repeticiones": 11,
+        "CargaKg": 12.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "8ef41d90-a8e8-438e-8030-8f180963aa7d",
+    "Nombre": "Rutina demo 03",
+    "NombreUsuarioCliente": "cliente.demo16",
+    "NombreUsuarioEntrenador": "entrenador.demo06",
+    "FechaInicio": "2026-11-09",
+    "FechaFin": "2026-11-15",
+    "FechaAsignacion": "2026-11-09",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Jal\u00F3n al pecho",
+        "Series": 2,
+        "Repeticiones": 12,
+        "CargaKg": 12.5,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-11",
+            "CargaAnteriorKg": 10.0,
+            "CargaNuevaKg": 12.5
+          }
+        ]
+      },
+      {
+        "Nombre": "Extensi\u00F3n de tr\u00EDceps",
+        "Series": 3,
+        "Repeticiones": 12,
+        "CargaKg": 12.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Plancha",
+        "Series": 4,
+        "Repeticiones": 1,
+        "CargaKg": 0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "89d4d6c0-7fa7-4e24-8261-29ce2d587c51",
+    "Nombre": "Rutina demo 04",
+    "NombreUsuarioCliente": "cliente.demo16",
+    "NombreUsuarioEntrenador": "entrenador.demo06",
+    "FechaInicio": "2026-11-16",
+    "FechaFin": "2026-11-22",
+    "FechaAsignacion": "2026-11-16",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Elevaci\u00F3n lateral",
+        "Series": 3,
+        "Repeticiones": 11,
+        "CargaKg": 15.0,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-18",
+            "CargaAnteriorKg": 12.5,
+            "CargaNuevaKg": 15.0
+          }
+        ]
+      },
+      {
+        "Nombre": "Remo con mancuerna",
+        "Series": 4,
+        "Repeticiones": 9,
+        "CargaKg": 15.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Zancadas",
+        "Series": 2,
+        "Repeticiones": 9,
+        "CargaKg": 17.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "56d78f8b-766a-49c2-b7cb-d02d0f072457",
+    "Nombre": "Rutina demo 05",
+    "NombreUsuarioCliente": "cliente.demo16",
+    "NombreUsuarioEntrenador": "entrenador.demo06",
+    "FechaInicio": "2026-11-23",
+    "FechaFin": "2026-11-29",
+    "FechaAsignacion": "2026-11-23",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Sentadilla",
+        "Series": 4,
+        "Repeticiones": 8,
+        "CargaKg": 15.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Press militar",
+        "Series": 2,
+        "Repeticiones": 8,
+        "CargaKg": 17.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Puente de gl\u00FAteos",
+        "Series": 3,
+        "Repeticiones": 8,
+        "CargaKg": 20.0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "f7e0a14c-c6a7-42be-adbb-2d3fd3f315bc",
+    "Nombre": "Rutina demo 01",
+    "NombreUsuarioCliente": "cliente.demo17",
+    "NombreUsuarioEntrenador": "entrenador.demo07",
+    "FechaInicio": "2026-10-26",
+    "FechaFin": "2026-11-01",
+    "FechaAsignacion": "2026-10-26",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Zancadas",
+        "Series": 3,
+        "Repeticiones": 11,
+        "CargaKg": 10.0,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-10-28",
+            "CargaAnteriorKg": 7.5,
+            "CargaNuevaKg": 10.0
+          }
+        ]
+      },
+      {
+        "Nombre": "Sentadilla",
+        "Series": 4,
+        "Repeticiones": 9,
+        "CargaKg": 10.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Press militar",
+        "Series": 2,
+        "Repeticiones": 9,
+        "CargaKg": 12.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "6d2acc4c-aba0-4cec-a249-68be6e8a2b2c",
+    "Nombre": "Rutina demo 02",
+    "NombreUsuarioCliente": "cliente.demo17",
+    "NombreUsuarioEntrenador": "entrenador.demo07",
+    "FechaInicio": "2026-11-02",
+    "FechaFin": "2026-11-08",
+    "FechaAsignacion": "2026-11-02",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Puente de gl\u00FAteos",
+        "Series": 4,
+        "Repeticiones": 10,
+        "CargaKg": 12.5,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-04",
+            "CargaAnteriorKg": 10.0,
+            "CargaNuevaKg": 12.5
+          }
+        ]
+      },
+      {
+        "Nombre": "Peso muerto rumano",
+        "Series": 2,
+        "Repeticiones": 8,
+        "CargaKg": 12.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Curl de b\u00EDceps",
+        "Series": 3,
+        "Repeticiones": 8,
+        "CargaKg": 15.0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "8cafa62e-bf57-4c9b-823c-6bc231e3ee46",
+    "Nombre": "Rutina demo 03",
+    "NombreUsuarioCliente": "cliente.demo17",
+    "NombreUsuarioEntrenador": "entrenador.demo07",
+    "FechaInicio": "2026-11-09",
+    "FechaFin": "2026-11-15",
+    "FechaAsignacion": "2026-11-09",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Press de banca",
+        "Series": 2,
+        "Repeticiones": 12,
+        "CargaKg": 15.0,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-11",
+            "CargaAnteriorKg": 12.5,
+            "CargaNuevaKg": 15.0
+          }
+        ]
+      },
+      {
+        "Nombre": "Jal\u00F3n al pecho",
+        "Series": 3,
+        "Repeticiones": 12,
+        "CargaKg": 15.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Extensi\u00F3n de tr\u00EDceps",
+        "Series": 4,
+        "Repeticiones": 12,
+        "CargaKg": 17.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "e1c40c8b-0fb4-4956-8e72-7ad480181d0d",
+    "Nombre": "Rutina demo 04",
+    "NombreUsuarioCliente": "cliente.demo17",
+    "NombreUsuarioEntrenador": "entrenador.demo07",
+    "FechaInicio": "2026-11-16",
+    "FechaFin": "2026-11-22",
+    "FechaAsignacion": "2026-11-16",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Plancha",
+        "Series": 3,
+        "Repeticiones": 1,
+        "CargaKg": 0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Elevaci\u00F3n lateral",
+        "Series": 4,
+        "Repeticiones": 11,
+        "CargaKg": 17.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Remo con mancuerna",
+        "Series": 2,
+        "Repeticiones": 9,
+        "CargaKg": 20.0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "45f4c12f-171d-4cbe-a87f-aa34d806c459",
+    "Nombre": "Rutina demo 05",
+    "NombreUsuarioCliente": "cliente.demo17",
+    "NombreUsuarioEntrenador": "entrenador.demo07",
+    "FechaInicio": "2026-11-23",
+    "FechaFin": "2026-11-29",
+    "FechaAsignacion": "2026-11-23",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Zancadas",
+        "Series": 4,
+        "Repeticiones": 10,
+        "CargaKg": 17.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Sentadilla",
+        "Series": 2,
+        "Repeticiones": 8,
+        "CargaKg": 20.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Press militar",
+        "Series": 3,
+        "Repeticiones": 8,
+        "CargaKg": 22.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "d942b2bb-fa4b-4966-8481-5080bbec85b2",
+    "Nombre": "Rutina demo 01",
+    "NombreUsuarioCliente": "cliente.demo18",
+    "NombreUsuarioEntrenador": "entrenador.demo08",
+    "FechaInicio": "2026-10-26",
+    "FechaFin": "2026-11-01",
+    "FechaAsignacion": "2026-10-26",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Remo con mancuerna",
+        "Series": 3,
+        "Repeticiones": 11,
+        "CargaKg": 12.5,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-10-28",
+            "CargaAnteriorKg": 10.0,
+            "CargaNuevaKg": 12.5
+          }
+        ]
+      },
+      {
+        "Nombre": "Zancadas",
+        "Series": 4,
+        "Repeticiones": 11,
+        "CargaKg": 12.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Sentadilla",
+        "Series": 2,
+        "Repeticiones": 9,
+        "CargaKg": 15.0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "c430ef43-5ced-464e-a4fb-5f13d7c0d7ee",
+    "Nombre": "Rutina demo 02",
+    "NombreUsuarioCliente": "cliente.demo18",
+    "NombreUsuarioEntrenador": "entrenador.demo08",
+    "FechaInicio": "2026-11-02",
+    "FechaFin": "2026-11-08",
+    "FechaAsignacion": "2026-11-02",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Press militar",
+        "Series": 4,
+        "Repeticiones": 10,
+        "CargaKg": 15.0,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-04",
+            "CargaAnteriorKg": 12.5,
+            "CargaNuevaKg": 15.0
+          }
+        ]
+      },
+      {
+        "Nombre": "Puente de gl\u00FAteos",
+        "Series": 2,
+        "Repeticiones": 10,
+        "CargaKg": 15.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Peso muerto rumano",
+        "Series": 3,
+        "Repeticiones": 8,
+        "CargaKg": 17.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "9185e3fd-501f-46ed-b0cb-e9a63adab52f",
+    "Nombre": "Rutina demo 03",
+    "NombreUsuarioCliente": "cliente.demo18",
+    "NombreUsuarioEntrenador": "entrenador.demo08",
+    "FechaInicio": "2026-11-09",
+    "FechaFin": "2026-11-15",
+    "FechaAsignacion": "2026-11-09",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Curl de b\u00EDceps",
+        "Series": 2,
+        "Repeticiones": 9,
+        "CargaKg": 17.5,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-11",
+            "CargaAnteriorKg": 15.0,
+            "CargaNuevaKg": 17.5
+          }
+        ]
+      },
+      {
+        "Nombre": "Press de banca",
+        "Series": 3,
+        "Repeticiones": 12,
+        "CargaKg": 17.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Jal\u00F3n al pecho",
+        "Series": 4,
+        "Repeticiones": 12,
+        "CargaKg": 20.0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "afcdfb81-a137-486d-ba43-bbeb4529f068",
+    "Nombre": "Rutina demo 04",
+    "NombreUsuarioCliente": "cliente.demo18",
+    "NombreUsuarioEntrenador": "entrenador.demo08",
+    "FechaInicio": "2026-11-16",
+    "FechaFin": "2026-11-22",
+    "FechaAsignacion": "2026-11-16",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Extensi\u00F3n de tr\u00EDceps",
+        "Series": 3,
+        "Repeticiones": 8,
+        "CargaKg": 20.0,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-18",
+            "CargaAnteriorKg": 17.5,
+            "CargaNuevaKg": 20.0
+          }
+        ]
+      },
+      {
+        "Nombre": "Plancha",
+        "Series": 4,
+        "Repeticiones": 1,
+        "CargaKg": 0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Elevaci\u00F3n lateral",
+        "Series": 2,
+        "Repeticiones": 11,
+        "CargaKg": 22.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "a3a83258-4cab-4772-ba73-2e3babd18817",
+    "Nombre": "Rutina demo 05",
+    "NombreUsuarioCliente": "cliente.demo18",
+    "NombreUsuarioEntrenador": "entrenador.demo08",
+    "FechaInicio": "2026-11-23",
+    "FechaFin": "2026-11-29",
+    "FechaAsignacion": "2026-11-23",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Remo con mancuerna",
+        "Series": 4,
+        "Repeticiones": 10,
+        "CargaKg": 20.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Zancadas",
+        "Series": 2,
+        "Repeticiones": 10,
+        "CargaKg": 22.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Sentadilla",
+        "Series": 3,
+        "Repeticiones": 8,
+        "CargaKg": 5.0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "44454c26-b65f-4d53-825e-5d1f04d94e3a",
+    "Nombre": "Rutina demo 01",
+    "NombreUsuarioCliente": "cliente.demo19",
+    "NombreUsuarioEntrenador": "entrenador.demo09",
+    "FechaInicio": "2026-10-26",
+    "FechaFin": "2026-11-01",
+    "FechaAsignacion": "2026-10-26",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Elevaci\u00F3n lateral",
+        "Series": 3,
+        "Repeticiones": 8,
+        "CargaKg": 15.0,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-10-28",
+            "CargaAnteriorKg": 12.5,
+            "CargaNuevaKg": 15.0
+          }
+        ]
+      },
+      {
+        "Nombre": "Remo con mancuerna",
+        "Series": 4,
+        "Repeticiones": 11,
+        "CargaKg": 15.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Zancadas",
+        "Series": 2,
+        "Repeticiones": 11,
+        "CargaKg": 17.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "c11ab0c7-574b-40bc-83bf-ead727efa8d4",
+    "Nombre": "Rutina demo 02",
+    "NombreUsuarioCliente": "cliente.demo19",
+    "NombreUsuarioEntrenador": "entrenador.demo09",
+    "FechaInicio": "2026-11-02",
+    "FechaFin": "2026-11-08",
+    "FechaAsignacion": "2026-11-02",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Sentadilla",
+        "Series": 4,
+        "Repeticiones": 10,
+        "CargaKg": 17.5,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-04",
+            "CargaAnteriorKg": 15.0,
+            "CargaNuevaKg": 17.5
+          }
+        ]
+      },
+      {
+        "Nombre": "Press militar",
+        "Series": 2,
+        "Repeticiones": 10,
+        "CargaKg": 17.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Puente de gl\u00FAteos",
+        "Series": 3,
+        "Repeticiones": 10,
+        "CargaKg": 20.0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "a46016e3-d3ed-4966-a4c3-5c0001668685",
+    "Nombre": "Rutina demo 03",
+    "NombreUsuarioCliente": "cliente.demo19",
+    "NombreUsuarioEntrenador": "entrenador.demo09",
+    "FechaInicio": "2026-11-09",
+    "FechaFin": "2026-11-15",
+    "FechaAsignacion": "2026-11-09",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Peso muerto rumano",
+        "Series": 2,
+        "Repeticiones": 9,
+        "CargaKg": 20.0,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-11",
+            "CargaAnteriorKg": 17.5,
+            "CargaNuevaKg": 20.0
+          }
+        ]
+      },
+      {
+        "Nombre": "Curl de b\u00EDceps",
+        "Series": 3,
+        "Repeticiones": 9,
+        "CargaKg": 20.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Press de banca",
+        "Series": 4,
+        "Repeticiones": 12,
+        "CargaKg": 22.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "b2e5257f-8a64-4cec-b0d1-8a2f819c72d7",
+    "Nombre": "Rutina demo 04",
+    "NombreUsuarioCliente": "cliente.demo19",
+    "NombreUsuarioEntrenador": "entrenador.demo09",
+    "FechaInicio": "2026-11-16",
+    "FechaFin": "2026-11-22",
+    "FechaAsignacion": "2026-11-16",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Jal\u00F3n al pecho",
+        "Series": 3,
+        "Repeticiones": 8,
+        "CargaKg": 22.5,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-18",
+            "CargaAnteriorKg": 20.0,
+            "CargaNuevaKg": 22.5
+          }
+        ]
+      },
+      {
+        "Nombre": "Extensi\u00F3n de tr\u00EDceps",
+        "Series": 4,
+        "Repeticiones": 8,
+        "CargaKg": 22.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Plancha",
+        "Series": 2,
+        "Repeticiones": 1,
+        "CargaKg": 0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "e23008dd-3b0a-4d31-b33f-67dfe4de871f",
+    "Nombre": "Rutina demo 05",
+    "NombreUsuarioCliente": "cliente.demo19",
+    "NombreUsuarioEntrenador": "entrenador.demo09",
+    "FechaInicio": "2026-11-23",
+    "FechaFin": "2026-11-29",
+    "FechaAsignacion": "2026-11-23",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Elevaci\u00F3n lateral",
+        "Series": 4,
+        "Repeticiones": 12,
+        "CargaKg": 22.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Remo con mancuerna",
+        "Series": 2,
+        "Repeticiones": 10,
+        "CargaKg": 5.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Zancadas",
+        "Series": 3,
+        "Repeticiones": 10,
+        "CargaKg": 7.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "3eb28c20-1a6b-4302-9955-1640cef29043",
+    "Nombre": "Rutina demo 01",
+    "NombreUsuarioCliente": "cliente.demo20",
+    "NombreUsuarioEntrenador": "entrenador.demo10",
+    "FechaInicio": "2026-10-26",
+    "FechaFin": "2026-11-01",
+    "FechaAsignacion": "2026-10-26",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Plancha",
+        "Series": 3,
+        "Repeticiones": 1,
+        "CargaKg": 0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Elevaci\u00F3n lateral",
+        "Series": 4,
+        "Repeticiones": 8,
+        "CargaKg": 17.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Remo con mancuerna",
+        "Series": 2,
+        "Repeticiones": 11,
+        "CargaKg": 20.0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "676c2353-859e-4065-bbe8-02435a081164",
+    "Nombre": "Rutina demo 02",
+    "NombreUsuarioCliente": "cliente.demo20",
+    "NombreUsuarioEntrenador": "entrenador.demo10",
+    "FechaInicio": "2026-11-02",
+    "FechaFin": "2026-11-08",
+    "FechaAsignacion": "2026-11-02",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Zancadas",
+        "Series": 4,
+        "Repeticiones": 12,
+        "CargaKg": 20.0,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-04",
+            "CargaAnteriorKg": 17.5,
+            "CargaNuevaKg": 20.0
+          }
+        ]
+      },
+      {
+        "Nombre": "Sentadilla",
+        "Series": 2,
+        "Repeticiones": 10,
+        "CargaKg": 20.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Press militar",
+        "Series": 3,
+        "Repeticiones": 10,
+        "CargaKg": 22.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "cd9efd66-0d7d-4cff-9cf1-bc78c4cb0f51",
+    "Nombre": "Rutina demo 03",
+    "NombreUsuarioCliente": "cliente.demo20",
+    "NombreUsuarioEntrenador": "entrenador.demo10",
+    "FechaInicio": "2026-11-09",
+    "FechaFin": "2026-11-15",
+    "FechaAsignacion": "2026-11-09",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Puente de gl\u00FAteos",
+        "Series": 2,
+        "Repeticiones": 11,
+        "CargaKg": 22.5,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-11",
+            "CargaAnteriorKg": 20.0,
+            "CargaNuevaKg": 22.5
+          }
+        ]
+      },
+      {
+        "Nombre": "Peso muerto rumano",
+        "Series": 3,
+        "Repeticiones": 9,
+        "CargaKg": 22.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Curl de b\u00EDceps",
+        "Series": 4,
+        "Repeticiones": 9,
+        "CargaKg": 5.0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "c1b8e34f-a8f3-4dda-8cb7-56721296161d",
+    "Nombre": "Rutina demo 04",
+    "NombreUsuarioCliente": "cliente.demo20",
+    "NombreUsuarioEntrenador": "entrenador.demo10",
+    "FechaInicio": "2026-11-16",
+    "FechaFin": "2026-11-22",
+    "FechaAsignacion": "2026-11-16",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Press de banca",
+        "Series": 3,
+        "Repeticiones": 8,
+        "CargaKg": 25.0,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-18",
+            "CargaAnteriorKg": 22.5,
+            "CargaNuevaKg": 25.0
+          }
+        ]
+      },
+      {
+        "Nombre": "Jal\u00F3n al pecho",
+        "Series": 4,
+        "Repeticiones": 8,
+        "CargaKg": 5.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Extensi\u00F3n de tr\u00EDceps",
+        "Series": 2,
+        "Repeticiones": 8,
+        "CargaKg": 7.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "1f00dd40-8f2b-4581-85dd-9c3763c5cee9",
+    "Nombre": "Rutina demo 05",
+    "NombreUsuarioCliente": "cliente.demo20",
+    "NombreUsuarioEntrenador": "entrenador.demo10",
+    "FechaInicio": "2026-11-23",
+    "FechaFin": "2026-11-29",
+    "FechaAsignacion": "2026-11-23",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Plancha",
+        "Series": 4,
+        "Repeticiones": 1,
+        "CargaKg": 0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Elevaci\u00F3n lateral",
+        "Series": 2,
+        "Repeticiones": 12,
+        "CargaKg": 7.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Remo con mancuerna",
+        "Series": 3,
+        "Repeticiones": 10,
+        "CargaKg": 10.0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "1dd4d88e-763e-4a66-b392-2749f380c0fd",
+    "Nombre": "Rutina demo 01",
+    "NombreUsuarioCliente": "cliente.demo21",
+    "NombreUsuarioEntrenador": "entrenador.prueba",
+    "FechaInicio": "2026-10-26",
+    "FechaFin": "2026-11-01",
+    "FechaAsignacion": "2026-10-26",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Extensi\u00F3n de tr\u00EDceps",
+        "Series": 3,
+        "Repeticiones": 10,
+        "CargaKg": 20.0,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-10-28",
+            "CargaAnteriorKg": 17.5,
+            "CargaNuevaKg": 20.0
+          }
+        ]
+      },
+      {
+        "Nombre": "Plancha",
+        "Series": 4,
+        "Repeticiones": 1,
+        "CargaKg": 0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Elevaci\u00F3n lateral",
+        "Series": 2,
+        "Repeticiones": 8,
+        "CargaKg": 22.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "d5bb75fe-72e1-46ee-b37b-b577d0f6159f",
+    "Nombre": "Rutina demo 02",
+    "NombreUsuarioCliente": "cliente.demo21",
+    "NombreUsuarioEntrenador": "entrenador.prueba",
+    "FechaInicio": "2026-11-02",
+    "FechaFin": "2026-11-08",
+    "FechaAsignacion": "2026-11-02",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Remo con mancuerna",
+        "Series": 4,
+        "Repeticiones": 12,
+        "CargaKg": 22.5,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-04",
+            "CargaAnteriorKg": 20.0,
+            "CargaNuevaKg": 22.5
+          }
+        ]
+      },
+      {
+        "Nombre": "Zancadas",
+        "Series": 2,
+        "Repeticiones": 12,
+        "CargaKg": 22.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Sentadilla",
+        "Series": 3,
+        "Repeticiones": 10,
+        "CargaKg": 5.0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "3e1fb358-0022-4f00-a982-fd82a773b37b",
+    "Nombre": "Rutina demo 03",
+    "NombreUsuarioCliente": "cliente.demo21",
+    "NombreUsuarioEntrenador": "entrenador.prueba",
+    "FechaInicio": "2026-11-09",
+    "FechaFin": "2026-11-15",
+    "FechaAsignacion": "2026-11-09",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Press militar",
+        "Series": 2,
+        "Repeticiones": 11,
+        "CargaKg": 25.0,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-11",
+            "CargaAnteriorKg": 22.5,
+            "CargaNuevaKg": 25.0
+          }
+        ]
+      },
+      {
+        "Nombre": "Puente de gl\u00FAteos",
+        "Series": 3,
+        "Repeticiones": 11,
+        "CargaKg": 5.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Peso muerto rumano",
+        "Series": 4,
+        "Repeticiones": 9,
+        "CargaKg": 7.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "3a1533ca-8e39-4553-b8e7-945882ce3721",
+    "Nombre": "Rutina demo 04",
+    "NombreUsuarioCliente": "cliente.demo21",
+    "NombreUsuarioEntrenador": "entrenador.prueba",
+    "FechaInicio": "2026-11-16",
+    "FechaFin": "2026-11-22",
+    "FechaAsignacion": "2026-11-16",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Curl de b\u00EDceps",
+        "Series": 3,
+        "Repeticiones": 10,
+        "CargaKg": 7.5,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-18",
+            "CargaAnteriorKg": 5.0,
+            "CargaNuevaKg": 7.5
+          }
+        ]
+      },
+      {
+        "Nombre": "Press de banca",
+        "Series": 4,
+        "Repeticiones": 8,
+        "CargaKg": 7.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Jal\u00F3n al pecho",
+        "Series": 2,
+        "Repeticiones": 8,
+        "CargaKg": 10.0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "3df7415d-b32e-44a5-bcf5-25f462d7a96b",
+    "Nombre": "Rutina demo 05",
+    "NombreUsuarioCliente": "cliente.demo21",
+    "NombreUsuarioEntrenador": "entrenador.prueba",
+    "FechaInicio": "2026-11-23",
+    "FechaFin": "2026-11-29",
+    "FechaAsignacion": "2026-11-23",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Extensi\u00F3n de tr\u00EDceps",
+        "Series": 4,
+        "Repeticiones": 9,
+        "CargaKg": 7.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Plancha",
+        "Series": 2,
+        "Repeticiones": 1,
+        "CargaKg": 0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Elevaci\u00F3n lateral",
+        "Series": 3,
+        "Repeticiones": 12,
+        "CargaKg": 12.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "05287c37-06b3-42f3-8a96-e5da97b8a529",
+    "Nombre": "Rutina demo 01",
+    "NombreUsuarioCliente": "cliente.demo22",
+    "NombreUsuarioEntrenador": "entrenador.demo02",
+    "FechaInicio": "2026-10-26",
+    "FechaFin": "2026-11-01",
+    "FechaAsignacion": "2026-10-26",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Jal\u00F3n al pecho",
+        "Series": 3,
+        "Repeticiones": 10,
+        "CargaKg": 22.5,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-10-28",
+            "CargaAnteriorKg": 20.0,
+            "CargaNuevaKg": 22.5
+          }
+        ]
+      },
+      {
+        "Nombre": "Extensi\u00F3n de tr\u00EDceps",
+        "Series": 4,
+        "Repeticiones": 10,
+        "CargaKg": 22.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Plancha",
+        "Series": 2,
+        "Repeticiones": 1,
+        "CargaKg": 0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "7d604b5c-5814-41c2-b1ff-638e0f479454",
+    "Nombre": "Rutina demo 02",
+    "NombreUsuarioCliente": "cliente.demo22",
+    "NombreUsuarioEntrenador": "entrenador.demo02",
+    "FechaInicio": "2026-11-02",
+    "FechaFin": "2026-11-08",
+    "FechaAsignacion": "2026-11-02",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Elevaci\u00F3n lateral",
+        "Series": 4,
+        "Repeticiones": 9,
+        "CargaKg": 25.0,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-04",
+            "CargaAnteriorKg": 22.5,
+            "CargaNuevaKg": 25.0
+          }
+        ]
+      },
+      {
+        "Nombre": "Remo con mancuerna",
+        "Series": 2,
+        "Repeticiones": 12,
+        "CargaKg": 5.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Zancadas",
+        "Series": 3,
+        "Repeticiones": 12,
+        "CargaKg": 7.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "01d5c90c-c77b-40c1-bcbd-2a79fc4a1f11",
+    "Nombre": "Rutina demo 03",
+    "NombreUsuarioCliente": "cliente.demo22",
+    "NombreUsuarioEntrenador": "entrenador.demo02",
+    "FechaInicio": "2026-11-09",
+    "FechaFin": "2026-11-15",
+    "FechaAsignacion": "2026-11-09",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Sentadilla",
+        "Series": 2,
+        "Repeticiones": 11,
+        "CargaKg": 7.5,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-11",
+            "CargaAnteriorKg": 5.0,
+            "CargaNuevaKg": 7.5
+          }
+        ]
+      },
+      {
+        "Nombre": "Press militar",
+        "Series": 3,
+        "Repeticiones": 11,
+        "CargaKg": 7.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Puente de gl\u00FAteos",
+        "Series": 4,
+        "Repeticiones": 11,
+        "CargaKg": 10.0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "a6d9dd8d-8831-4c07-9fb2-73d05e951c5a",
+    "Nombre": "Rutina demo 04",
+    "NombreUsuarioCliente": "cliente.demo22",
+    "NombreUsuarioEntrenador": "entrenador.demo02",
+    "FechaInicio": "2026-11-16",
+    "FechaFin": "2026-11-22",
+    "FechaAsignacion": "2026-11-16",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Peso muerto rumano",
+        "Series": 3,
+        "Repeticiones": 10,
+        "CargaKg": 10.0,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-18",
+            "CargaAnteriorKg": 7.5,
+            "CargaNuevaKg": 10.0
+          }
+        ]
+      },
+      {
+        "Nombre": "Curl de b\u00EDceps",
+        "Series": 4,
+        "Repeticiones": 10,
+        "CargaKg": 10.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Press de banca",
+        "Series": 2,
+        "Repeticiones": 8,
+        "CargaKg": 12.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "116271ec-c9bb-48ae-bb76-40b7a88dc30d",
+    "Nombre": "Rutina demo 05",
+    "NombreUsuarioCliente": "cliente.demo22",
+    "NombreUsuarioEntrenador": "entrenador.demo02",
+    "FechaInicio": "2026-11-23",
+    "FechaFin": "2026-11-29",
+    "FechaAsignacion": "2026-11-23",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Jal\u00F3n al pecho",
+        "Series": 4,
+        "Repeticiones": 9,
+        "CargaKg": 10.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Extensi\u00F3n de tr\u00EDceps",
+        "Series": 2,
+        "Repeticiones": 9,
+        "CargaKg": 12.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Plancha",
+        "Series": 3,
+        "Repeticiones": 1,
+        "CargaKg": 0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "cbaae589-7210-4461-8aae-1ed8907bf8fe",
+    "Nombre": "Rutina demo 01",
+    "NombreUsuarioCliente": "cliente.demo23",
+    "NombreUsuarioEntrenador": "entrenador.demo03",
+    "FechaInicio": "2026-10-26",
+    "FechaFin": "2026-11-01",
+    "FechaAsignacion": "2026-10-26",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Press de banca",
+        "Series": 3,
+        "Repeticiones": 10,
+        "CargaKg": 25.0,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-10-28",
+            "CargaAnteriorKg": 22.5,
+            "CargaNuevaKg": 25.0
+          }
+        ]
+      },
+      {
+        "Nombre": "Jal\u00F3n al pecho",
+        "Series": 4,
+        "Repeticiones": 10,
+        "CargaKg": 5.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Extensi\u00F3n de tr\u00EDceps",
+        "Series": 2,
+        "Repeticiones": 10,
+        "CargaKg": 7.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "8822c7e5-e23b-4f99-b419-03211fcd806b",
+    "Nombre": "Rutina demo 02",
+    "NombreUsuarioCliente": "cliente.demo23",
+    "NombreUsuarioEntrenador": "entrenador.demo03",
+    "FechaInicio": "2026-11-02",
+    "FechaFin": "2026-11-08",
+    "FechaAsignacion": "2026-11-02",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Plancha",
+        "Series": 4,
+        "Repeticiones": 1,
+        "CargaKg": 0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Elevaci\u00F3n lateral",
+        "Series": 2,
+        "Repeticiones": 9,
+        "CargaKg": 7.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Remo con mancuerna",
+        "Series": 3,
+        "Repeticiones": 12,
+        "CargaKg": 10.0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "8f587839-39ce-42e5-96a7-268fba660e9c",
+    "Nombre": "Rutina demo 03",
+    "NombreUsuarioCliente": "cliente.demo23",
+    "NombreUsuarioEntrenador": "entrenador.demo03",
+    "FechaInicio": "2026-11-09",
+    "FechaFin": "2026-11-15",
+    "FechaAsignacion": "2026-11-09",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Zancadas",
+        "Series": 2,
+        "Repeticiones": 8,
+        "CargaKg": 10.0,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-11",
+            "CargaAnteriorKg": 7.5,
+            "CargaNuevaKg": 10.0
+          }
+        ]
+      },
+      {
+        "Nombre": "Sentadilla",
+        "Series": 3,
+        "Repeticiones": 11,
+        "CargaKg": 10.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Press militar",
+        "Series": 4,
+        "Repeticiones": 11,
+        "CargaKg": 12.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "96e917ec-832b-41b2-bdd5-5cb539bb35f0",
+    "Nombre": "Rutina demo 04",
+    "NombreUsuarioCliente": "cliente.demo23",
+    "NombreUsuarioEntrenador": "entrenador.demo03",
+    "FechaInicio": "2026-11-16",
+    "FechaFin": "2026-11-22",
+    "FechaAsignacion": "2026-11-16",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Puente de gl\u00FAteos",
+        "Series": 3,
+        "Repeticiones": 12,
+        "CargaKg": 12.5,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-18",
+            "CargaAnteriorKg": 10.0,
+            "CargaNuevaKg": 12.5
+          }
+        ]
+      },
+      {
+        "Nombre": "Peso muerto rumano",
+        "Series": 4,
+        "Repeticiones": 10,
+        "CargaKg": 12.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Curl de b\u00EDceps",
+        "Series": 2,
+        "Repeticiones": 10,
+        "CargaKg": 15.0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "247ef994-1374-4f7f-9d31-d23ec933134e",
+    "Nombre": "Rutina demo 05",
+    "NombreUsuarioCliente": "cliente.demo23",
+    "NombreUsuarioEntrenador": "entrenador.demo03",
+    "FechaInicio": "2026-11-23",
+    "FechaFin": "2026-11-29",
+    "FechaAsignacion": "2026-11-23",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Press de banca",
+        "Series": 4,
+        "Repeticiones": 9,
+        "CargaKg": 12.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Jal\u00F3n al pecho",
+        "Series": 2,
+        "Repeticiones": 9,
+        "CargaKg": 15.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Extensi\u00F3n de tr\u00EDceps",
+        "Series": 3,
+        "Repeticiones": 9,
+        "CargaKg": 17.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "5f41c591-8303-463e-9991-27fb8b9e2def",
+    "Nombre": "Rutina demo 01",
+    "NombreUsuarioCliente": "cliente.demo24",
+    "NombreUsuarioEntrenador": "entrenador.demo04",
+    "FechaInicio": "2026-10-26",
+    "FechaFin": "2026-11-01",
+    "FechaAsignacion": "2026-10-26",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Curl de b\u00EDceps",
+        "Series": 3,
+        "Repeticiones": 12,
+        "CargaKg": 7.5,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-10-28",
+            "CargaAnteriorKg": 5.0,
+            "CargaNuevaKg": 7.5
+          }
+        ]
+      },
+      {
+        "Nombre": "Press de banca",
+        "Series": 4,
+        "Repeticiones": 10,
+        "CargaKg": 7.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Jal\u00F3n al pecho",
+        "Series": 2,
+        "Repeticiones": 10,
+        "CargaKg": 10.0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "188e6656-a02d-4323-89b7-8859520e109c",
+    "Nombre": "Rutina demo 02",
+    "NombreUsuarioCliente": "cliente.demo24",
+    "NombreUsuarioEntrenador": "entrenador.demo04",
+    "FechaInicio": "2026-11-02",
+    "FechaFin": "2026-11-08",
+    "FechaAsignacion": "2026-11-02",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Extensi\u00F3n de tr\u00EDceps",
+        "Series": 4,
+        "Repeticiones": 11,
+        "CargaKg": 10.0,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-04",
+            "CargaAnteriorKg": 7.5,
+            "CargaNuevaKg": 10.0
+          }
+        ]
+      },
+      {
+        "Nombre": "Plancha",
+        "Series": 2,
+        "Repeticiones": 1,
+        "CargaKg": 0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Elevaci\u00F3n lateral",
+        "Series": 3,
+        "Repeticiones": 9,
+        "CargaKg": 12.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "aba04084-666e-461a-b378-fe5094ee5242",
+    "Nombre": "Rutina demo 03",
+    "NombreUsuarioCliente": "cliente.demo24",
+    "NombreUsuarioEntrenador": "entrenador.demo04",
+    "FechaInicio": "2026-11-09",
+    "FechaFin": "2026-11-15",
+    "FechaAsignacion": "2026-11-09",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Remo con mancuerna",
+        "Series": 2,
+        "Repeticiones": 8,
+        "CargaKg": 12.5,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-11",
+            "CargaAnteriorKg": 10.0,
+            "CargaNuevaKg": 12.5
+          }
+        ]
+      },
+      {
+        "Nombre": "Zancadas",
+        "Series": 3,
+        "Repeticiones": 8,
+        "CargaKg": 12.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Sentadilla",
+        "Series": 4,
+        "Repeticiones": 11,
+        "CargaKg": 15.0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "043195d3-d82b-4fa2-8db9-544c95da1cbb",
+    "Nombre": "Rutina demo 04",
+    "NombreUsuarioCliente": "cliente.demo24",
+    "NombreUsuarioEntrenador": "entrenador.demo04",
+    "FechaInicio": "2026-11-16",
+    "FechaFin": "2026-11-22",
+    "FechaAsignacion": "2026-11-16",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Press militar",
+        "Series": 3,
+        "Repeticiones": 12,
+        "CargaKg": 15.0,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-18",
+            "CargaAnteriorKg": 12.5,
+            "CargaNuevaKg": 15.0
+          }
+        ]
+      },
+      {
+        "Nombre": "Puente de gl\u00FAteos",
+        "Series": 4,
+        "Repeticiones": 12,
+        "CargaKg": 15.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Peso muerto rumano",
+        "Series": 2,
+        "Repeticiones": 10,
+        "CargaKg": 17.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "c5931e97-cee3-44f7-a4df-c61e0dd41885",
+    "Nombre": "Rutina demo 05",
+    "NombreUsuarioCliente": "cliente.demo24",
+    "NombreUsuarioEntrenador": "entrenador.demo04",
+    "FechaInicio": "2026-11-23",
+    "FechaFin": "2026-11-29",
+    "FechaAsignacion": "2026-11-23",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Curl de b\u00EDceps",
+        "Series": 4,
+        "Repeticiones": 11,
+        "CargaKg": 15.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Press de banca",
+        "Series": 2,
+        "Repeticiones": 9,
+        "CargaKg": 17.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Jal\u00F3n al pecho",
+        "Series": 3,
+        "Repeticiones": 9,
+        "CargaKg": 20.0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "34493f4f-3143-4d56-90d8-6da11b55d4e0",
+    "Nombre": "Rutina demo 01",
+    "NombreUsuarioCliente": "cliente.demo25",
+    "NombreUsuarioEntrenador": "entrenador.demo05",
+    "FechaInicio": "2026-10-26",
+    "FechaFin": "2026-11-01",
+    "FechaAsignacion": "2026-10-26",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Peso muerto rumano",
+        "Series": 3,
+        "Repeticiones": 12,
+        "CargaKg": 10.0,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-10-28",
+            "CargaAnteriorKg": 7.5,
+            "CargaNuevaKg": 10.0
+          }
+        ]
+      },
+      {
+        "Nombre": "Curl de b\u00EDceps",
+        "Series": 4,
+        "Repeticiones": 12,
+        "CargaKg": 10.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Press de banca",
+        "Series": 2,
+        "Repeticiones": 10,
+        "CargaKg": 12.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "a475dda6-563e-4b85-a6ce-937d73980745",
+    "Nombre": "Rutina demo 02",
+    "NombreUsuarioCliente": "cliente.demo25",
+    "NombreUsuarioEntrenador": "entrenador.demo05",
+    "FechaInicio": "2026-11-02",
+    "FechaFin": "2026-11-08",
+    "FechaAsignacion": "2026-11-02",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Jal\u00F3n al pecho",
+        "Series": 4,
+        "Repeticiones": 11,
+        "CargaKg": 12.5,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-04",
+            "CargaAnteriorKg": 10.0,
+            "CargaNuevaKg": 12.5
+          }
+        ]
+      },
+      {
+        "Nombre": "Extensi\u00F3n de tr\u00EDceps",
+        "Series": 2,
+        "Repeticiones": 11,
+        "CargaKg": 12.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Plancha",
+        "Series": 3,
+        "Repeticiones": 1,
+        "CargaKg": 0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "3c369bcc-68bd-4361-a1da-96dfc09bbfbb",
+    "Nombre": "Rutina demo 03",
+    "NombreUsuarioCliente": "cliente.demo25",
+    "NombreUsuarioEntrenador": "entrenador.demo05",
+    "FechaInicio": "2026-11-09",
+    "FechaFin": "2026-11-15",
+    "FechaAsignacion": "2026-11-09",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Elevaci\u00F3n lateral",
+        "Series": 2,
+        "Repeticiones": 10,
+        "CargaKg": 15.0,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-11",
+            "CargaAnteriorKg": 12.5,
+            "CargaNuevaKg": 15.0
+          }
+        ]
+      },
+      {
+        "Nombre": "Remo con mancuerna",
+        "Series": 3,
+        "Repeticiones": 8,
+        "CargaKg": 15.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Zancadas",
+        "Series": 4,
+        "Repeticiones": 8,
+        "CargaKg": 17.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "5fd47ed3-961a-4b99-aa4b-85e5baa54297",
+    "Nombre": "Rutina demo 04",
+    "NombreUsuarioCliente": "cliente.demo25",
+    "NombreUsuarioEntrenador": "entrenador.demo05",
+    "FechaInicio": "2026-11-16",
+    "FechaFin": "2026-11-22",
+    "FechaAsignacion": "2026-11-16",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Sentadilla",
+        "Series": 3,
+        "Repeticiones": 12,
+        "CargaKg": 17.5,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-18",
+            "CargaAnteriorKg": 15.0,
+            "CargaNuevaKg": 17.5
+          }
+        ]
+      },
+      {
+        "Nombre": "Press militar",
+        "Series": 4,
+        "Repeticiones": 12,
+        "CargaKg": 17.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Puente de gl\u00FAteos",
+        "Series": 2,
+        "Repeticiones": 12,
+        "CargaKg": 20.0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "06b3e2c3-19b2-436e-ae48-f535eb7df707",
+    "Nombre": "Rutina demo 05",
+    "NombreUsuarioCliente": "cliente.demo25",
+    "NombreUsuarioEntrenador": "entrenador.demo05",
+    "FechaInicio": "2026-11-23",
+    "FechaFin": "2026-11-29",
+    "FechaAsignacion": "2026-11-23",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Peso muerto rumano",
+        "Series": 4,
+        "Repeticiones": 11,
+        "CargaKg": 17.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Curl de b\u00EDceps",
+        "Series": 2,
+        "Repeticiones": 11,
+        "CargaKg": 20.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Press de banca",
+        "Series": 3,
+        "Repeticiones": 9,
+        "CargaKg": 22.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "57de9f54-25f7-4c66-bb9f-35eb10ea50bd",
+    "Nombre": "Rutina demo 01",
+    "NombreUsuarioCliente": "cliente.demo26",
+    "NombreUsuarioEntrenador": "entrenador.demo06",
+    "FechaInicio": "2026-10-26",
+    "FechaFin": "2026-11-01",
+    "FechaAsignacion": "2026-10-26",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Puente de gl\u00FAteos",
+        "Series": 3,
+        "Repeticiones": 9,
+        "CargaKg": 12.5,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-10-28",
+            "CargaAnteriorKg": 10.0,
+            "CargaNuevaKg": 12.5
+          }
+        ]
+      },
+      {
+        "Nombre": "Peso muerto rumano",
+        "Series": 4,
+        "Repeticiones": 12,
+        "CargaKg": 12.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Curl de b\u00EDceps",
+        "Series": 2,
+        "Repeticiones": 12,
+        "CargaKg": 15.0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "3073236e-5ed4-4872-bf94-0e04a7fe4b8e",
+    "Nombre": "Rutina demo 02",
+    "NombreUsuarioCliente": "cliente.demo26",
+    "NombreUsuarioEntrenador": "entrenador.demo06",
+    "FechaInicio": "2026-11-02",
+    "FechaFin": "2026-11-08",
+    "FechaAsignacion": "2026-11-02",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Press de banca",
+        "Series": 4,
+        "Repeticiones": 11,
+        "CargaKg": 15.0,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-04",
+            "CargaAnteriorKg": 12.5,
+            "CargaNuevaKg": 15.0
+          }
+        ]
+      },
+      {
+        "Nombre": "Jal\u00F3n al pecho",
+        "Series": 2,
+        "Repeticiones": 11,
+        "CargaKg": 15.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Extensi\u00F3n de tr\u00EDceps",
+        "Series": 3,
+        "Repeticiones": 11,
+        "CargaKg": 17.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "0c8a3b22-fdc8-4c8d-897f-256ff7c0aaaa",
+    "Nombre": "Rutina demo 03",
+    "NombreUsuarioCliente": "cliente.demo26",
+    "NombreUsuarioEntrenador": "entrenador.demo06",
+    "FechaInicio": "2026-11-09",
+    "FechaFin": "2026-11-15",
+    "FechaAsignacion": "2026-11-09",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Plancha",
+        "Series": 2,
+        "Repeticiones": 1,
+        "CargaKg": 0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Elevaci\u00F3n lateral",
+        "Series": 3,
+        "Repeticiones": 10,
+        "CargaKg": 17.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Remo con mancuerna",
+        "Series": 4,
+        "Repeticiones": 8,
+        "CargaKg": 20.0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "4be3fa35-7cd5-4545-8770-46c899be3bfb",
+    "Nombre": "Rutina demo 04",
+    "NombreUsuarioCliente": "cliente.demo26",
+    "NombreUsuarioEntrenador": "entrenador.demo06",
+    "FechaInicio": "2026-11-16",
+    "FechaFin": "2026-11-22",
+    "FechaAsignacion": "2026-11-16",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Zancadas",
+        "Series": 3,
+        "Repeticiones": 9,
+        "CargaKg": 20.0,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-18",
+            "CargaAnteriorKg": 17.5,
+            "CargaNuevaKg": 20.0
+          }
+        ]
+      },
+      {
+        "Nombre": "Sentadilla",
+        "Series": 4,
+        "Repeticiones": 12,
+        "CargaKg": 20.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Press militar",
+        "Series": 2,
+        "Repeticiones": 12,
+        "CargaKg": 22.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "01a65137-7bd5-43ff-8c15-13f4669b9181",
+    "Nombre": "Rutina demo 05",
+    "NombreUsuarioCliente": "cliente.demo26",
+    "NombreUsuarioEntrenador": "entrenador.demo06",
+    "FechaInicio": "2026-11-23",
+    "FechaFin": "2026-11-29",
+    "FechaAsignacion": "2026-11-23",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Puente de gl\u00FAteos",
+        "Series": 4,
+        "Repeticiones": 8,
+        "CargaKg": 20.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Peso muerto rumano",
+        "Series": 2,
+        "Repeticiones": 11,
+        "CargaKg": 22.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Curl de b\u00EDceps",
+        "Series": 3,
+        "Repeticiones": 11,
+        "CargaKg": 5.0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "f887593c-66d0-4ef6-985d-b701e1b26a59",
+    "Nombre": "Rutina demo 01",
+    "NombreUsuarioCliente": "cliente.demo27",
+    "NombreUsuarioEntrenador": "entrenador.demo07",
+    "FechaInicio": "2026-10-26",
+    "FechaFin": "2026-11-01",
+    "FechaAsignacion": "2026-10-26",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Press militar",
+        "Series": 3,
+        "Repeticiones": 9,
+        "CargaKg": 15.0,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-10-28",
+            "CargaAnteriorKg": 12.5,
+            "CargaNuevaKg": 15.0
+          }
+        ]
+      },
+      {
+        "Nombre": "Puente de gl\u00FAteos",
+        "Series": 4,
+        "Repeticiones": 9,
+        "CargaKg": 15.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Peso muerto rumano",
+        "Series": 2,
+        "Repeticiones": 12,
+        "CargaKg": 17.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "1f79048b-3b85-40c4-9781-7145ab792e17",
+    "Nombre": "Rutina demo 02",
+    "NombreUsuarioCliente": "cliente.demo27",
+    "NombreUsuarioEntrenador": "entrenador.demo07",
+    "FechaInicio": "2026-11-02",
+    "FechaFin": "2026-11-08",
+    "FechaAsignacion": "2026-11-02",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Curl de b\u00EDceps",
+        "Series": 4,
+        "Repeticiones": 8,
+        "CargaKg": 17.5,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-04",
+            "CargaAnteriorKg": 15.0,
+            "CargaNuevaKg": 17.5
+          }
+        ]
+      },
+      {
+        "Nombre": "Press de banca",
+        "Series": 2,
+        "Repeticiones": 11,
+        "CargaKg": 17.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Jal\u00F3n al pecho",
+        "Series": 3,
+        "Repeticiones": 11,
+        "CargaKg": 20.0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "9bb85e1e-7977-4360-9dde-876423d24e31",
+    "Nombre": "Rutina demo 03",
+    "NombreUsuarioCliente": "cliente.demo27",
+    "NombreUsuarioEntrenador": "entrenador.demo07",
+    "FechaInicio": "2026-11-09",
+    "FechaFin": "2026-11-15",
+    "FechaAsignacion": "2026-11-09",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Extensi\u00F3n de tr\u00EDceps",
+        "Series": 2,
+        "Repeticiones": 12,
+        "CargaKg": 20.0,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-11",
+            "CargaAnteriorKg": 17.5,
+            "CargaNuevaKg": 20.0
+          }
+        ]
+      },
+      {
+        "Nombre": "Plancha",
+        "Series": 3,
+        "Repeticiones": 1,
+        "CargaKg": 0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Elevaci\u00F3n lateral",
+        "Series": 4,
+        "Repeticiones": 10,
+        "CargaKg": 22.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "0642405c-f093-4c3d-98f5-afcd7e36a90a",
+    "Nombre": "Rutina demo 04",
+    "NombreUsuarioCliente": "cliente.demo27",
+    "NombreUsuarioEntrenador": "entrenador.demo07",
+    "FechaInicio": "2026-11-16",
+    "FechaFin": "2026-11-22",
+    "FechaAsignacion": "2026-11-16",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Remo con mancuerna",
+        "Series": 3,
+        "Repeticiones": 9,
+        "CargaKg": 22.5,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-18",
+            "CargaAnteriorKg": 20.0,
+            "CargaNuevaKg": 22.5
+          }
+        ]
+      },
+      {
+        "Nombre": "Zancadas",
+        "Series": 4,
+        "Repeticiones": 9,
+        "CargaKg": 22.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Sentadilla",
+        "Series": 2,
+        "Repeticiones": 12,
+        "CargaKg": 5.0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "37636f5f-96ee-4aa7-8d0e-38331d693635",
+    "Nombre": "Rutina demo 05",
+    "NombreUsuarioCliente": "cliente.demo27",
+    "NombreUsuarioEntrenador": "entrenador.demo07",
+    "FechaInicio": "2026-11-23",
+    "FechaFin": "2026-11-29",
+    "FechaAsignacion": "2026-11-23",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Press militar",
+        "Series": 4,
+        "Repeticiones": 8,
+        "CargaKg": 22.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Puente de gl\u00FAteos",
+        "Series": 2,
+        "Repeticiones": 8,
+        "CargaKg": 5.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Peso muerto rumano",
+        "Series": 3,
+        "Repeticiones": 11,
+        "CargaKg": 7.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "549fd8f9-8484-4101-840a-094208bb56dc",
+    "Nombre": "Rutina demo 01",
+    "NombreUsuarioCliente": "cliente.demo28",
+    "NombreUsuarioEntrenador": "entrenador.demo08",
+    "FechaInicio": "2026-10-26",
+    "FechaFin": "2026-11-01",
+    "FechaAsignacion": "2026-10-26",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Sentadilla",
+        "Series": 3,
+        "Repeticiones": 9,
+        "CargaKg": 17.5,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-10-28",
+            "CargaAnteriorKg": 15.0,
+            "CargaNuevaKg": 17.5
+          }
+        ]
+      },
+      {
+        "Nombre": "Press militar",
+        "Series": 4,
+        "Repeticiones": 9,
+        "CargaKg": 17.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Puente de gl\u00FAteos",
+        "Series": 2,
+        "Repeticiones": 9,
+        "CargaKg": 20.0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "9a8a7a96-fc04-4391-82d3-e04cf0a22144",
+    "Nombre": "Rutina demo 02",
+    "NombreUsuarioCliente": "cliente.demo28",
+    "NombreUsuarioEntrenador": "entrenador.demo08",
+    "FechaInicio": "2026-11-02",
+    "FechaFin": "2026-11-08",
+    "FechaAsignacion": "2026-11-02",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Peso muerto rumano",
+        "Series": 4,
+        "Repeticiones": 8,
+        "CargaKg": 20.0,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-04",
+            "CargaAnteriorKg": 17.5,
+            "CargaNuevaKg": 20.0
+          }
+        ]
+      },
+      {
+        "Nombre": "Curl de b\u00EDceps",
+        "Series": 2,
+        "Repeticiones": 8,
+        "CargaKg": 20.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Press de banca",
+        "Series": 3,
+        "Repeticiones": 11,
+        "CargaKg": 22.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "20a2806f-a2a1-4679-ade1-8f2dfa2c68f8",
+    "Nombre": "Rutina demo 03",
+    "NombreUsuarioCliente": "cliente.demo28",
+    "NombreUsuarioEntrenador": "entrenador.demo08",
+    "FechaInicio": "2026-11-09",
+    "FechaFin": "2026-11-15",
+    "FechaAsignacion": "2026-11-09",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Jal\u00F3n al pecho",
+        "Series": 2,
+        "Repeticiones": 12,
+        "CargaKg": 22.5,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-11",
+            "CargaAnteriorKg": 20.0,
+            "CargaNuevaKg": 22.5
+          }
+        ]
+      },
+      {
+        "Nombre": "Extensi\u00F3n de tr\u00EDceps",
+        "Series": 3,
+        "Repeticiones": 12,
+        "CargaKg": 22.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Plancha",
+        "Series": 4,
+        "Repeticiones": 1,
+        "CargaKg": 0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "b25761ce-9a78-4e80-b82c-31fecdfc4503",
+    "Nombre": "Rutina demo 04",
+    "NombreUsuarioCliente": "cliente.demo28",
+    "NombreUsuarioEntrenador": "entrenador.demo08",
+    "FechaInicio": "2026-11-16",
+    "FechaFin": "2026-11-22",
+    "FechaAsignacion": "2026-11-16",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Elevaci\u00F3n lateral",
+        "Series": 3,
+        "Repeticiones": 11,
+        "CargaKg": 25.0,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-18",
+            "CargaAnteriorKg": 22.5,
+            "CargaNuevaKg": 25.0
+          }
+        ]
+      },
+      {
+        "Nombre": "Remo con mancuerna",
+        "Series": 4,
+        "Repeticiones": 9,
+        "CargaKg": 5.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Zancadas",
+        "Series": 2,
+        "Repeticiones": 9,
+        "CargaKg": 7.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "e24ceae5-8b09-4337-bb47-5ce7ed8307c1",
+    "Nombre": "Rutina demo 05",
+    "NombreUsuarioCliente": "cliente.demo28",
+    "NombreUsuarioEntrenador": "entrenador.demo08",
+    "FechaInicio": "2026-11-23",
+    "FechaFin": "2026-11-29",
+    "FechaAsignacion": "2026-11-23",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Sentadilla",
+        "Series": 4,
+        "Repeticiones": 8,
+        "CargaKg": 5.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Press militar",
+        "Series": 2,
+        "Repeticiones": 8,
+        "CargaKg": 7.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Puente de gl\u00FAteos",
+        "Series": 3,
+        "Repeticiones": 8,
+        "CargaKg": 10.0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "e3c606d9-b27d-4498-b2b5-f865d15314d9",
+    "Nombre": "Rutina demo 01",
+    "NombreUsuarioCliente": "cliente.demo29",
+    "NombreUsuarioEntrenador": "entrenador.demo09",
+    "FechaInicio": "2026-10-26",
+    "FechaFin": "2026-11-01",
+    "FechaAsignacion": "2026-10-26",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Zancadas",
+        "Series": 3,
+        "Repeticiones": 11,
+        "CargaKg": 20.0,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-10-28",
+            "CargaAnteriorKg": 17.5,
+            "CargaNuevaKg": 20.0
+          }
+        ]
+      },
+      {
+        "Nombre": "Sentadilla",
+        "Series": 4,
+        "Repeticiones": 9,
+        "CargaKg": 20.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Press militar",
+        "Series": 2,
+        "Repeticiones": 9,
+        "CargaKg": 22.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "73455931-6e97-4bd1-b590-d0e5979558c8",
+    "Nombre": "Rutina demo 02",
+    "NombreUsuarioCliente": "cliente.demo29",
+    "NombreUsuarioEntrenador": "entrenador.demo09",
+    "FechaInicio": "2026-11-02",
+    "FechaFin": "2026-11-08",
+    "FechaAsignacion": "2026-11-02",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Puente de gl\u00FAteos",
+        "Series": 4,
+        "Repeticiones": 10,
+        "CargaKg": 22.5,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-04",
+            "CargaAnteriorKg": 20.0,
+            "CargaNuevaKg": 22.5
+          }
+        ]
+      },
+      {
+        "Nombre": "Peso muerto rumano",
+        "Series": 2,
+        "Repeticiones": 8,
+        "CargaKg": 22.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Curl de b\u00EDceps",
+        "Series": 3,
+        "Repeticiones": 8,
+        "CargaKg": 5.0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "d48aeff2-036d-4928-ac68-7ff70093da71",
+    "Nombre": "Rutina demo 03",
+    "NombreUsuarioCliente": "cliente.demo29",
+    "NombreUsuarioEntrenador": "entrenador.demo09",
+    "FechaInicio": "2026-11-09",
+    "FechaFin": "2026-11-15",
+    "FechaAsignacion": "2026-11-09",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Press de banca",
+        "Series": 2,
+        "Repeticiones": 12,
+        "CargaKg": 25.0,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-11",
+            "CargaAnteriorKg": 22.5,
+            "CargaNuevaKg": 25.0
+          }
+        ]
+      },
+      {
+        "Nombre": "Jal\u00F3n al pecho",
+        "Series": 3,
+        "Repeticiones": 12,
+        "CargaKg": 5.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Extensi\u00F3n de tr\u00EDceps",
+        "Series": 4,
+        "Repeticiones": 12,
+        "CargaKg": 7.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "4378631f-2a81-41a7-a151-3eeeab2e0a14",
+    "Nombre": "Rutina demo 04",
+    "NombreUsuarioCliente": "cliente.demo29",
+    "NombreUsuarioEntrenador": "entrenador.demo09",
+    "FechaInicio": "2026-11-16",
+    "FechaFin": "2026-11-22",
+    "FechaAsignacion": "2026-11-16",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Plancha",
+        "Series": 3,
+        "Repeticiones": 1,
+        "CargaKg": 0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Elevaci\u00F3n lateral",
+        "Series": 4,
+        "Repeticiones": 11,
+        "CargaKg": 7.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Remo con mancuerna",
+        "Series": 2,
+        "Repeticiones": 9,
+        "CargaKg": 10.0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "5ac6a43f-83dd-4258-9c68-b0bed36f8ab8",
+    "Nombre": "Rutina demo 05",
+    "NombreUsuarioCliente": "cliente.demo29",
+    "NombreUsuarioEntrenador": "entrenador.demo09",
+    "FechaInicio": "2026-11-23",
+    "FechaFin": "2026-11-29",
+    "FechaAsignacion": "2026-11-23",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Zancadas",
+        "Series": 4,
+        "Repeticiones": 10,
+        "CargaKg": 7.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Sentadilla",
+        "Series": 2,
+        "Repeticiones": 8,
+        "CargaKg": 10.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Press militar",
+        "Series": 3,
+        "Repeticiones": 8,
+        "CargaKg": 12.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "047be5a5-d621-4999-ae60-16d0ca992941",
+    "Nombre": "Rutina demo 01",
+    "NombreUsuarioCliente": "cliente.demo30",
+    "NombreUsuarioEntrenador": "entrenador.demo10",
+    "FechaInicio": "2026-10-26",
+    "FechaFin": "2026-11-01",
+    "FechaAsignacion": "2026-10-26",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Remo con mancuerna",
+        "Series": 3,
+        "Repeticiones": 11,
+        "CargaKg": 22.5,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-10-28",
+            "CargaAnteriorKg": 20.0,
+            "CargaNuevaKg": 22.5
+          }
+        ]
+      },
+      {
+        "Nombre": "Zancadas",
+        "Series": 4,
+        "Repeticiones": 11,
+        "CargaKg": 22.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Sentadilla",
+        "Series": 2,
+        "Repeticiones": 9,
+        "CargaKg": 5.0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "839ac1fc-d332-4725-ab9a-c28ed212b329",
+    "Nombre": "Rutina demo 02",
+    "NombreUsuarioCliente": "cliente.demo30",
+    "NombreUsuarioEntrenador": "entrenador.demo10",
+    "FechaInicio": "2026-11-02",
+    "FechaFin": "2026-11-08",
+    "FechaAsignacion": "2026-11-02",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Press militar",
+        "Series": 4,
+        "Repeticiones": 10,
+        "CargaKg": 25.0,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-04",
+            "CargaAnteriorKg": 22.5,
+            "CargaNuevaKg": 25.0
+          }
+        ]
+      },
+      {
+        "Nombre": "Puente de gl\u00FAteos",
+        "Series": 2,
+        "Repeticiones": 10,
+        "CargaKg": 5.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Peso muerto rumano",
+        "Series": 3,
+        "Repeticiones": 8,
+        "CargaKg": 7.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "1f6b9d82-86ff-43cd-854f-94f4fbd58d3c",
+    "Nombre": "Rutina demo 03",
+    "NombreUsuarioCliente": "cliente.demo30",
+    "NombreUsuarioEntrenador": "entrenador.demo10",
+    "FechaInicio": "2026-11-09",
+    "FechaFin": "2026-11-15",
+    "FechaAsignacion": "2026-11-09",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Curl de b\u00EDceps",
+        "Series": 2,
+        "Repeticiones": 9,
+        "CargaKg": 7.5,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-11",
+            "CargaAnteriorKg": 5.0,
+            "CargaNuevaKg": 7.5
+          }
+        ]
+      },
+      {
+        "Nombre": "Press de banca",
+        "Series": 3,
+        "Repeticiones": 12,
+        "CargaKg": 7.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Jal\u00F3n al pecho",
+        "Series": 4,
+        "Repeticiones": 12,
+        "CargaKg": 10.0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "5588dc78-2743-4ae0-a24e-323660c86745",
+    "Nombre": "Rutina demo 04",
+    "NombreUsuarioCliente": "cliente.demo30",
+    "NombreUsuarioEntrenador": "entrenador.demo10",
+    "FechaInicio": "2026-11-16",
+    "FechaFin": "2026-11-22",
+    "FechaAsignacion": "2026-11-16",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Extensi\u00F3n de tr\u00EDceps",
+        "Series": 3,
+        "Repeticiones": 8,
+        "CargaKg": 10.0,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-18",
+            "CargaAnteriorKg": 7.5,
+            "CargaNuevaKg": 10.0
+          }
+        ]
+      },
+      {
+        "Nombre": "Plancha",
+        "Series": 4,
+        "Repeticiones": 1,
+        "CargaKg": 0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Elevaci\u00F3n lateral",
+        "Series": 2,
+        "Repeticiones": 11,
+        "CargaKg": 12.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "04d0c780-50a8-4b41-96b2-2022cf88591a",
+    "Nombre": "Rutina demo 05",
+    "NombreUsuarioCliente": "cliente.demo30",
+    "NombreUsuarioEntrenador": "entrenador.demo10",
+    "FechaInicio": "2026-11-23",
+    "FechaFin": "2026-11-29",
+    "FechaAsignacion": "2026-11-23",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Remo con mancuerna",
+        "Series": 4,
+        "Repeticiones": 10,
+        "CargaKg": 10.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Zancadas",
+        "Series": 2,
+        "Repeticiones": 10,
+        "CargaKg": 12.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Sentadilla",
+        "Series": 3,
+        "Repeticiones": 8,
+        "CargaKg": 15.0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "cb9fe5dd-202d-4e4d-a77d-d61af9beded7",
+    "Nombre": "Rutina demo 01",
+    "NombreUsuarioCliente": "cliente.demo31",
+    "NombreUsuarioEntrenador": "entrenador.prueba",
+    "FechaInicio": "2026-10-26",
+    "FechaFin": "2026-11-01",
+    "FechaAsignacion": "2026-10-26",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Elevaci\u00F3n lateral",
+        "Series": 3,
+        "Repeticiones": 8,
+        "CargaKg": 25.0,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-10-28",
+            "CargaAnteriorKg": 22.5,
+            "CargaNuevaKg": 25.0
+          }
+        ]
+      },
+      {
+        "Nombre": "Remo con mancuerna",
+        "Series": 4,
+        "Repeticiones": 11,
+        "CargaKg": 5.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Zancadas",
+        "Series": 2,
+        "Repeticiones": 11,
+        "CargaKg": 7.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "5135af69-4771-4455-8935-8e1d1176febe",
+    "Nombre": "Rutina demo 02",
+    "NombreUsuarioCliente": "cliente.demo31",
+    "NombreUsuarioEntrenador": "entrenador.prueba",
+    "FechaInicio": "2026-11-02",
+    "FechaFin": "2026-11-08",
+    "FechaAsignacion": "2026-11-02",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Sentadilla",
+        "Series": 4,
+        "Repeticiones": 10,
+        "CargaKg": 7.5,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-04",
+            "CargaAnteriorKg": 5.0,
+            "CargaNuevaKg": 7.5
+          }
+        ]
+      },
+      {
+        "Nombre": "Press militar",
+        "Series": 2,
+        "Repeticiones": 10,
+        "CargaKg": 7.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Puente de gl\u00FAteos",
+        "Series": 3,
+        "Repeticiones": 10,
+        "CargaKg": 10.0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "42fa6967-3f27-4e9e-98f5-fafda7dea5d3",
+    "Nombre": "Rutina demo 03",
+    "NombreUsuarioCliente": "cliente.demo31",
+    "NombreUsuarioEntrenador": "entrenador.prueba",
+    "FechaInicio": "2026-11-09",
+    "FechaFin": "2026-11-15",
+    "FechaAsignacion": "2026-11-09",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Peso muerto rumano",
+        "Series": 2,
+        "Repeticiones": 9,
+        "CargaKg": 10.0,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-11",
+            "CargaAnteriorKg": 7.5,
+            "CargaNuevaKg": 10.0
+          }
+        ]
+      },
+      {
+        "Nombre": "Curl de b\u00EDceps",
+        "Series": 3,
+        "Repeticiones": 9,
+        "CargaKg": 10.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Press de banca",
+        "Series": 4,
+        "Repeticiones": 12,
+        "CargaKg": 12.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "1a706c95-31d8-4c43-99d4-f0e449d2d35e",
+    "Nombre": "Rutina demo 04",
+    "NombreUsuarioCliente": "cliente.demo31",
+    "NombreUsuarioEntrenador": "entrenador.prueba",
+    "FechaInicio": "2026-11-16",
+    "FechaFin": "2026-11-22",
+    "FechaAsignacion": "2026-11-16",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Jal\u00F3n al pecho",
+        "Series": 3,
+        "Repeticiones": 8,
+        "CargaKg": 12.5,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-18",
+            "CargaAnteriorKg": 10.0,
+            "CargaNuevaKg": 12.5
+          }
+        ]
+      },
+      {
+        "Nombre": "Extensi\u00F3n de tr\u00EDceps",
+        "Series": 4,
+        "Repeticiones": 8,
+        "CargaKg": 12.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Plancha",
+        "Series": 2,
+        "Repeticiones": 1,
+        "CargaKg": 0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "d874bd9d-6674-4ec9-9114-b273453ebf80",
+    "Nombre": "Rutina demo 05",
+    "NombreUsuarioCliente": "cliente.demo31",
+    "NombreUsuarioEntrenador": "entrenador.prueba",
+    "FechaInicio": "2026-11-23",
+    "FechaFin": "2026-11-29",
+    "FechaAsignacion": "2026-11-23",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Elevaci\u00F3n lateral",
+        "Series": 4,
+        "Repeticiones": 12,
+        "CargaKg": 12.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Remo con mancuerna",
+        "Series": 2,
+        "Repeticiones": 10,
+        "CargaKg": 15.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Zancadas",
+        "Series": 3,
+        "Repeticiones": 10,
+        "CargaKg": 17.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "9297684b-8dc5-4673-9323-eff56d740086",
+    "Nombre": "Rutina demo 01",
+    "NombreUsuarioCliente": "cliente.demo32",
+    "NombreUsuarioEntrenador": "entrenador.demo02",
+    "FechaInicio": "2026-10-26",
+    "FechaFin": "2026-11-01",
+    "FechaAsignacion": "2026-10-26",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Plancha",
+        "Series": 3,
+        "Repeticiones": 1,
+        "CargaKg": 0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Elevaci\u00F3n lateral",
+        "Series": 4,
+        "Repeticiones": 8,
+        "CargaKg": 7.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Remo con mancuerna",
+        "Series": 2,
+        "Repeticiones": 11,
+        "CargaKg": 10.0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "e8d2a556-c773-4420-b70d-2dcd17e64059",
+    "Nombre": "Rutina demo 02",
+    "NombreUsuarioCliente": "cliente.demo32",
+    "NombreUsuarioEntrenador": "entrenador.demo02",
+    "FechaInicio": "2026-11-02",
+    "FechaFin": "2026-11-08",
+    "FechaAsignacion": "2026-11-02",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Zancadas",
+        "Series": 4,
+        "Repeticiones": 12,
+        "CargaKg": 10.0,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-04",
+            "CargaAnteriorKg": 7.5,
+            "CargaNuevaKg": 10.0
+          }
+        ]
+      },
+      {
+        "Nombre": "Sentadilla",
+        "Series": 2,
+        "Repeticiones": 10,
+        "CargaKg": 10.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Press militar",
+        "Series": 3,
+        "Repeticiones": 10,
+        "CargaKg": 12.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "b4d225a8-45f9-4b98-9964-06f5f7f07880",
+    "Nombre": "Rutina demo 03",
+    "NombreUsuarioCliente": "cliente.demo32",
+    "NombreUsuarioEntrenador": "entrenador.demo02",
+    "FechaInicio": "2026-11-09",
+    "FechaFin": "2026-11-15",
+    "FechaAsignacion": "2026-11-09",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Puente de gl\u00FAteos",
+        "Series": 2,
+        "Repeticiones": 11,
+        "CargaKg": 12.5,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-11",
+            "CargaAnteriorKg": 10.0,
+            "CargaNuevaKg": 12.5
+          }
+        ]
+      },
+      {
+        "Nombre": "Peso muerto rumano",
+        "Series": 3,
+        "Repeticiones": 9,
+        "CargaKg": 12.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Curl de b\u00EDceps",
+        "Series": 4,
+        "Repeticiones": 9,
+        "CargaKg": 15.0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "de5c684e-ba3b-4a62-9fec-4b4207ca47be",
+    "Nombre": "Rutina demo 04",
+    "NombreUsuarioCliente": "cliente.demo32",
+    "NombreUsuarioEntrenador": "entrenador.demo02",
+    "FechaInicio": "2026-11-16",
+    "FechaFin": "2026-11-22",
+    "FechaAsignacion": "2026-11-16",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Press de banca",
+        "Series": 3,
+        "Repeticiones": 8,
+        "CargaKg": 15.0,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-18",
+            "CargaAnteriorKg": 12.5,
+            "CargaNuevaKg": 15.0
+          }
+        ]
+      },
+      {
+        "Nombre": "Jal\u00F3n al pecho",
+        "Series": 4,
+        "Repeticiones": 8,
+        "CargaKg": 15.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Extensi\u00F3n de tr\u00EDceps",
+        "Series": 2,
+        "Repeticiones": 8,
+        "CargaKg": 17.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "7d8d9bec-a814-479c-a404-83dfcb849f3b",
+    "Nombre": "Rutina demo 05",
+    "NombreUsuarioCliente": "cliente.demo32",
+    "NombreUsuarioEntrenador": "entrenador.demo02",
+    "FechaInicio": "2026-11-23",
+    "FechaFin": "2026-11-29",
+    "FechaAsignacion": "2026-11-23",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Plancha",
+        "Series": 4,
+        "Repeticiones": 1,
+        "CargaKg": 0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Elevaci\u00F3n lateral",
+        "Series": 2,
+        "Repeticiones": 12,
+        "CargaKg": 17.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Remo con mancuerna",
+        "Series": 3,
+        "Repeticiones": 10,
+        "CargaKg": 20.0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "2ff07332-5aee-4f86-a3fc-9fd187a43838",
+    "Nombre": "Rutina demo 01",
+    "NombreUsuarioCliente": "cliente.demo33",
+    "NombreUsuarioEntrenador": "entrenador.demo03",
+    "FechaInicio": "2026-10-26",
+    "FechaFin": "2026-11-01",
+    "FechaAsignacion": "2026-10-26",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Extensi\u00F3n de tr\u00EDceps",
+        "Series": 3,
+        "Repeticiones": 10,
+        "CargaKg": 10.0,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-10-28",
+            "CargaAnteriorKg": 7.5,
+            "CargaNuevaKg": 10.0
+          }
+        ]
+      },
+      {
+        "Nombre": "Plancha",
+        "Series": 4,
+        "Repeticiones": 1,
+        "CargaKg": 0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Elevaci\u00F3n lateral",
+        "Series": 2,
+        "Repeticiones": 8,
+        "CargaKg": 12.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "9cfabbb2-d234-4add-a383-e87e5861efb5",
+    "Nombre": "Rutina demo 02",
+    "NombreUsuarioCliente": "cliente.demo33",
+    "NombreUsuarioEntrenador": "entrenador.demo03",
+    "FechaInicio": "2026-11-02",
+    "FechaFin": "2026-11-08",
+    "FechaAsignacion": "2026-11-02",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Remo con mancuerna",
+        "Series": 4,
+        "Repeticiones": 12,
+        "CargaKg": 12.5,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-04",
+            "CargaAnteriorKg": 10.0,
+            "CargaNuevaKg": 12.5
+          }
+        ]
+      },
+      {
+        "Nombre": "Zancadas",
+        "Series": 2,
+        "Repeticiones": 12,
+        "CargaKg": 12.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Sentadilla",
+        "Series": 3,
+        "Repeticiones": 10,
+        "CargaKg": 15.0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "7152d7d9-54f0-4e4f-8a68-997e9ebb936c",
+    "Nombre": "Rutina demo 03",
+    "NombreUsuarioCliente": "cliente.demo33",
+    "NombreUsuarioEntrenador": "entrenador.demo03",
+    "FechaInicio": "2026-11-09",
+    "FechaFin": "2026-11-15",
+    "FechaAsignacion": "2026-11-09",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Press militar",
+        "Series": 2,
+        "Repeticiones": 11,
+        "CargaKg": 15.0,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-11",
+            "CargaAnteriorKg": 12.5,
+            "CargaNuevaKg": 15.0
+          }
+        ]
+      },
+      {
+        "Nombre": "Puente de gl\u00FAteos",
+        "Series": 3,
+        "Repeticiones": 11,
+        "CargaKg": 15.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Peso muerto rumano",
+        "Series": 4,
+        "Repeticiones": 9,
+        "CargaKg": 17.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "023c0d59-545f-4426-a92d-ae01834eb9e6",
+    "Nombre": "Rutina demo 04",
+    "NombreUsuarioCliente": "cliente.demo33",
+    "NombreUsuarioEntrenador": "entrenador.demo03",
+    "FechaInicio": "2026-11-16",
+    "FechaFin": "2026-11-22",
+    "FechaAsignacion": "2026-11-16",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Curl de b\u00EDceps",
+        "Series": 3,
+        "Repeticiones": 10,
+        "CargaKg": 17.5,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-18",
+            "CargaAnteriorKg": 15.0,
+            "CargaNuevaKg": 17.5
+          }
+        ]
+      },
+      {
+        "Nombre": "Press de banca",
+        "Series": 4,
+        "Repeticiones": 8,
+        "CargaKg": 17.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Jal\u00F3n al pecho",
+        "Series": 2,
+        "Repeticiones": 8,
+        "CargaKg": 20.0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "f634630b-8898-4d5a-8fa0-061092fea467",
+    "Nombre": "Rutina demo 05",
+    "NombreUsuarioCliente": "cliente.demo33",
+    "NombreUsuarioEntrenador": "entrenador.demo03",
+    "FechaInicio": "2026-11-23",
+    "FechaFin": "2026-11-29",
+    "FechaAsignacion": "2026-11-23",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Extensi\u00F3n de tr\u00EDceps",
+        "Series": 4,
+        "Repeticiones": 9,
+        "CargaKg": 17.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Plancha",
+        "Series": 2,
+        "Repeticiones": 1,
+        "CargaKg": 0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Elevaci\u00F3n lateral",
+        "Series": 3,
+        "Repeticiones": 12,
+        "CargaKg": 22.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "68c8d99c-3a04-42d1-8165-6ebe0f8327e9",
+    "Nombre": "Rutina demo 01",
+    "NombreUsuarioCliente": "cliente.demo34",
+    "NombreUsuarioEntrenador": "entrenador.demo04",
+    "FechaInicio": "2026-10-26",
+    "FechaFin": "2026-11-01",
+    "FechaAsignacion": "2026-10-26",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Jal\u00F3n al pecho",
+        "Series": 3,
+        "Repeticiones": 10,
+        "CargaKg": 12.5,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-10-28",
+            "CargaAnteriorKg": 10.0,
+            "CargaNuevaKg": 12.5
+          }
+        ]
+      },
+      {
+        "Nombre": "Extensi\u00F3n de tr\u00EDceps",
+        "Series": 4,
+        "Repeticiones": 10,
+        "CargaKg": 12.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Plancha",
+        "Series": 2,
+        "Repeticiones": 1,
+        "CargaKg": 0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "8178d6a6-3dd0-465d-80ed-9af13804b72a",
+    "Nombre": "Rutina demo 02",
+    "NombreUsuarioCliente": "cliente.demo34",
+    "NombreUsuarioEntrenador": "entrenador.demo04",
+    "FechaInicio": "2026-11-02",
+    "FechaFin": "2026-11-08",
+    "FechaAsignacion": "2026-11-02",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Elevaci\u00F3n lateral",
+        "Series": 4,
+        "Repeticiones": 9,
+        "CargaKg": 15.0,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-04",
+            "CargaAnteriorKg": 12.5,
+            "CargaNuevaKg": 15.0
+          }
+        ]
+      },
+      {
+        "Nombre": "Remo con mancuerna",
+        "Series": 2,
+        "Repeticiones": 12,
+        "CargaKg": 15.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Zancadas",
+        "Series": 3,
+        "Repeticiones": 12,
+        "CargaKg": 17.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "dcd2add9-153c-472d-948c-1ab2bc600ba3",
+    "Nombre": "Rutina demo 03",
+    "NombreUsuarioCliente": "cliente.demo34",
+    "NombreUsuarioEntrenador": "entrenador.demo04",
+    "FechaInicio": "2026-11-09",
+    "FechaFin": "2026-11-15",
+    "FechaAsignacion": "2026-11-09",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Sentadilla",
+        "Series": 2,
+        "Repeticiones": 11,
+        "CargaKg": 17.5,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-11",
+            "CargaAnteriorKg": 15.0,
+            "CargaNuevaKg": 17.5
+          }
+        ]
+      },
+      {
+        "Nombre": "Press militar",
+        "Series": 3,
+        "Repeticiones": 11,
+        "CargaKg": 17.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Puente de gl\u00FAteos",
+        "Series": 4,
+        "Repeticiones": 11,
+        "CargaKg": 20.0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "6f97d54f-207a-4160-b107-119f059ae5f9",
+    "Nombre": "Rutina demo 04",
+    "NombreUsuarioCliente": "cliente.demo34",
+    "NombreUsuarioEntrenador": "entrenador.demo04",
+    "FechaInicio": "2026-11-16",
+    "FechaFin": "2026-11-22",
+    "FechaAsignacion": "2026-11-16",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Peso muerto rumano",
+        "Series": 3,
+        "Repeticiones": 10,
+        "CargaKg": 20.0,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-18",
+            "CargaAnteriorKg": 17.5,
+            "CargaNuevaKg": 20.0
+          }
+        ]
+      },
+      {
+        "Nombre": "Curl de b\u00EDceps",
+        "Series": 4,
+        "Repeticiones": 10,
+        "CargaKg": 20.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Press de banca",
+        "Series": 2,
+        "Repeticiones": 8,
+        "CargaKg": 22.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "430d7405-f358-4ea8-a858-c0c1b32b4313",
+    "Nombre": "Rutina demo 05",
+    "NombreUsuarioCliente": "cliente.demo34",
+    "NombreUsuarioEntrenador": "entrenador.demo04",
+    "FechaInicio": "2026-11-23",
+    "FechaFin": "2026-11-29",
+    "FechaAsignacion": "2026-11-23",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Jal\u00F3n al pecho",
+        "Series": 4,
+        "Repeticiones": 9,
+        "CargaKg": 20.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Extensi\u00F3n de tr\u00EDceps",
+        "Series": 2,
+        "Repeticiones": 9,
+        "CargaKg": 22.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Plancha",
+        "Series": 3,
+        "Repeticiones": 1,
+        "CargaKg": 0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "db438dd5-6ce0-45a3-a112-9e836b89638c",
+    "Nombre": "Rutina demo 01",
+    "NombreUsuarioCliente": "cliente.demo35",
+    "NombreUsuarioEntrenador": "entrenador.demo05",
+    "FechaInicio": "2026-10-26",
+    "FechaFin": "2026-11-01",
+    "FechaAsignacion": "2026-10-26",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Press de banca",
+        "Series": 3,
+        "Repeticiones": 10,
+        "CargaKg": 15.0,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-10-28",
+            "CargaAnteriorKg": 12.5,
+            "CargaNuevaKg": 15.0
+          }
+        ]
+      },
+      {
+        "Nombre": "Jal\u00F3n al pecho",
+        "Series": 4,
+        "Repeticiones": 10,
+        "CargaKg": 15.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Extensi\u00F3n de tr\u00EDceps",
+        "Series": 2,
+        "Repeticiones": 10,
+        "CargaKg": 17.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "52e00752-c928-4fbf-b086-c5f003a25c2a",
+    "Nombre": "Rutina demo 02",
+    "NombreUsuarioCliente": "cliente.demo35",
+    "NombreUsuarioEntrenador": "entrenador.demo05",
+    "FechaInicio": "2026-11-02",
+    "FechaFin": "2026-11-08",
+    "FechaAsignacion": "2026-11-02",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Plancha",
+        "Series": 4,
+        "Repeticiones": 1,
+        "CargaKg": 0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Elevaci\u00F3n lateral",
+        "Series": 2,
+        "Repeticiones": 9,
+        "CargaKg": 17.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Remo con mancuerna",
+        "Series": 3,
+        "Repeticiones": 12,
+        "CargaKg": 20.0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "a60eb3eb-3d1d-4324-b2d7-8e79edec889c",
+    "Nombre": "Rutina demo 03",
+    "NombreUsuarioCliente": "cliente.demo35",
+    "NombreUsuarioEntrenador": "entrenador.demo05",
+    "FechaInicio": "2026-11-09",
+    "FechaFin": "2026-11-15",
+    "FechaAsignacion": "2026-11-09",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Zancadas",
+        "Series": 2,
+        "Repeticiones": 8,
+        "CargaKg": 20.0,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-11",
+            "CargaAnteriorKg": 17.5,
+            "CargaNuevaKg": 20.0
+          }
+        ]
+      },
+      {
+        "Nombre": "Sentadilla",
+        "Series": 3,
+        "Repeticiones": 11,
+        "CargaKg": 20.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Press militar",
+        "Series": 4,
+        "Repeticiones": 11,
+        "CargaKg": 22.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "c452abe0-9456-4952-ae4c-b6268ca52536",
+    "Nombre": "Rutina demo 04",
+    "NombreUsuarioCliente": "cliente.demo35",
+    "NombreUsuarioEntrenador": "entrenador.demo05",
+    "FechaInicio": "2026-11-16",
+    "FechaFin": "2026-11-22",
+    "FechaAsignacion": "2026-11-16",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Puente de gl\u00FAteos",
+        "Series": 3,
+        "Repeticiones": 12,
+        "CargaKg": 22.5,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-18",
+            "CargaAnteriorKg": 20.0,
+            "CargaNuevaKg": 22.5
+          }
+        ]
+      },
+      {
+        "Nombre": "Peso muerto rumano",
+        "Series": 4,
+        "Repeticiones": 10,
+        "CargaKg": 22.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Curl de b\u00EDceps",
+        "Series": 2,
+        "Repeticiones": 10,
+        "CargaKg": 5.0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "4cd0e41f-7a2d-44de-9e1d-46d14dc30fcd",
+    "Nombre": "Rutina demo 05",
+    "NombreUsuarioCliente": "cliente.demo35",
+    "NombreUsuarioEntrenador": "entrenador.demo05",
+    "FechaInicio": "2026-11-23",
+    "FechaFin": "2026-11-29",
+    "FechaAsignacion": "2026-11-23",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Press de banca",
+        "Series": 4,
+        "Repeticiones": 9,
+        "CargaKg": 22.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Jal\u00F3n al pecho",
+        "Series": 2,
+        "Repeticiones": 9,
+        "CargaKg": 5.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Extensi\u00F3n de tr\u00EDceps",
+        "Series": 3,
+        "Repeticiones": 9,
+        "CargaKg": 7.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "7d6f0579-4be9-446d-9ae9-c740b239ab31",
+    "Nombre": "Rutina demo 01",
+    "NombreUsuarioCliente": "cliente.demo36",
+    "NombreUsuarioEntrenador": "entrenador.demo06",
+    "FechaInicio": "2026-10-26",
+    "FechaFin": "2026-11-01",
+    "FechaAsignacion": "2026-10-26",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Curl de b\u00EDceps",
+        "Series": 3,
+        "Repeticiones": 12,
+        "CargaKg": 17.5,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-10-28",
+            "CargaAnteriorKg": 15.0,
+            "CargaNuevaKg": 17.5
+          }
+        ]
+      },
+      {
+        "Nombre": "Press de banca",
+        "Series": 4,
+        "Repeticiones": 10,
+        "CargaKg": 17.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Jal\u00F3n al pecho",
+        "Series": 2,
+        "Repeticiones": 10,
+        "CargaKg": 20.0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "f1b91ff9-fc55-4261-9624-1e710d6e85c7",
+    "Nombre": "Rutina demo 02",
+    "NombreUsuarioCliente": "cliente.demo36",
+    "NombreUsuarioEntrenador": "entrenador.demo06",
+    "FechaInicio": "2026-11-02",
+    "FechaFin": "2026-11-08",
+    "FechaAsignacion": "2026-11-02",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Extensi\u00F3n de tr\u00EDceps",
+        "Series": 4,
+        "Repeticiones": 11,
+        "CargaKg": 20.0,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-04",
+            "CargaAnteriorKg": 17.5,
+            "CargaNuevaKg": 20.0
+          }
+        ]
+      },
+      {
+        "Nombre": "Plancha",
+        "Series": 2,
+        "Repeticiones": 1,
+        "CargaKg": 0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Elevaci\u00F3n lateral",
+        "Series": 3,
+        "Repeticiones": 9,
+        "CargaKg": 22.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "65498249-7bb4-44d8-9ed3-dcc10da3bd5f",
+    "Nombre": "Rutina demo 03",
+    "NombreUsuarioCliente": "cliente.demo36",
+    "NombreUsuarioEntrenador": "entrenador.demo06",
+    "FechaInicio": "2026-11-09",
+    "FechaFin": "2026-11-15",
+    "FechaAsignacion": "2026-11-09",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Remo con mancuerna",
+        "Series": 2,
+        "Repeticiones": 8,
+        "CargaKg": 22.5,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-11",
+            "CargaAnteriorKg": 20.0,
+            "CargaNuevaKg": 22.5
+          }
+        ]
+      },
+      {
+        "Nombre": "Zancadas",
+        "Series": 3,
+        "Repeticiones": 8,
+        "CargaKg": 22.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Sentadilla",
+        "Series": 4,
+        "Repeticiones": 11,
+        "CargaKg": 5.0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "605ef4b0-072e-45ed-a990-fcb80e8f9b51",
+    "Nombre": "Rutina demo 04",
+    "NombreUsuarioCliente": "cliente.demo36",
+    "NombreUsuarioEntrenador": "entrenador.demo06",
+    "FechaInicio": "2026-11-16",
+    "FechaFin": "2026-11-22",
+    "FechaAsignacion": "2026-11-16",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Press militar",
+        "Series": 3,
+        "Repeticiones": 12,
+        "CargaKg": 25.0,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-18",
+            "CargaAnteriorKg": 22.5,
+            "CargaNuevaKg": 25.0
+          }
+        ]
+      },
+      {
+        "Nombre": "Puente de gl\u00FAteos",
+        "Series": 4,
+        "Repeticiones": 12,
+        "CargaKg": 5.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Peso muerto rumano",
+        "Series": 2,
+        "Repeticiones": 10,
+        "CargaKg": 7.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "29ae6eab-f996-4dd2-b42e-a363d9e2df5b",
+    "Nombre": "Rutina demo 05",
+    "NombreUsuarioCliente": "cliente.demo36",
+    "NombreUsuarioEntrenador": "entrenador.demo06",
+    "FechaInicio": "2026-11-23",
+    "FechaFin": "2026-11-29",
+    "FechaAsignacion": "2026-11-23",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Curl de b\u00EDceps",
+        "Series": 4,
+        "Repeticiones": 11,
+        "CargaKg": 5.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Press de banca",
+        "Series": 2,
+        "Repeticiones": 9,
+        "CargaKg": 7.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Jal\u00F3n al pecho",
+        "Series": 3,
+        "Repeticiones": 9,
+        "CargaKg": 10.0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "074e3c14-7c4e-4a95-b191-6f4f69950c9a",
+    "Nombre": "Rutina demo 01",
+    "NombreUsuarioCliente": "cliente.demo37",
+    "NombreUsuarioEntrenador": "entrenador.demo07",
+    "FechaInicio": "2026-10-26",
+    "FechaFin": "2026-11-01",
+    "FechaAsignacion": "2026-10-26",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Peso muerto rumano",
+        "Series": 3,
+        "Repeticiones": 12,
+        "CargaKg": 20.0,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-10-28",
+            "CargaAnteriorKg": 17.5,
+            "CargaNuevaKg": 20.0
+          }
+        ]
+      },
+      {
+        "Nombre": "Curl de b\u00EDceps",
+        "Series": 4,
+        "Repeticiones": 12,
+        "CargaKg": 20.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Press de banca",
+        "Series": 2,
+        "Repeticiones": 10,
+        "CargaKg": 22.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "1590b75f-c74a-4dcf-94f2-4a36faaa41e1",
+    "Nombre": "Rutina demo 02",
+    "NombreUsuarioCliente": "cliente.demo37",
+    "NombreUsuarioEntrenador": "entrenador.demo07",
+    "FechaInicio": "2026-11-02",
+    "FechaFin": "2026-11-08",
+    "FechaAsignacion": "2026-11-02",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Jal\u00F3n al pecho",
+        "Series": 4,
+        "Repeticiones": 11,
+        "CargaKg": 22.5,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-04",
+            "CargaAnteriorKg": 20.0,
+            "CargaNuevaKg": 22.5
+          }
+        ]
+      },
+      {
+        "Nombre": "Extensi\u00F3n de tr\u00EDceps",
+        "Series": 2,
+        "Repeticiones": 11,
+        "CargaKg": 22.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Plancha",
+        "Series": 3,
+        "Repeticiones": 1,
+        "CargaKg": 0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "5b064d02-007f-4c37-9c84-96a0dde411c6",
+    "Nombre": "Rutina demo 03",
+    "NombreUsuarioCliente": "cliente.demo37",
+    "NombreUsuarioEntrenador": "entrenador.demo07",
+    "FechaInicio": "2026-11-09",
+    "FechaFin": "2026-11-15",
+    "FechaAsignacion": "2026-11-09",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Elevaci\u00F3n lateral",
+        "Series": 2,
+        "Repeticiones": 10,
+        "CargaKg": 25.0,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-11",
+            "CargaAnteriorKg": 22.5,
+            "CargaNuevaKg": 25.0
+          }
+        ]
+      },
+      {
+        "Nombre": "Remo con mancuerna",
+        "Series": 3,
+        "Repeticiones": 8,
+        "CargaKg": 5.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Zancadas",
+        "Series": 4,
+        "Repeticiones": 8,
+        "CargaKg": 7.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "61e36f8f-2946-4308-89a8-0f73d35d0cac",
+    "Nombre": "Rutina demo 04",
+    "NombreUsuarioCliente": "cliente.demo37",
+    "NombreUsuarioEntrenador": "entrenador.demo07",
+    "FechaInicio": "2026-11-16",
+    "FechaFin": "2026-11-22",
+    "FechaAsignacion": "2026-11-16",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Sentadilla",
+        "Series": 3,
+        "Repeticiones": 12,
+        "CargaKg": 7.5,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-18",
+            "CargaAnteriorKg": 5.0,
+            "CargaNuevaKg": 7.5
+          }
+        ]
+      },
+      {
+        "Nombre": "Press militar",
+        "Series": 4,
+        "Repeticiones": 12,
+        "CargaKg": 7.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Puente de gl\u00FAteos",
+        "Series": 2,
+        "Repeticiones": 12,
+        "CargaKg": 10.0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "b96e065c-ae4f-4b8f-87dc-64e2c5a588ea",
+    "Nombre": "Rutina demo 05",
+    "NombreUsuarioCliente": "cliente.demo37",
+    "NombreUsuarioEntrenador": "entrenador.demo07",
+    "FechaInicio": "2026-11-23",
+    "FechaFin": "2026-11-29",
+    "FechaAsignacion": "2026-11-23",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Peso muerto rumano",
+        "Series": 4,
+        "Repeticiones": 11,
+        "CargaKg": 7.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Curl de b\u00EDceps",
+        "Series": 2,
+        "Repeticiones": 11,
+        "CargaKg": 10.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Press de banca",
+        "Series": 3,
+        "Repeticiones": 9,
+        "CargaKg": 12.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "ccc647ed-f6ed-43b5-be02-9a4b3455fc08",
+    "Nombre": "Rutina demo 01",
+    "NombreUsuarioCliente": "cliente.demo38",
+    "NombreUsuarioEntrenador": "entrenador.demo08",
+    "FechaInicio": "2026-10-26",
+    "FechaFin": "2026-11-01",
+    "FechaAsignacion": "2026-10-26",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Puente de gl\u00FAteos",
+        "Series": 3,
+        "Repeticiones": 9,
+        "CargaKg": 22.5,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-10-28",
+            "CargaAnteriorKg": 20.0,
+            "CargaNuevaKg": 22.5
+          }
+        ]
+      },
+      {
+        "Nombre": "Peso muerto rumano",
+        "Series": 4,
+        "Repeticiones": 12,
+        "CargaKg": 22.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Curl de b\u00EDceps",
+        "Series": 2,
+        "Repeticiones": 12,
+        "CargaKg": 5.0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "b87dc462-3123-4252-bc78-7c339c0bb6b1",
+    "Nombre": "Rutina demo 02",
+    "NombreUsuarioCliente": "cliente.demo38",
+    "NombreUsuarioEntrenador": "entrenador.demo08",
+    "FechaInicio": "2026-11-02",
+    "FechaFin": "2026-11-08",
+    "FechaAsignacion": "2026-11-02",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Press de banca",
+        "Series": 4,
+        "Repeticiones": 11,
+        "CargaKg": 25.0,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-04",
+            "CargaAnteriorKg": 22.5,
+            "CargaNuevaKg": 25.0
+          }
+        ]
+      },
+      {
+        "Nombre": "Jal\u00F3n al pecho",
+        "Series": 2,
+        "Repeticiones": 11,
+        "CargaKg": 5.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Extensi\u00F3n de tr\u00EDceps",
+        "Series": 3,
+        "Repeticiones": 11,
+        "CargaKg": 7.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "0b5d5238-d3f0-4250-a043-1675a645943d",
+    "Nombre": "Rutina demo 03",
+    "NombreUsuarioCliente": "cliente.demo38",
+    "NombreUsuarioEntrenador": "entrenador.demo08",
+    "FechaInicio": "2026-11-09",
+    "FechaFin": "2026-11-15",
+    "FechaAsignacion": "2026-11-09",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Plancha",
+        "Series": 2,
+        "Repeticiones": 1,
+        "CargaKg": 0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Elevaci\u00F3n lateral",
+        "Series": 3,
+        "Repeticiones": 10,
+        "CargaKg": 7.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Remo con mancuerna",
+        "Series": 4,
+        "Repeticiones": 8,
+        "CargaKg": 10.0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "1b5ce8c5-eccd-4d27-a536-3d6fb3e3d8eb",
+    "Nombre": "Rutina demo 04",
+    "NombreUsuarioCliente": "cliente.demo38",
+    "NombreUsuarioEntrenador": "entrenador.demo08",
+    "FechaInicio": "2026-11-16",
+    "FechaFin": "2026-11-22",
+    "FechaAsignacion": "2026-11-16",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Zancadas",
+        "Series": 3,
+        "Repeticiones": 9,
+        "CargaKg": 10.0,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-18",
+            "CargaAnteriorKg": 7.5,
+            "CargaNuevaKg": 10.0
+          }
+        ]
+      },
+      {
+        "Nombre": "Sentadilla",
+        "Series": 4,
+        "Repeticiones": 12,
+        "CargaKg": 10.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Press militar",
+        "Series": 2,
+        "Repeticiones": 12,
+        "CargaKg": 12.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "8edaee36-bdff-4644-b9cd-27173d6a76ed",
+    "Nombre": "Rutina demo 05",
+    "NombreUsuarioCliente": "cliente.demo38",
+    "NombreUsuarioEntrenador": "entrenador.demo08",
+    "FechaInicio": "2026-11-23",
+    "FechaFin": "2026-11-29",
+    "FechaAsignacion": "2026-11-23",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Puente de gl\u00FAteos",
+        "Series": 4,
+        "Repeticiones": 8,
+        "CargaKg": 10.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Peso muerto rumano",
+        "Series": 2,
+        "Repeticiones": 11,
+        "CargaKg": 12.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Curl de b\u00EDceps",
+        "Series": 3,
+        "Repeticiones": 11,
+        "CargaKg": 15.0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "9ac4fb63-2aec-41de-a6e0-04881cbda08b",
+    "Nombre": "Rutina demo 01",
+    "NombreUsuarioCliente": "cliente.demo39",
+    "NombreUsuarioEntrenador": "entrenador.demo09",
+    "FechaInicio": "2026-10-26",
+    "FechaFin": "2026-11-01",
+    "FechaAsignacion": "2026-10-26",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Press militar",
+        "Series": 3,
+        "Repeticiones": 9,
+        "CargaKg": 25.0,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-10-28",
+            "CargaAnteriorKg": 22.5,
+            "CargaNuevaKg": 25.0
+          }
+        ]
+      },
+      {
+        "Nombre": "Puente de gl\u00FAteos",
+        "Series": 4,
+        "Repeticiones": 9,
+        "CargaKg": 5.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Peso muerto rumano",
+        "Series": 2,
+        "Repeticiones": 12,
+        "CargaKg": 7.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "db11eb85-93ad-4edd-99f6-94926791c8cc",
+    "Nombre": "Rutina demo 02",
+    "NombreUsuarioCliente": "cliente.demo39",
+    "NombreUsuarioEntrenador": "entrenador.demo09",
+    "FechaInicio": "2026-11-02",
+    "FechaFin": "2026-11-08",
+    "FechaAsignacion": "2026-11-02",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Curl de b\u00EDceps",
+        "Series": 4,
+        "Repeticiones": 8,
+        "CargaKg": 7.5,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-04",
+            "CargaAnteriorKg": 5.0,
+            "CargaNuevaKg": 7.5
+          }
+        ]
+      },
+      {
+        "Nombre": "Press de banca",
+        "Series": 2,
+        "Repeticiones": 11,
+        "CargaKg": 7.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Jal\u00F3n al pecho",
+        "Series": 3,
+        "Repeticiones": 11,
+        "CargaKg": 10.0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "20b0b014-db7d-4d40-8ef0-777179f90523",
+    "Nombre": "Rutina demo 03",
+    "NombreUsuarioCliente": "cliente.demo39",
+    "NombreUsuarioEntrenador": "entrenador.demo09",
+    "FechaInicio": "2026-11-09",
+    "FechaFin": "2026-11-15",
+    "FechaAsignacion": "2026-11-09",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Extensi\u00F3n de tr\u00EDceps",
+        "Series": 2,
+        "Repeticiones": 12,
+        "CargaKg": 10.0,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-11",
+            "CargaAnteriorKg": 7.5,
+            "CargaNuevaKg": 10.0
+          }
+        ]
+      },
+      {
+        "Nombre": "Plancha",
+        "Series": 3,
+        "Repeticiones": 1,
+        "CargaKg": 0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Elevaci\u00F3n lateral",
+        "Series": 4,
+        "Repeticiones": 10,
+        "CargaKg": 12.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "572a3484-957b-4f51-b862-2940716b463d",
+    "Nombre": "Rutina demo 04",
+    "NombreUsuarioCliente": "cliente.demo39",
+    "NombreUsuarioEntrenador": "entrenador.demo09",
+    "FechaInicio": "2026-11-16",
+    "FechaFin": "2026-11-22",
+    "FechaAsignacion": "2026-11-16",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Remo con mancuerna",
+        "Series": 3,
+        "Repeticiones": 9,
+        "CargaKg": 12.5,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-18",
+            "CargaAnteriorKg": 10.0,
+            "CargaNuevaKg": 12.5
+          }
+        ]
+      },
+      {
+        "Nombre": "Zancadas",
+        "Series": 4,
+        "Repeticiones": 9,
+        "CargaKg": 12.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Sentadilla",
+        "Series": 2,
+        "Repeticiones": 12,
+        "CargaKg": 15.0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "813c571c-b5da-40ba-ab46-7413bfd74802",
+    "Nombre": "Rutina demo 05",
+    "NombreUsuarioCliente": "cliente.demo39",
+    "NombreUsuarioEntrenador": "entrenador.demo09",
+    "FechaInicio": "2026-11-23",
+    "FechaFin": "2026-11-29",
+    "FechaAsignacion": "2026-11-23",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Press militar",
+        "Series": 4,
+        "Repeticiones": 8,
+        "CargaKg": 12.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Puente de gl\u00FAteos",
+        "Series": 2,
+        "Repeticiones": 8,
+        "CargaKg": 15.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Peso muerto rumano",
+        "Series": 3,
+        "Repeticiones": 11,
+        "CargaKg": 17.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "05562bf4-53ee-4d2d-8015-bb73d29dc9e9",
+    "Nombre": "Rutina demo 01",
+    "NombreUsuarioCliente": "cliente.demo40",
+    "NombreUsuarioEntrenador": "entrenador.demo10",
+    "FechaInicio": "2026-10-26",
+    "FechaFin": "2026-11-01",
+    "FechaAsignacion": "2026-10-26",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Sentadilla",
+        "Series": 3,
+        "Repeticiones": 9,
+        "CargaKg": 7.5,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-10-28",
+            "CargaAnteriorKg": 5.0,
+            "CargaNuevaKg": 7.5
+          }
+        ]
+      },
+      {
+        "Nombre": "Press militar",
+        "Series": 4,
+        "Repeticiones": 9,
+        "CargaKg": 7.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Puente de gl\u00FAteos",
+        "Series": 2,
+        "Repeticiones": 9,
+        "CargaKg": 10.0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "b96a330d-d2ab-43ba-a94f-2de25e8c4323",
+    "Nombre": "Rutina demo 02",
+    "NombreUsuarioCliente": "cliente.demo40",
+    "NombreUsuarioEntrenador": "entrenador.demo10",
+    "FechaInicio": "2026-11-02",
+    "FechaFin": "2026-11-08",
+    "FechaAsignacion": "2026-11-02",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Peso muerto rumano",
+        "Series": 4,
+        "Repeticiones": 8,
+        "CargaKg": 10.0,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-04",
+            "CargaAnteriorKg": 7.5,
+            "CargaNuevaKg": 10.0
+          }
+        ]
+      },
+      {
+        "Nombre": "Curl de b\u00EDceps",
+        "Series": 2,
+        "Repeticiones": 8,
+        "CargaKg": 10.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Press de banca",
+        "Series": 3,
+        "Repeticiones": 11,
+        "CargaKg": 12.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "b9c5c43f-26f2-46a0-8d68-e62c0e018a33",
+    "Nombre": "Rutina demo 03",
+    "NombreUsuarioCliente": "cliente.demo40",
+    "NombreUsuarioEntrenador": "entrenador.demo10",
+    "FechaInicio": "2026-11-09",
+    "FechaFin": "2026-11-15",
+    "FechaAsignacion": "2026-11-09",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Jal\u00F3n al pecho",
+        "Series": 2,
+        "Repeticiones": 12,
+        "CargaKg": 12.5,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-11",
+            "CargaAnteriorKg": 10.0,
+            "CargaNuevaKg": 12.5
+          }
+        ]
+      },
+      {
+        "Nombre": "Extensi\u00F3n de tr\u00EDceps",
+        "Series": 3,
+        "Repeticiones": 12,
+        "CargaKg": 12.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Plancha",
+        "Series": 4,
+        "Repeticiones": 1,
+        "CargaKg": 0,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "01e1de3c-23f5-49b8-a01c-7a152c1aa34b",
+    "Nombre": "Rutina demo 04",
+    "NombreUsuarioCliente": "cliente.demo40",
+    "NombreUsuarioEntrenador": "entrenador.demo10",
+    "FechaInicio": "2026-11-16",
+    "FechaFin": "2026-11-22",
+    "FechaAsignacion": "2026-11-16",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Elevaci\u00F3n lateral",
+        "Series": 3,
+        "Repeticiones": 11,
+        "CargaKg": 15.0,
+        "HistorialCargas": [
+          {
+            "Fecha": "2026-11-18",
+            "CargaAnteriorKg": 12.5,
+            "CargaNuevaKg": 15.0
+          }
+        ]
+      },
+      {
+        "Nombre": "Remo con mancuerna",
+        "Series": 4,
+        "Repeticiones": 9,
+        "CargaKg": 15.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Zancadas",
+        "Series": 2,
+        "Repeticiones": 9,
+        "CargaKg": 17.5,
+        "HistorialCargas": []
+      }
+    ]
+  },
+  {
+    "Id": "8602c421-96a0-4cb5-a55e-68303bc4f3b0",
+    "Nombre": "Rutina demo 05",
+    "NombreUsuarioCliente": "cliente.demo40",
+    "NombreUsuarioEntrenador": "entrenador.demo10",
+    "FechaInicio": "2026-11-23",
+    "FechaFin": "2026-11-29",
+    "FechaAsignacion": "2026-11-23",
+    "Retirada": false,
+    "Ejercicios": [
+      {
+        "Nombre": "Sentadilla",
+        "Series": 4,
+        "Repeticiones": 8,
+        "CargaKg": 15.0,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Press militar",
+        "Series": 2,
+        "Repeticiones": 8,
+        "CargaKg": 17.5,
+        "HistorialCargas": []
+      },
+      {
+        "Nombre": "Puente de gl\u00FAteos",
+        "Series": 3,
+        "Repeticiones": 8,
+        "CargaKg": 20.0,
+        "HistorialCargas": []
+      }
+    ]
+  }
+]
